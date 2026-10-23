@@ -20,7 +20,7 @@ Misleading or fraudulent TDAC websites may exhibit the following warning signs:
 
 - **Government impersonation:** Falsely claiming or implying affiliation with Thai immigration authorities.
 - **Misleading fees:** Suggesting payment is mandatory for the free TDAC application.
-- **Deceptive advertising:** Making advertisements or commercial websites appear to be official government services.
+- **Deceptive promotion:** Using misleading advertisements, fake reviews, astroturfing, or black-hat SEO tactics to manipulate public perception, credibility, or search visibility.
 - **Hidden disclosures:** Obscuring commercial status, pricing, or the availability of the free official service.
 - **Misleading claims:** Providing inaccurate information about requirements, deadlines, processing, or approval.
 - **Privacy concerns:** Failing to clearly explain how passport, personal, or financial information is handled.
@@ -44,8 +44,8 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 
 ## Website Comparison
 
-| Domain | Government Impersonation | Misleading Fees | Deceptive Advertising | Hidden Disclosures | Misleading Claims | Privacy Concerns | Billing or Service Issues |
+| Domain | Government Impersonation | Misleading Fees | Deceptive Promotion | Hidden Disclosures | Misleading Claims | Privacy Concerns | Billing or Service Issues |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| `tdac.in.th` | ✓ |  |  |  |  | ✓ |  |
-| `tdac.agents.co.th` | ✓ |  |  |  |  | ✓ |  |
-| `agents.co.th` |  |  |  |  |  | ✓ |  |
+| `tdac.in.th` | ✓ |  | ✓ |  |  | ✓ |  |
+| `tdac.agents.co.th` | ✓ |  | ✓ |  |  | ✓ |  |
+| `agents.co.th` |  |  | ✓ |  |  | ✓ |  |
