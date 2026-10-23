@@ -15,3 +15,7 @@ The website currently displays a small disclaimer denying affiliation with the T
 ## Misleading Claims
 
 The website states that TDAC group submissions support up to 100 travelers, whereas Thailand's Immigration Bureau limits its official TDAC application to 10 travelers per submission. By presenting the higher figure as a feature of the TDAC system without clearly distinguishing its private service from the official government system, the website may mislead travelers about how the official application works.
+
+## Privacy Concerns
+
+The TDAC application collects sensitive passport, contact, and travel information through a private intermediary. Its privacy policy permits sharing personal information with unspecified “sister companies” for marketing without identifying those businesses or their domains. It also provides no specific retention period for TDAC submissions, leaving travelers uncertain about who may receive their information and how long it may be retained.
