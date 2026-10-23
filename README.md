@@ -31,7 +31,7 @@ Each website is evaluated using publicly available information, including websit
 
 Listings identify specific concerns, provide supporting evidence, and distinguish verified facts from unconfirmed allegations. Information is reviewed for accuracy and updated when new evidence becomes available.
 
-Website operators and other interested parties may submit verifiable corrections or clarifications to ensure the documentation remains accurate and fair.
+Website operators and other interested parties may help ensure the documentation remains accurate by opening a GitHub Issue with verifiable corrections or clarifications.
 
 ## Disclaimer
 
