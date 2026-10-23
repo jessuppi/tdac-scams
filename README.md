@@ -41,3 +41,9 @@ Website operators and other interested parties may submit verifiable corrections
 This repository is an independent public-interest project with no affiliation or endorsement from Thailand's Immigration Bureau or any other government agency.
 
 Inclusion in this repository does not establish criminal wrongdoing, and charging for third-party TDAC assistance alone is not proof of fraud. Findings reflect publicly available evidence and should not be interpreted as official legal or regulatory determinations.
+
+## Website Comparison
+
+| Domain | Government Impersonation | Misleading Fees | Deceptive Advertising | Hidden Disclosures | Misleading Claims | Privacy Concerns | Billing or Service Issues |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| `tdac.in.th` |  |  |  |  |  |  |  |
