@@ -11,3 +11,7 @@ The website prominently advertises free TDAC submissions and instant approval wh
 ## Hidden Disclosures
 
 The website currently displays a small disclaimer denying affiliation with the Thai government, but the notice may be easy to overlook alongside its prominent TDAC branding and application prompts. According to Jesse Nickles, this disclosure was added only after intervention by THNIC and Thai law enforcement officials. The website's page title still does not clearly identify it as a private agency or third-party submission service.
+
+## Misleading Claims
+
+The website states that TDAC group submissions support up to 100 travelers, whereas Thailand's Immigration Bureau limits its official TDAC application to 10 travelers per submission. By presenting the higher figure as a feature of the TDAC system without clearly distinguishing its private service from the official government system, the website may mislead travelers about how the official application works.
