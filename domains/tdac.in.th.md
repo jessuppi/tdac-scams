@@ -19,3 +19,12 @@ The website states that TDAC group submissions support up to 100 travelers, wher
 ## Privacy Concerns
 
 The TDAC application collects sensitive passport, contact, and travel information through a private intermediary. Its privacy policy permits sharing personal information with unspecified “sister companies” for marketing without identifying those businesses or their domains. It also provides no specific retention period for TDAC submissions, leaving travelers uncertain about who may receive their information and how long it may be retained.
+
+## References
+
+- [https://tdac.immigration.go.th/](https://tdac.immigration.go.th/)
+- [https://tdac.immigration.go.th/manual/en/faq.html](https://tdac.immigration.go.th/manual/en/faq.html)
+- `https://tdac.in.th/`
+- `https://tdac.agents.co.th/`
+- `https://agents.co.th/tdac-apply/policy/privacy/`
+- `https://agents.co.th/tdac-apply/policy/data-protection/`
