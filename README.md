@@ -19,17 +19,20 @@ TDAC applications submitted through Thailand's Immigration Bureau are completely
 Misleading or fraudulent TDAC websites may exhibit the following warning signs:
 
 - **Government impersonation:** Falsely claiming or implying affiliation with Thai immigration authorities.
-- **Misleading fees:** Suggesting payment is required to obtain a TDAC.
-- **Deceptive advertising:** Making commercial websites or advertisements appear official.
-- **Hidden information:** Obscuring pricing, commercial relationships, or the availability of free applications.
-- **Misleading claims:** Providing inaccurate information about requirements, deadlines, or processing.
-- **Privacy concerns:** Collecting passport details without adequate transparency about their use.
+- **Misleading fees:** Suggesting payment is mandatory for the free TDAC application.
+- **Deceptive advertising:** Making advertisements or commercial websites appear to be official government services.
+- **Hidden disclosures:** Obscuring commercial status, pricing, or the availability of the free official service.
+- **Misleading claims:** Providing inaccurate information about requirements, deadlines, processing, or approval.
+- **Privacy concerns:** Failing to clearly explain how passport, personal, or financial information is handled.
+- **Billing or service issues:** Documented unexpected charges, unauthorized subscriptions, or failure to deliver promised services.
 
 ## Documentation Standards
 
 Each website is evaluated using publicly available information, including website content, pricing, advertisements, screenshots, archived pages, and independent sources.
 
 Listings identify specific concerns, provide supporting evidence, and distinguish verified facts from unconfirmed allegations. Information is reviewed for accuracy and updated when new evidence becomes available.
+
+Future domain comparison tables use ✓ for a documented concern, — for no documented concern, and ? for not yet assessed. Each ✓ must have supporting evidence.
 
 Website operators and other interested parties may submit verifiable corrections or clarifications to ensure the documentation remains accurate by opening a GitHub Issue.
 
