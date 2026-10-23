@@ -17,3 +17,5 @@ TDAC applications submitted through Thailand's Immigration Bureau are completely
 ## Disclaimer
 
 This repository is an independent public-interest project with no affiliation or endorsement from Thailand's Immigration Bureau or any other government agency.
+
+Inclusion in this repository does not establish criminal wrongdoing, and charging for third-party TDAC assistance alone is not proof of fraud. Findings reflect publicly available evidence and should not be interpreted as official legal or regulatory determinations.
