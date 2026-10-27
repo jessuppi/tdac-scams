@@ -26,6 +26,10 @@ The website states that TDAC group submissions support up to 100 travelers, wher
 
 The TDAC application collects sensitive passport, contact, and travel information through a private intermediary. Its privacy policy permits sharing personal information with unspecified “sister companies” for marketing without identifying those businesses or their domains. It also provides no specific retention period for TDAC submissions, leaving travelers uncertain about who may receive their information and how long it may be retained.
 
+## Billing or Service Issues
+
+Travelers have publicly reported unexpected charges involving `tdac.in.th` and its associated TDAC submission service. A Trustpilot reviewer complained about being charged USD $50 for a government application that is officially free. On the linked submission service's discussion pages, another traveler reported being charged despite applying within the advertised free 72-hour window, including duplicate charges for two applicants. Although these complaints have not been independently verified, they raise concerns about billing transparency, unexpected charges, and customers' ability to obtain refunds.
+
 ## References
 
 - https://www.reddit.com/r/Thailand/comments/1l65pwy/warning_tdacinth_now_agentscoth_charges_8_for_tdac/
