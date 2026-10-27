@@ -33,7 +33,6 @@ Travelers have publicly reported billing and customer support problems involving
 - https://www.reddit.com/r/Thailand/comments/1l65pwy/warning_tdacinth_now_agentscoth_charges_8_for_tdac/
 - https://tdac.immigration.go.th/
 - https://tdac.immigration.go.th/manual/en/faq.html
-- https://www.mots.go.th/mots_en/news/3764
 - https://www.trustpilot.com/review/tdac.agents.co.th
 - https://www.reddit.com/r/ThailandTourism/comments/1sd9347/misleading_tdac_scam_alert_on_tdacagentscoth/
 - `https://tdac.agents.co.th/`
