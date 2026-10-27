@@ -24,7 +24,7 @@ Misleading or fraudulent TDAC websites may exhibit the following warning signs:
 - **Hidden disclosures:** Obscuring commercial status, pricing, or the availability of the free official service.
 - **Misleading claims:** Providing inaccurate information about requirements, deadlines, processing, or approval.
 - **Privacy concerns:** Failing to clearly explain how passport, personal, or financial information is handled.
-- **Billing or service issues:** Documented unexpected charges, unauthorized subscriptions, or failure to deliver promised services.
+- **Billing or service issues:** Reported unexpected charges, refund disputes, unresponsive customer support, or failure to deliver promised services.
 
 ## Documentation Standards
 
