@@ -48,7 +48,7 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [tdac.in.th](domains/tdac.in.th.md) | ✓ |  | ✓ | ✓ | ✓ | ✓ |  |
 | [tdac.agents.co.th](domains/tdac.agents.co.th.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| [agents.co.th](domains/agents.co.th.md) |  |  | ✓ |  | ✓ | ✓ |  |
+| [agents.co.th](domains/agents.co.th.md) |  | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | [tdac.info](domains/tdac.info.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 
 ## Further Reading
