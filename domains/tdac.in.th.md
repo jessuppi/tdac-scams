@@ -12,7 +12,7 @@ The website prominently advertises "TDAC Cost: FREE" and "Instant Approval" alon
 
 ## Deceptive Promotion
 
-The website prominently advertises free TDAC submissions and instant approval while displaying live traveler activity and large comment counts to reinforce its credibility. These promotional tactics may give travelers an exaggerated impression of the service's popularity, reliability, and authority.
+The website prominently advertises "TDAC Cost: FREE" and "Instant Approval" alongside its application button while repeatedly displaying a live discussion widget showing travelers online and more than 1,400 comments. It also features a video from Thai Visa Centre demonstrating the private submission system. These promotional elements may create an exaggerated impression of popularity, reliability, and authority, particularly when displayed alongside application prompts. Although the discussion activity is publicly visible, the accuracy of its visitor counts and engagement figures has not been independently verified.
 
 ## Hidden Disclosures
 
