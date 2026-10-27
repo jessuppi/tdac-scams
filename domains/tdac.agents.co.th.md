@@ -35,6 +35,7 @@ Travelers have publicly reported billing and customer support problems involving
 - https://tdac.immigration.go.th/manual/en/faq.html
 - https://www.mots.go.th/mots_en/news/3764
 - https://www.trustpilot.com/review/tdac.agents.co.th
+- https://www.reddit.com/r/ThailandTourism/comments/1sd9347/misleading_tdac_scam_alert_on_tdacagentscoth/
 - `https://tdac.agents.co.th/`
 - `https://tdac.in.th/`
 - `https://tdac.agents.co.th/scam`
