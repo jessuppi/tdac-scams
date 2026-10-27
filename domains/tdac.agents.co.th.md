@@ -24,7 +24,7 @@ Under "How Does the TDAC System Work?", the website states that group submission
 
 ## Privacy Concerns
 
-The website directs travelers to a private application system that collects sensitive passport, contact, and travel information. Its privacy policy permits sharing personal information with unspecified sister companies for marketing purposes without identifying those companies or their websites. The policy also states that personally identifiable information will not be shared with third parties, creating ambiguity about how information may be shared within its corporate network. Furthermore, it provides no definite retention period for submitted personal information, leaving travelers uncertain about who may access their sensitive data, how it may be used, and how long it will be stored.
+The private TDAC application collects sensitive passport, contact, and travel information. Its operator's privacy policy permits sharing personal information with affiliates, service providers, and sister companies, including for marketing purposes. However, it also states that personally identifiable information will not be shared with third parties, without clearly explaining how this restriction applies to those recipients. A separate data protection policy likewise permits sister-company sharing for promotional purposes. Neither policy specifies a definite retention period for TDAC submissions, instead referring to general legal and operational requirements. These disclosures leave travelers uncertain about which organizations may receive their personal records and when that information will be deleted.
 
 ## Billing or Service Issues
 
