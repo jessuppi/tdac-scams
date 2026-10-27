@@ -62,3 +62,4 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 - https://www.youtube.com/watch?v=8jsifLmc8zw
 - https://www.linkedin.com/pulse/tdac-scams-tdacinth-tdacagentscoth-fake-sites-jesse-nickles-h4eqc/
 - https://roof21.co.th/news/urgent-traveler-alert-dont-fall-for-the-thailand-digital-arrival-card-tdac-scam
+- https://travel.stackexchange.com/questions/198663/how-can-i-avoid-thailand-tdac-scams-and-fake-websites
