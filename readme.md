@@ -49,3 +49,7 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 | [tdac.in.th](domains/tdac.in.th.md) | ✓ |  | ✓ | ✓ | ✓ | ✓ |  |
 | [tdac.agents.co.th](domains/tdac.agents.co.th.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |
 | [agents.co.th](domains/agents.co.th.md) |  |  | ✓ |  | ✓ | ✓ |  |
+
+## Further Reading
+
+- https://www.mots.go.th/mots_en/news/3764
