@@ -24,7 +24,7 @@ Under "How Does the TDAC System Work?", the website states that group submission
 
 ## Privacy Concerns
 
-The TDAC application collects sensitive passport, contact, and travel information through a private intermediary. Its privacy policy permits sharing personal information with unspecified “sister companies” for marketing without identifying those businesses or their domains. It also provides no specific retention period for TDAC submissions, leaving travelers uncertain about who may receive their information and how long it may be retained.
+The TDAC application collects sensitive passport, contact, and travel information through a private intermediary rather than directly through Thailand's government portal. Its privacy policy permits sharing personal information with affiliates, service providers, and unspecified sister companies, including for marketing purposes. However, the same policy states that personally identifiable information will not be shared with third parties, creating ambiguity about which organizations may receive travelers' data. The policy also provides no definite retention period for TDAC submissions, stating only that information is retained as necessary for legal and operational purposes. Travelers therefore lack clear information about who can access their passport details and when those records are deleted.
 
 ## Billing or Service Issues
 
