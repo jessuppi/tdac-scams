@@ -20,7 +20,7 @@ The website's comparison table claims that Thailand's official TDAC system does 
 
 ## Privacy Concerns
 
-The website promotes a private TDAC submission service that processes sensitive passport, contact, and travel information. Its privacy policy permits sharing personal information with unspecified sister companies for marketing purposes without identifying those businesses or their domains. Although the policy also states that personally identifiable information will not be shared with third parties, it separately permits disclosures to affiliates, service providers, and related companies, creating ambiguity about who may receive travelers' data. Furthermore, the policy provides no definite retention period for submitted personal information, leaving travelers uncertain about how long their sensitive records may be stored and how they may be used across the company's services.
+The website processes sensitive passport, contact, and travel information through its private TDAC service. Its privacy policy permits sharing information with affiliates and service providers, and separately allows sharing with unnamed sister companies for marketing purposes. Yet the same policy states that personally identifiable information will not be shared with third parties, leaving the scope of these exceptions unclear. Its separate data protection policy also permits sister-company sharing for promotions. Neither policy specifies a definite retention period for TDAC submissions, referring instead to general legal and operational requirements. Travelers therefore lack clear information about who may receive their records and how long they are retained.
 
 ## Billing or Service Issues
 
