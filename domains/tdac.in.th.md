@@ -36,7 +36,9 @@ Travelers have publicly reported unexpected charges involving `tdac.in.th` and i
 - https://www.quora.com/Are-tdac-info-and-tdac-in-th-fake-Thailand-TDAC-websites
 - https://www.quora.com/Why-wont-Thai-Immigration-shut-down-tdac-in-th-scam
 - https://www.quora.com/Why-does-the-tdac-in-th-scam-site-rank-so-high-on-Google
+- https://www.trustpilot.com/review/tdac.in.th
 - `https://tdac.in.th/`
+- `https://tdac.agents.co.th/comments/18`
 - `https://tdac.agents.co.th/`
 - `https://agents.co.th/tdac-apply/policy/privacy/`
 - `https://agents.co.th/tdac-apply/policy/data-protection/`
