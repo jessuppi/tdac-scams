@@ -12,7 +12,7 @@ The website prominently advertises "TDAC Cost: FREE" and "Instant Approval" alon
 
 ## Deceptive Promotion
 
-The website prominently advertises free TDAC submissions and instant approval while displaying live traveler activity counters and more than 1,400 comments to reinforce its credibility. It also publishes a "TDAC Scam Alert" page that labels numerous competing services as scams or untrusted operators while presenting its own fee-charging service alongside Thailand's official government portal as a trusted alternative. These self-promotional tactics may create a misleading impression of independent endorsement, established authority, and superior reliability, encouraging travelers to use its private submission service instead of the free government website.
+The service advertises free TDAC submissions and instant approval while displaying live traveler activity and more than 1,400 comments. Its associated "TDAC Scam Alert" page labels 29 other websites as scams or untrusted, including describing `tdac.info` as a "CONFIRMED SCAM." Meanwhile, the same page lists its own fee-charging service alongside Thailand's official government portal under "Trusted TDAC Submission Options." This self-promotional comparison may create the misleading impression of an independent authority evaluating TDAC websites, encouraging travelers to trust its private submission service over competing providers without independently substantiating its rankings.
 
 ## Hidden Disclosures
 
