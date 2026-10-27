@@ -20,7 +20,7 @@ The website displays a disclaimer at the top stating that it is not affiliated w
 
 ## Misleading Claims
 
-The website states that TDAC group submissions support up to 100 travelers, whereas Thailand's Immigration Bureau limits its official TDAC application to 10 travelers per submission. By presenting the higher figure as a feature of the TDAC system without clearly distinguishing its private service from the official government system, the website may mislead travelers about how the official application works.
+Under "How Does the TDAC System Work?", the website states that group submissions allow up to 100 travelers. Its service comparison table separately lists the traveler limit as "Unlimited." Thailand's Immigration Bureau, however, limits each official group submission to 10 travelers. The larger figures may refer to the private intermediary collecting multiple applications and submitting them separately, not to a feature of the government portal. By placing the 100-traveler statement in an explanation of how the TDAC system works, the website obscures that distinction and may mislead visitors about the official application's limits.
 
 ## Privacy Concerns
 
