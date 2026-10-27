@@ -28,7 +28,7 @@ The website directs travelers to a private application system that collects sens
 
 ## Billing or Service Issues
 
-Travelers have publicly reported billing and customer support problems involving the service. On the website's own discussion pages, one traveler complained about being charged despite submitting within the advertised free 72-hour window, including duplicate charges for two applicants. Another requested assistance obtaining a refund. A Trustpilot reviewer reported problems completing the application and receiving no response from live chat or email support for more than six weeks. These complaints raise concerns about billing accuracy, refund handling, and the reliability of the website's advertised customer support.
+On the website's public discussion pages, one traveler reported being charged despite applying within the advertised free 72-hour window, including duplicate charges involving two applicants. Another commenter requested help obtaining a refund. Separately, a Trustpilot reviewer reported difficulty completing the application because of an address-code issue and said live chat and email inquiries went unanswered for more than six weeks. Although these complaints have not been independently verified, they raise concerns about billing accuracy, refund handling, and customer support responsiveness. The combination of unexpected-charge allegations and unresolved support requests warrants particular scrutiny for a service processing sensitive traveler information.
 
 ## References
 
