@@ -19,3 +19,7 @@ The website prominently displays its TDAC application form and encourages travel
 ## Misleading Claims
 
 The website claims that Thailand's official TDAC portal requires separate submissions for every traveler while promoting its own paid group filing service for up to six people. However, Thailand's Immigration Bureau already supports free group submissions for up to 10 travelers. The website also claims that completing the government application typically takes 30 to 60 minutes, whereas the Immigration Bureau estimates approximately three to five minutes per person when the required information is ready. These misleading comparisons exaggerate the difficulty and limitations of the official application while presenting ordinary government features as advantages of its USD $29 service.
+
+## Privacy Concerns
+
+The website collects sensitive passport, contact, and travel information through its private application system and advertises manual reviews of passport scans. Although its application form claims personal information is never stored after processing, the homepage states that traveler details may be held for up to 12 months before submission. Its privacy policy primarily addresses comments, contact forms, and cookies without explaining how passport records, uploaded documents, or advance booking information are stored, accessed, or deleted. These omissions leave travelers uncertain about how their sensitive identity information is protected and how long it remains accessible.
