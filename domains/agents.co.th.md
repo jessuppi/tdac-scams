@@ -8,7 +8,7 @@ The website promotes its USD $8 (270 THB) early-submission service as an advanta
 
 ## Deceptive Promotion
 
-The website promotes its private TDAC submission portal as a significant improvement over Thailand's official government system, advertising "10x" efficiency gains, unlimited travelers per submission, and support for 76 languages compared with five on the official portal. However, its own description specifies support for 25 to 80 traveler profiles simultaneously, raising questions about its unlimited submission claim. These promotional comparisons may exaggerate the capabilities and advantages of its intermediary service while encouraging travelers and tour operators to use its private platform instead of Thailand's free government application.
+The company describes its TDAC Agents Portal as revolutionizing group submissions and advertises a "10x" efficiency gain without explaining how that figure was measured. It also promotes support for 76 languages versus five on the official government portal, alongside unlimited travelers per submission. Although the company describes practical features for tour operators, including grouped downloads and individual application edits, its promotional figures are not accompanied by benchmark data or independent verification on the page. These comparisons may exaggerate the service's demonstrated advantages and encourage travelers or tour operators to favor its private portal over Thailand's free government application.
 
 ## Hidden Disclosures
 
