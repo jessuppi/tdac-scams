@@ -30,6 +30,7 @@ The website prominently advertises "Refund if rejected" and promises travelers t
 
 ## References
 
+- https://www.bangkokpost.com/thailand/general/3226524/immigration-warns-of-scam-digital-arrival-card-websites
 - https://www.quora.com/Are-tdac-info-and-tdac-in-th-fake-Thailand-TDAC-websites
 - https://www.raiyai.com/blog/tdac-thailand-scam-warning/
 - `https://tdac.info/`
