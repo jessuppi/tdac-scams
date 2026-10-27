@@ -2,6 +2,10 @@
 
 Last updated: October 28, 2026
 
+## Misleading Fees
+
+The website promotes its USD $8 (270 THB) early-submission service as an advantage over Thailand's official TDAC system, which does not accept applications more than three days before arrival. However, paying this fee does not provide earlier government processing or approval. Instead, the private agency collects travelers' information in advance and submits it once the official registration window opens. By presenting this paid scheduling service as a superior submission capability, the website may mislead travelers about what the additional fee actually provides.
+
 ## Deceptive Promotion
 
 The website promotes its private TDAC submission portal as a significant improvement over Thailand's official government system, advertising "10x" efficiency gains, unlimited travelers per submission, and support for 76 languages compared with five on the official portal. However, its own description specifies support for 25 to 80 traveler profiles simultaneously, raising questions about its unlimited submission claim. These promotional comparisons may exaggerate the capabilities and advantages of its intermediary service while encouraging travelers and tour operators to use its private platform instead of Thailand's free government application.
