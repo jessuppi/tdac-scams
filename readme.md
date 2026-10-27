@@ -55,3 +55,4 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 - https://tdac.immigration.go.th/
 - https://tdac.immigration.go.th/manual/en/faq.html
 - https://www.mots.go.th/mots_en/news/3764
+- https://www.fragomen.com/insights/thailand-advisory-on-fraudulent-thailand-digital-arrival-card-websites.html
