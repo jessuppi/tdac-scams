@@ -20,7 +20,7 @@ The TDAC submission page displays a government non-affiliation disclaimer near t
 
 ## Misleading Claims
 
-Under "How Does the TDAC System Work?", the website states that group submissions support up to 100 travelers. Its service comparison table separately lists the traveler limit as "Unlimited," while another section advertises unlimited travelers in one submission. Thailand's Immigration Bureau, however, limits official group applications to 10 travelers per submission. These higher figures may describe the private intermediary's ability to collect and process multiple applications rather than a feature of the government system. By presenting the 100-traveler figure in its general explanation of TDAC, the website may mislead visitors about the official application's capabilities and limits.
+The service advertises "Instant Approval" alongside its application button and lists an approval time of 0–5 minutes. However, TDAC submission produces an arrival-card confirmation, not immigration approval or permission to enter Thailand. Under "How Does the TDAC System Work?", the website also claims group submissions support up to 100 travelers, while its comparison table lists the limit as "Unlimited." Thailand's Immigration Bureau permits only 10 travelers per official group submission. Although the higher figures may describe the intermediary's handling of multiple applications, this distinction is not clearly explained. These claims may mislead travelers about the official TDAC process and its capabilities.
 
 ## Privacy Concerns
 
