@@ -27,3 +27,17 @@ The website directs travelers to a private application system that collects sens
 ## Billing or Service Issues
 
 Travelers have publicly reported billing and customer support problems involving the service. On the website's own discussion pages, one traveler complained about being charged despite submitting within the advertised free 72-hour window, including duplicate charges for two applicants. Another requested assistance obtaining a refund. A Trustpilot reviewer reported problems completing the application and receiving no response from live chat or email support for more than six weeks. These complaints raise concerns about billing accuracy, refund handling, and the reliability of the website's advertised customer support.
+
+## References
+
+- https://tdac.immigration.go.th/
+- https://tdac.immigration.go.th/manual/en/faq.html
+- https://www.mots.go.th/mots_en/news/3764
+- https://www.trustpilot.com/review/tdac.agents.co.th
+- `https://tdac.agents.co.th/`
+- `https://tdac.in.th/`
+- `https://tdac.agents.co.th/scam`
+- `https://agents.co.th/tdac-apply/policy/privacy/`
+- `https://agents.co.th/tdac-apply/policy/data-protection/`
+- `https://tdac.agents.co.th/comments/18`
+- `https://tdac.agents.co.th/comments/2`
