@@ -27,3 +27,11 @@ The website collects sensitive passport, contact, and travel information through
 ## Billing or Service Issues
 
 The website prominently advertises "Refund if rejected" and promises travelers their money back if their TDAC is not filed before departure. However, its Terms and Conditions restrict refunds primarily to duplicate payments or cancellations within 30 minutes of payment, before processing begins. The policy also states that refunds are unavailable once an application has been submitted to Thai Immigration, without clearly providing an exception for errors caused by the service itself. These conflicting refund promises may mislead customers about their eligibility for reimbursement if the service fails to deliver as advertised.
+
+## References
+
+- https://www.quora.com/Are-tdac-info-and-tdac-in-th-fake-Thailand-TDAC-websites
+- `https://tdac.info/`
+- `https://tdac.info/apply-now`
+- `https://tdac.info/privacy-policy`
+- `https://tdac.info/terms-conditions`
