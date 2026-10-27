@@ -20,7 +20,7 @@ The website prominently displays its TDAC application form and encourages travel
 
 ## Misleading Claims
 
-The website claims that Thailand's official TDAC portal requires separate submissions for every traveler while promoting its own paid group filing service for up to six people. However, Thailand's Immigration Bureau already supports free group submissions for up to 10 travelers. The website also claims that completing the government application typically takes 30 to 60 minutes, whereas the Immigration Bureau estimates approximately three to five minutes per person when the required information is ready. These misleading comparisons exaggerate the difficulty and limitations of the official application while presenting ordinary government features as advantages of its USD $29 service.
+The website promotes its paid group filing service for up to six travelers as faster than "filing each passenger separately on the official portal." However, Thailand's Immigration Bureau already supports free group submissions for up to 10 travelers. The website also claims the official application typically takes 30 to 60 minutes, whereas the Immigration Bureau estimates approximately three to five minutes per person when the required information is ready. These misleading comparisons exaggerate the difficulty and limitations of the official application while promoting its USD $29-per-traveler service.
 
 ## Privacy Concerns
 
