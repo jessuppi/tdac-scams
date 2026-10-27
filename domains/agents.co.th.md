@@ -32,3 +32,5 @@ The company's refund policy offers refunds for canceled trips or TDAC early-subm
 - `https://tdac.agents.co.th/`
 - `https://agents.co.th/tdac-apply/policy/privacy/`
 - `https://agents.co.th/tdac-apply/policy/data-protection/`
+- `https://agents.co.th/tdac-apply/policy/refund/`
+- `https://tdac.agents.co.th/comments/18`
