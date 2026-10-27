@@ -22,6 +22,10 @@ The website's comparison table claims that Thailand's official TDAC system does 
 
 The website promotes a private TDAC submission service that processes sensitive passport, contact, and travel information. Its privacy policy permits sharing personal information with unspecified sister companies for marketing purposes without identifying those businesses or their domains. Although the policy also states that personally identifiable information will not be shared with third parties, it separately permits disclosures to affiliates, service providers, and related companies, creating ambiguity about who may receive travelers' data. Furthermore, the policy provides no definite retention period for submitted personal information, leaving travelers uncertain about how long their sensitive records may be stored and how they may be used across the company's services.
 
+## Billing or Service Issues
+
+The company's refund policy offers refunds for canceled trips or TDAC early-submission services canceled more than seven days before arrival, but does not clearly explain how refunds are handled when applications are delayed, processed incorrectly, or charged unexpectedly. On its associated TDAC submission website, a traveler publicly complained about being charged despite applying within the advertised free 72-hour window and reported duplicate charges for two applicants. Although this complaint has not been independently verified, the reported billing problems and gaps in the published refund policy raise concerns about how customers can dispute charges or obtain reimbursement when the service fails to deliver as expected.
+
 ## References
 
 - `https://agents.co.th/`
