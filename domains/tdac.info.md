@@ -24,7 +24,7 @@ The website's comparison table describes the official government portal as requi
 
 ## Privacy Concerns
 
-The website collects sensitive passport, contact, and travel information through its private application system and advertises manual reviews of passport scans. Although its application form claims personal information is never stored after processing, the homepage states that traveler details may be held for up to 12 months before submission. Its privacy policy primarily addresses comments, contact forms, and cookies without explaining how passport records, uploaded documents, or advance booking information are stored, accessed, or deleted. These omissions leave travelers uncertain about how their sensitive identity information is protected and how long it remains accessible.
+The website's private TDAC application collects sensitive passport, contact, and travel information and advertises manual reviews of passport scans. It accepts applications up to 12 months before arrival, storing travelers' details until the official submission window opens. Although its application page promises that personal information is not stored on its servers after processing or shared with third parties, its published privacy policy primarily addresses comments, contact forms, cookies, and user accounts. It does not clearly explain how TDAC application records or passport scans are secured, who can access them, or when they are deleted. These omissions make its handling of sensitive traveler information difficult to evaluate.
 
 ## Billing or Service Issues
 
