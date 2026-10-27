@@ -16,7 +16,7 @@ The website prominently advertises "TDAC Cost: FREE" and "Instant Approval" alon
 
 ## Hidden Disclosures
 
-The website currently displays a small disclaimer denying affiliation with the Thai government, but the notice may be easy to overlook alongside its prominent TDAC branding and application prompts. According to Jesse Nickles, this disclosure was added only after intervention by THNIC and Thai law enforcement officials. The website's page title still does not clearly identify it as a private agency or third-party submission service.
+The website displays a disclaimer at the top stating that it is not affiliated with the Thai government and directing travelers to the official TDAC portal. However, the page title and main application area emphasize the government form's name, "TDAC Cost: FREE," and "Instant Approval" without equally prominent identification of the private operator. The USD $8 charge for applications submitted more than 72 hours early appears farther down the page. Travelers may therefore encounter the free-service message and application button before understanding when the intermediary charges a fee.
 
 ## Misleading Claims
 
