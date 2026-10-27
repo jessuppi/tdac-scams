@@ -24,7 +24,7 @@ The website promotes a private TDAC submission service that processes sensitive 
 
 ## Billing or Service Issues
 
-The company's refund policy offers refunds for canceled trips or TDAC early-submission services canceled more than seven days before arrival, but does not clearly explain how refunds are handled when applications are delayed, processed incorrectly, or charged unexpectedly. On its associated TDAC submission website, a traveler publicly complained about being charged despite applying within the advertised free 72-hour window and reported duplicate charges for two applicants. Although this complaint has not been independently verified, the reported billing problems and gaps in the published refund policy raise concerns about how customers can dispute charges or obtain reimbursement when the service fails to deliver as expected.
+The company's TDAC refund policy offers full refunds for canceled trips or services canceled more than seven days before arrival, but does not explain how billing disputes, submission errors, or delays are handled. The policy also describes TDAC submissions as "visa applications," although the TDAC is not a visa. On the associated submission website, a traveler reported being charged within the advertised free 72-hour window and receiving duplicate charges for two applicants. Although this complaint has not been independently verified, the reported billing problems and gaps in the refund policy raise questions about customers' ability to obtain corrections or reimbursement.
 
 ## References
 
