@@ -12,7 +12,7 @@ The website prominently advertises "TDAC Cost: FREE" and "Instant Approval" alon
 
 ## Deceptive Promotion
 
-The website prominently advertises "TDAC Cost: FREE" and "Instant Approval" alongside its application button while repeatedly displaying a live discussion widget showing travelers online and more than 1,400 comments. It also features a video from Thai Visa Centre demonstrating the private submission system. These promotional elements may create an exaggerated impression of popularity, reliability, and authority, particularly when displayed alongside application prompts. Although the discussion activity is publicly visible, the accuracy of its visitor counts and engagement figures has not been independently verified.
+The website advertises "TDAC Cost: FREE" and "Instant Approval" while displaying live traveler activity and more than 1,400 comments. Its "TDAC Scam Alert" page also lists 29 other websites as scams or untrusted, explicitly labeling `tdac.info` a "CONFIRMED SCAM." Meanwhile, the same page places its own fee-charging service alongside Thailand's official government portal under "Trusted TDAC Submission Options." Because these rankings are published by the operator promoting its own service, they may create a misleading impression of independent endorsement and established authority, encouraging travelers to trust its recommendations without independent verification.
 
 ## Hidden Disclosures
 
@@ -38,6 +38,7 @@ Public complaints raise questions about billing associated with `tdac.in.th` and
 - https://www.quora.com/Why-does-the-tdac-in-th-scam-site-rank-so-high-on-Google
 - https://www.trustpilot.com/review/tdac.in.th
 - `https://tdac.in.th/`
+- `https://tdac.in.th/scam`
 - `https://tdac.agents.co.th/comments/18`
 - `https://tdac.agents.co.th/`
 - `https://agents.co.th/tdac-apply/policy/privacy/`
