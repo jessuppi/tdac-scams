@@ -20,7 +20,7 @@ The homepage begins with a TDAC application form and a prominent "Start TDAC App
 
 ## Misleading Claims
 
-The website's comparison table describes the official government portal as requiring "One application per traveller — repeat for family members" while promoting its own paid group service for up to six travelers. However, Thailand's Immigration Bureau allows up to 10 travelers in one free group submission. The website also claims the official portal takes most first-time users 30 to 60 minutes, whereas the Immigration Bureau estimates approximately three to five minutes per person when the required information is ready. These comparisons exaggerate the official application's limitations and may encourage travelers to pay USD $29 per person for unnecessary filing assistance.
+The website warns "No QR code, no entry" and says airlines may refuse boarding. However, Thailand's Immigration Bureau advises travelers who do not receive their QR code to contact immigration officers and provides on-arrival kiosks and Wi-Fi for TDAC submissions. Its comparison table also claims the official portal requires separate applications for family members, although the government supports up to 10 travelers per group submission. The website further estimates 30–60 minutes for first-time users of the official portal, compared with the Bureau's stated three to five minutes per person when information is ready. These claims exaggerate obstacles in the free system and may encourage travelers to purchase its USD $29 assisted filing service.
 
 ## Privacy Concerns
 
