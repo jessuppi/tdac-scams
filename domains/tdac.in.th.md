@@ -28,7 +28,7 @@ The TDAC application collects sensitive passport, contact, and travel informatio
 
 ## Billing or Service Issues
 
-Travelers have publicly reported unexpected charges involving `tdac.in.th` and its associated TDAC submission service. A Trustpilot reviewer complained about being charged USD $50 for a government application that is officially free. On the linked submission service's discussion pages, another traveler reported being charged despite applying within the advertised free 72-hour window, including duplicate charges for two applicants. Although these complaints have not been independently verified, they raise concerns about billing transparency, unexpected charges, and customers' ability to obtain refunds.
+Public complaints raise questions about billing associated with `tdac.in.th` and its linked submission service. A Trustpilot reviewer alleged that the website charges USD $50 for a government form that is officially free, although the reviewer did not explicitly state that they personally paid this amount. The website operator disputed the USD $50 figure in a public response. Separately, a commenter on `tdac.agents.co.th` reported being charged despite applying within the advertised free 72-hour window and described duplicate charges involving two applicants. These accounts have not been independently verified, but raise concerns about billing transparency and refund handling.
 
 ## References
 
