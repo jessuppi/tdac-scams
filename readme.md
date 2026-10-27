@@ -55,6 +55,7 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 - https://tdac.immigration.go.th/
 - https://tdac.immigration.go.th/manual/en/faq.html
 - https://www.mots.go.th/mots_en/news/3764
+- https://canberra.thaiembassy.org/en/content/beware-of-thailand-digital-arrival-card-scam-websi
 - https://www.fragomen.com/insights/thailand-advisory-on-fraudulent-thailand-digital-arrival-card-websites.html
 - https://www.bangkokpost.com/thailand/general/3226524/immigration-warns-of-scam-digital-arrival-card-websites
 - https://www.khaosodenglish.com/tourism/2025/10/17/thailand-warns-tourists-of-fake-arrival-card-websites-charging-fees/
