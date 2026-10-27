@@ -32,7 +32,7 @@ Each website is evaluated using publicly available information, including websit
 
 Listings identify specific concerns, provide supporting evidence, and distinguish verified facts from unconfirmed allegations. Information is reviewed for accuracy and updated when new evidence becomes available.
 
-Future domain comparison tables use ✓ for a documented concern, — for no documented concern, and ? for not yet assessed. Each ✓ must have supporting evidence.
+The Website Comparison table uses ✓ for a documented concern, — for no documented concern, and ? for not yet assessed. Each ✓ must have supporting evidence.
 
 Website operators and other interested parties may submit verifiable corrections or clarifications to ensure the documentation remains accurate by opening a GitHub Issue.
 
