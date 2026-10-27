@@ -19,3 +19,7 @@ The website prominently advertises "TDAC Cost: FREE" and "Instant Approval" alon
 ## Misleading Claims
 
 The website states that the TDAC system supports group submissions of up to 100 travelers and elsewhere advertises unlimited travelers in a single submission. However, Thailand's Immigration Bureau limits official TDAC group applications to 10 travelers per submission. By presenting its private service's expanded capacity as a feature of the TDAC system itself, the website misrepresents how the official government application works and may mislead travelers into believing its intermediary service offers capabilities unavailable through the official portal.
+
+## Privacy Concerns
+
+The website directs travelers to a private application system that collects sensitive passport, contact, and travel information. Its privacy policy permits sharing personal information with unspecified sister companies for marketing purposes without identifying those companies or their websites. The policy also states that personally identifiable information will not be shared with third parties, creating ambiguity about how information may be shared within its corporate network. Furthermore, it provides no definite retention period for submitted personal information, leaving travelers uncertain about who may access their sensitive data, how it may be used, and how long it will be stored.
