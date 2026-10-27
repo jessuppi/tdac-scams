@@ -19,7 +19,7 @@ TDAC applications submitted through Thailand's Immigration Bureau are completely
 Misleading or fraudulent TDAC websites may exhibit the following warning signs:
 
 - **Government impersonation:** Falsely claiming or implying affiliation with Thai immigration authorities.
-- **Misleading fees:** Suggesting payment is mandatory for the free TDAC application.
+- **Misleading fees:** Obscuring service charges or suggesting payment is necessary, speeds up government processing, or provides advantages unavailable through the free official TDAC portal.
 - **Deceptive promotion:** Using misleading advertisements, fake reviews, astroturfing, or black-hat SEO tactics to manipulate public perception, credibility, or search visibility.
 - **Hidden disclosures:** Obscuring commercial status, pricing, or the availability of the free official service.
 - **Misleading claims:** Providing inaccurate information about requirements, deadlines, processing, or approval.
