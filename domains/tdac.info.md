@@ -11,3 +11,7 @@ The website charges USD $29 per traveler to submit Thailand's Digital Arrival Ca
 ## Deceptive Promotion
 
 The website prominently claims to be trusted by 10,987 travelers and displays a 4.9 rating alongside customer testimonials, without clearly identifying an independent platform where these figures can be verified. It also promotes rapid approval, guaranteed delivery, and professional error checking while repeatedly emphasizing the risks and difficulties of using Thailand's free government application. These promotional tactics may exaggerate the service's credibility and advantages, encouraging travelers to pay USD $29 for assistance that is not required to submit the official TDAC.
+
+## Hidden Disclosures
+
+The website prominently displays its TDAC application form and encourages travelers to begin submitting personal information before presenting its USD $29 per-traveler fee farther down the page. Although a brief notice identifies the service as independent, the full disclaimer and explanation of Thailand's free official application appear near the bottom of the homepage. This placement may cause travelers to overlook the website's commercial status, its charges, and the availability of the free government service before beginning the application process.
