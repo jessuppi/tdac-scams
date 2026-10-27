@@ -12,7 +12,7 @@ Despite the official application being completely free, numerous third-party web
 
 https://tdac.immigration.go.th/
 
-TDAC applications submitted through Thailand's Immigration Bureau are completely free. Travelers should avoid unofficial TDAC websites that request passport or payment information, especially when their fees, operators, or data handling practices are unclear. Providing this information to untrusted services can expose travelers to identity theft, phishing, email spam, financial fraud, and other forms of data misuse.
+TDAC applications submitted through Thailand's Immigration Bureau are completely free. Travelers should avoid unofficial TDAC websites that request passport or payment information, especially when their fees, operators, or data handling practices are unclear. Submitting passport or payment information to untrusted TDAC websites may expose travelers to identity theft, phishing, email spam, unauthorized charges, financial fraud, and misuse of sensitive personal data.
 
 ## Common Warning Signs
 
