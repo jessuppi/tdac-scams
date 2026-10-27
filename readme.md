@@ -58,3 +58,4 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 - https://www.fragomen.com/insights/thailand-advisory-on-fraudulent-thailand-digital-arrival-card-websites.html
 - https://www.bangkokpost.com/thailand/general/3226524/immigration-warns-of-scam-digital-arrival-card-websites
 - https://www.youtube.com/watch?v=2SQXw_7jqrc
+- https://www.linkedin.com/pulse/tdac-scams-tdacinth-tdacagentscoth-fake-sites-jesse-nickles-h4eqc/
