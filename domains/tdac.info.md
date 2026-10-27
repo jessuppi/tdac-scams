@@ -16,7 +16,7 @@ The homepage claims to be "Trusted by 10,987 travellers" and displays "4.9 / 10,
 
 ## Hidden Disclosures
 
-The website prominently displays its TDAC application form and encourages travelers to begin submitting personal information before presenting its USD $29 per-traveler fee farther down the page. Although a brief notice identifies the service as independent, the full disclaimer and explanation of Thailand's free official application appear near the bottom of the homepage. This placement may cause travelers to overlook the website's commercial status, its charges, and the availability of the free government service before beginning the application process.
+The homepage begins with a TDAC application form and a prominent "Start TDAC Application" button. Nearby text explains that payment comes on the next page, but does not disclose the USD $29 per-traveler price at this point. The fee appears later in the assisted-filing and pricing sections. A brief "Independent filing service · Not the government portal" notice appears below the form, while the fuller disclaimer and official free portal's address appear near the bottom. This separation may cause visitors to begin the application without fully understanding the service's charges or the availability of the free government alternative.
 
 ## Misleading Claims
 
