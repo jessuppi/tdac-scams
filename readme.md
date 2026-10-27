@@ -21,7 +21,7 @@ Misleading or fraudulent TDAC websites may exhibit the following warning signs:
 - **Government impersonation:** Falsely claiming or implying affiliation with Thai immigration authorities.
 - **Misleading fees:** Obscuring service charges or suggesting payment is necessary, speeds up government processing, or provides advantages unavailable through the free official TDAC portal.
 - **Deceptive promotion:** Using fake reviews, inflated visitor counts, astroturfing, misleading advertisements, or black-hat SEO tactics to manipulate search visibility and create a false impression of popularity, credibility, or authority.
-- **Hidden disclosures:** Obscuring commercial status, pricing, or the availability of the free official service.
+- **Hidden disclosures:** Burying third-party status, service fees, payment conditions, or the free government alternative in small disclaimers or less-prominent sections of a website.
 - **Misleading claims:** Misrepresenting official TDAC requirements, group submission limits, correction options, processing times, or other government portal capabilities.
 - **Privacy concerns:** Collecting sensitive passport and travel information without clearly disclosing third-party sharing, marketing use, data retention, or deletion practices.
 - **Billing or service issues:** Reported unexpected charges, refund disputes, unresponsive customer support, or failure to deliver promised services.
