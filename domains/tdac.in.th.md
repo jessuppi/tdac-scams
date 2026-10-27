@@ -4,7 +4,7 @@ Last updated: October 28, 2026
 
 ## Government Impersonation
 
-The domain `tdac.in.th` closely resembles the name of Thailand's official Digital Arrival Card service and redirects to `tdac.agents.co.th`, a privately operated submission service. Its branding and page title may lead travelers to mistake it for a government website.
+The domain `tdac.in.th` uses the name of Thailand's official Digital Arrival Card service in its address, page title, and main heading, although the government's actual portal is `tdac.immigration.go.th`. Its homepage explains the mandatory arrival-card requirement, prominently advertises free submission and instant approval, and places an application button alongside those claims. The page includes a disclaimer denying government affiliation, but the combination of official-sounding branding and application prompts may still cause travelers to mistake the privately operated service for an official government website.
 
 ## Misleading Fees
 
