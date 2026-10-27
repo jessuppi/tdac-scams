@@ -23,3 +23,7 @@ The website states that the TDAC system supports group submissions of up to 100 
 ## Privacy Concerns
 
 The website directs travelers to a private application system that collects sensitive passport, contact, and travel information. Its privacy policy permits sharing personal information with unspecified sister companies for marketing purposes without identifying those companies or their websites. The policy also states that personally identifiable information will not be shared with third parties, creating ambiguity about how information may be shared within its corporate network. Furthermore, it provides no definite retention period for submitted personal information, leaving travelers uncertain about who may access their sensitive data, how it may be used, and how long it will be stored.
+
+## Billing or Service Issues
+
+Travelers have publicly reported billing and customer support problems involving the service. On the website's own discussion pages, one traveler complained about being charged despite submitting within the advertised free 72-hour window, including duplicate charges for two applicants. Another requested assistance obtaining a refund. A Trustpilot reviewer reported problems completing the application and receiving no response from live chat or email support for more than six weeks. These complaints raise concerns about billing accuracy, refund handling, and the reliability of the website's advertised customer support.
