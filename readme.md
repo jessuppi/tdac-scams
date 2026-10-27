@@ -47,7 +47,7 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 | Domain | Government Impersonation | Misleading Fees | Deceptive Promotion | Hidden Disclosures | Misleading Claims | Privacy Concerns | Billing or Service Issues |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [tdac.in.th](domains/tdac.in.th.md) | ✓ |  | ✓ | ✓ | ✓ | ✓ |  |
-| [tdac.agents.co.th](domains/tdac.agents.co.th.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |
+| [tdac.agents.co.th](domains/tdac.agents.co.th.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | [agents.co.th](domains/agents.co.th.md) |  |  | ✓ |  | ✓ | ✓ |  |
 | [tdac.info](domains/tdac.info.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 
