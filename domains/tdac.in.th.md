@@ -6,6 +6,10 @@ Last updated: October 28, 2026
 
 The domain `tdac.in.th` closely resembles the name of Thailand's official Digital Arrival Card service and redirects to `tdac.agents.co.th`, a privately operated submission service. Its branding and page title may lead travelers to mistake it for a government website.
 
+## Misleading Fees
+
+The website prominently advertises "TDAC Cost: FREE" and "Instant Approval" alongside its application button, but charges USD $8 (270 THB) for submissions made more than 72 hours before arrival. Although this fee is disclosed farther down the page, paid early submissions are merely held until Thailand's official registration window opens, meaning travelers receive no earlier government processing or approval. This presentation may mislead visitors into believing that payment provides earlier access to the TDAC system or a processing advantage over Thailand's completely free government service.
+
 ## Deceptive Promotion
 
 The website prominently advertises free TDAC submissions and instant approval while displaying live traveler activity and large comment counts to reinforce its credibility. These promotional tactics may give travelers an exaggerated impression of the service's popularity, reliability, and authority.
