@@ -23,6 +23,7 @@ The TDAC application collects sensitive passport, contact, and travel informatio
 ## References
 
 - https://www.reddit.com/r/Thailand/comments/1l65pwy/warning_tdacinth_now_agentscoth_charges_8_for_tdac/
+- https://www.quora.com/Are-tdac-info-and-tdac-in-th-fake-Thailand-TDAC-websites
 - `https://tdac.in.th/`
 - `https://tdac.agents.co.th/`
 - `https://agents.co.th/tdac-apply/policy/privacy/`
