@@ -10,6 +10,10 @@ The website promotes its USD $8 (270 THB) early-submission service as an advanta
 
 The website promotes its private TDAC submission portal as a significant improvement over Thailand's official government system, advertising "10x" efficiency gains, unlimited travelers per submission, and support for 76 languages compared with five on the official portal. However, its own description specifies support for 25 to 80 traveler profiles simultaneously, raising questions about its unlimited submission claim. These promotional comparisons may exaggerate the capabilities and advantages of its intermediary service while encouraging travelers and tour operators to use its private platform instead of Thailand's free government application.
 
+## Hidden Disclosures
+
+The website identifies its TDAC portal as a third-party service and discloses an USD $8 (270 THB) fee for submissions more than 72 hours before arrival. However, its homepage promotes early submission as an advantage over Thailand's official government system without clearly explaining that these applications are held by the agency until the official submission window opens. This distinction is explained on its separate TDAC website rather than alongside the homepage's pricing comparison. Travelers may therefore misunderstand whether the fee provides earlier government processing or merely advance collection and scheduling of their information.
+
 ## Misleading Claims
 
 The website's comparison table claims that Thailand's official TDAC system does not support resubmissions, presenting this functionality as an exclusive advantage of its private service. However, Thailand's Immigration Bureau explicitly permits travelers to submit a new application to correct information, with the most recent submission taking precedence. The website also advertises unlimited travelers per submission while elsewhere describing support for 25 to 80 traveler profiles simultaneously, leaving its actual group capacity unclear. These comparisons may mislead travelers about the capabilities and limitations of the free government system.
