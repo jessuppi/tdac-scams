@@ -12,7 +12,7 @@ The company describes its TDAC Agents Portal as revolutionizing group submission
 
 ## Hidden Disclosures
 
-The website identifies its TDAC portal as a third-party service and discloses an USD $8 (270 THB) fee for submissions more than 72 hours before arrival. However, its homepage promotes early submission as an advantage over Thailand's official government system without clearly explaining that these applications are held by the agency until the official submission window opens. This distinction is explained on its separate TDAC website rather than alongside the homepage's pricing comparison. Travelers may therefore misunderstand whether the fee provides earlier government processing or merely advance collection and scheduling of their information.
+The company identifies its offering as a "Third party TDAC portal" and explains that submissions within 72 hours of arrival are free. However, its comparison table advertises "Arrival >72h" for USD $8 (270 THB) against "N/A" for the official government system without explaining that early applications are held until the official submission window opens. That processing limitation appears on its separate TDAC website rather than alongside the comparison. Although the company discloses its commercial status and pricing, separating these details may lead travelers to believe that paying provides earlier government processing rather than advance collection and scheduling of their information.
 
 ## Misleading Claims
 
