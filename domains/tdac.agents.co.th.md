@@ -15,3 +15,7 @@ The website prominently advertises free TDAC submissions and instant approval wh
 ## Hidden Disclosures
 
 The website prominently advertises "TDAC Cost: FREE" and "Instant Approval" alongside its application button, while the USD $8 early-submission fee appears farther down the page. Although a brief disclaimer states that the service is not affiliated with the Thai government and links to the official TDAC portal, the website's main branding and application prompts give much greater prominence to its submission service. This presentation may cause travelers to overlook the private operator's commercial role, the possibility of additional charges, and the availability of Thailand's completely free government application.
+
+## Misleading Claims
+
+The website states that the TDAC system supports group submissions of up to 100 travelers and elsewhere advertises unlimited travelers in a single submission. However, Thailand's Immigration Bureau limits official TDAC group applications to 10 travelers per submission. By presenting its private service's expanded capacity as a feature of the TDAC system itself, the website misrepresents how the official government application works and may mislead travelers into believing its intermediary service offers capabilities unavailable through the official portal.
