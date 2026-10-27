@@ -23,3 +23,7 @@ The website claims that Thailand's official TDAC portal requires separate submis
 ## Privacy Concerns
 
 The website collects sensitive passport, contact, and travel information through its private application system and advertises manual reviews of passport scans. Although its application form claims personal information is never stored after processing, the homepage states that traveler details may be held for up to 12 months before submission. Its privacy policy primarily addresses comments, contact forms, and cookies without explaining how passport records, uploaded documents, or advance booking information are stored, accessed, or deleted. These omissions leave travelers uncertain about how their sensitive identity information is protected and how long it remains accessible.
+
+## Billing or Service Issues
+
+The website prominently advertises "Refund if rejected" and promises travelers their money back if their TDAC is not filed before departure. However, its Terms and Conditions restrict refunds primarily to duplicate payments or cancellations within 30 minutes of payment, before processing begins. The policy also states that refunds are unavailable once an application has been submitted to Thai Immigration, without clearly providing an exception for errors caused by the service itself. These conflicting refund promises may mislead customers about their eligibility for reimbursement if the service fails to deliver as advertised.
