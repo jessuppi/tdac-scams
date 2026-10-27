@@ -4,7 +4,7 @@ Last updated: October 28, 2026
 
 ## Misleading Fees
 
-The website promotes its USD $8 (270 THB) early-submission service as an advantage over Thailand's official TDAC system, which does not accept applications more than three days before arrival. However, paying this fee does not provide earlier government processing or approval. Instead, the private agency collects travelers' information in advance and submits it once the official registration window opens. By presenting this paid scheduling service as a superior submission capability, the website may mislead travelers about what the additional fee actually provides.
+The company advertises free TDAC submissions within 72 hours of arrival but lists "Arrival >72h" at USD $8 (270 THB) under "How We Improve Upon the Original System." This presents early submission as a capability unavailable through Thailand's official government portal. However, the associated private service explains that applications submitted early remain pending until the official registration window opens. Paying therefore allows travelers or tour operators to provide information in advance, not obtain earlier government processing or approval. Without that distinction alongside the pricing comparison, travelers may misunderstand the benefit provided by the additional fee.
 
 ## Deceptive Promotion
 
