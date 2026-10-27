@@ -31,6 +31,7 @@ The website prominently advertises "Refund if rejected" and promises travelers t
 ## References
 
 - https://www.quora.com/Are-tdac-info-and-tdac-in-th-fake-Thailand-TDAC-websites
+- https://www.raiyai.com/blog/tdac-thailand-scam-warning/
 - `https://tdac.info/`
 - `https://tdac.info/apply-now`
 - `https://tdac.info/privacy-policy`
