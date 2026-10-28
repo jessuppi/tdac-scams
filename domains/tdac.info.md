@@ -20,7 +20,7 @@ The homepage begins with a TDAC application form and a prominent "Start TDAC App
 
 ## Misleading Claims
 
-The website warns "No QR code, no entry" and says airlines may refuse boarding. However, Thailand's Immigration Bureau advises travelers who do not receive their QR code to contact immigration officers and provides on-arrival kiosks and Wi-Fi for TDAC submissions. Its comparison table also claims the official portal requires separate applications for family members, although the government supports up to 10 travelers per group submission. The website further estimates 30–60 minutes for first-time users of the official portal, compared with the Bureau's stated three to five minutes per person when information is ready. These claims exaggerate obstacles in the free system and may encourage travelers to purchase its USD $29 assisted filing service.
+The website lists diplomatic and government passport holders as exempt from TDAC, although Thailand's Immigration Bureau confirms that non-Thai diplomatic passport holders must submit it. It also warns "No QR code, no entry," despite official guidance offering immigration assistance and arrival kiosks for travelers without a QR code. Its comparison table claims families must file separately, although the government portal supports groups of up to 10 travelers. The website further estimates 30–60 minutes for first-time users of the official portal, compared with the Bureau's three-to-five-minute estimate per person. These inaccurate or exaggerated claims may mislead travelers about TDAC requirements and encourage unnecessary paid assistance.
 
 ## Privacy Concerns
 
