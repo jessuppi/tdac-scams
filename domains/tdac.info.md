@@ -16,7 +16,7 @@ The homepage claims it has filed TDAC forms more than a thousand times without p
 
 ## Hidden Disclosures
 
-The homepage presents a TDAC application form before disclosing its USD $29 per-traveler fee, while the fuller third-party disclaimer appears near the bottom. Its homepage FAQ says filings made seven or more days before arrival are "typically submitted within the day," whereas its separate FAQ page says early applications are queued until the official 72-hour window. Its Terms and Conditions also promise submission "shortly after payment confirmation." The website does not consistently distinguish accepting an application, preparing it, and filing it with Thai Immigration. These conflicting descriptions may leave travelers uncertain about when their applications are actually submitted and what the paid service provides.
+The homepage invites travelers to begin a TDAC application before displaying its USD $29-per-traveler fee. The website accepts applications up to 12 months before arrival and says they are held until the official 72-hour filing window. However, another homepage section promises submission "within thirty minutes during Bangkok hours," while its Terms and Conditions state that applications are submitted "shortly after payment confirmation." These inconsistent descriptions fail to clearly distinguish between accepting payment, preparing an application, and actually submitting it to Thai Immigration. Travelers may therefore be misled about when their applications are filed and what processing speed their payment guarantees.
 
 ## Misleading Claims
 
