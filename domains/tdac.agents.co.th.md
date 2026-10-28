@@ -31,7 +31,7 @@ The private TDAC application collects sensitive passport, contact, and travel in
 
 ## Billing or Service Issues
 
-On the website's public discussion pages, one traveler reported being charged despite applying within the advertised free 72-hour window, including duplicate charges involving two applicants. Another commenter requested help obtaining a refund. Separately, a Trustpilot reviewer reported difficulty completing the application because of an address-code issue and said live chat and email inquiries went unanswered for more than six weeks. Although these complaints have not been independently verified, they raise concerns about billing accuracy, refund handling, and customer support responsiveness. The combination of unexpected-charge allegations and unresolved support requests warrants particular scrutiny for a service processing sensitive traveler information.
+Public comments on `tdac.agents.co.th` include a report of being charged despite applying within the advertised free 72-hour window, with duplicate charges involving two applicants. A separate comment requested a refund after payment. On Trustpilot, a reviewer reported difficulty completing an application because of an address-code issue and said live chat and email inquiries went unanswered for more than six weeks. These accounts have not been independently verified but raise concerns about billing transparency, refund handling, and customer support responsiveness.
 
 ## References
 
