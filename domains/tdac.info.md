@@ -28,7 +28,7 @@ TDAC.info’s application form says personal information is “never stored on o
 
 ## Billing or Service Issues
 
-The homepage promises a full refund if Thai Immigration rejects a TDAC because of an error by the service, and money back if the application is not filed before departure. However, its Terms and Conditions list refund eligibility primarily for duplicate payments, payments made in error before submission, or cancellations within 30 minutes before processing begins. They also state that refunds are unavailable after submission to Thai Immigration, without explicitly explaining how the advertised service-error guarantee is honored. This discrepancy may leave customers uncertain about their eligibility for reimbursement if the agency makes a mistake or fails to deliver the promised service.
+TDAC.info promises a full refund when its own error causes a TDAC rejection or when it fails to file before departure. Its separate Refund Policy repeats these guarantees and permits cancellation any time before filing. However, its Terms and Conditions initially restrict refunds to duplicate payments or requests made within 30 minutes before processing begins, while a later section allows cancellation until submission. More seriously, both documents state that refunds are unavailable once a TDAC has been submitted to Thai Immigration, despite also promising refunds when the website's own errors cause a rejection after submission. These contradictory policies leave customers uncertain whether the advertised refund guarantees will actually be honored.
 
 ## References
 
