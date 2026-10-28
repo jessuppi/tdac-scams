@@ -4,7 +4,7 @@ Last updated: October 28, 2026
 
 ## Government Impersonation
 
-The domain `tdac.info` and its page title, "Thailand Digital Arrival Card 2026," prominently use the official form's name. At the top of the homepage, visitors encounter a TDAC application form and a "Start TDAC Application" button before a clear explanation of the site's private role. The website does state "Independent filing service · Not the government portal" below the form and includes a fuller non-affiliation disclaimer near the bottom. Nevertheless, this presentation may lead travelers arriving from search results to mistake the private application process for the official government service at `tdac.immigration.go.th`, particularly before encountering the disclaimers.
+The domain `tdac.info` and its homepage title, "TDAC Thailand 2026: Your Digital Arrival Card in 5 minutes," prominently use the official form's name. The homepage encourages visitors to begin a TDAC application before disclosing its USD $29 fee. Although a brief "Independent filing service · Not the government portal" notice appears above the application form, the fuller non-affiliation disclaimer is placed at the bottom of the page. This presentation may mislead travelers arriving from search results into believing they are using Thailand's official TDAC service at `tdac.immigration.go.th`, which is free, rather than a paid third-party intermediary charging USD $29 per traveler.
 
 ## Misleading Fees
 
