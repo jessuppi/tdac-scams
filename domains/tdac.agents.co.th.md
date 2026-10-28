@@ -32,6 +32,7 @@ On the website's public discussion pages, one traveler reported being charged de
 
 ## References
 
+- https://en.wikipedia.org/wiki/Talk:Thailand_Digital_Arrival_Card
 - https://www.reddit.com/r/Thailand/comments/1l65pwy/warning_tdacinth_now_agentscoth_charges_8_for_tdac/
 - https://www.reddit.com/r/ThailandTourism/comments/1sd9347/misleading_tdac_scam_alert_on_tdacagentscoth/
 - https://www.quora.com/Is-tdac-agents-co-th-a-known-TDAC-scam-website
