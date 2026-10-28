@@ -2,6 +2,9 @@
 
 Last updated: October 28, 2026
 
+> [!NOTE]
+> The TDAC submission service promoted on agents.co.th is also available through tdac.agents.co.th, which receives visitors redirected from tdac.in.th.
+
 ## Misleading Fees
 
 The company advertises free TDAC submissions within 72 hours of arrival but lists "Arrival >72h" at USD $8 (270 THB) under "How We Improve Upon the Original System." This presents early submission as a capability unavailable through Thailand's official government portal. However, the associated private service explains that applications submitted early remain pending until the official registration window opens. Paying therefore allows travelers or tour operators to provide information in advance, not obtain earlier government processing or approval. Without that distinction alongside the pricing comparison, travelers may misunderstand the benefit provided by the additional fee.
