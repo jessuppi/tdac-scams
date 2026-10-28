@@ -23,7 +23,7 @@ The company's TDAC comparison table lists "Resubmission" as "Supported vs Not Su
 
 ## Privacy Concerns
 
-The website processes sensitive passport, contact, and travel information through its private TDAC service. Its privacy policy permits sharing information with affiliates and service providers, and separately allows sharing with unnamed sister companies for marketing purposes. Yet the same policy states that personally identifiable information will not be shared with third parties, leaving the scope of these exceptions unclear. Its separate data protection policy also permits sister-company sharing for promotions. Neither policy specifies a definite retention period for TDAC submissions, referring instead to general legal and operational requirements. Travelers therefore lack clear information about who may receive their records and how long they are retained.
+The website processes sensitive passport, contact, and travel information through its private TDAC service. Its privacy policy permits sharing information with affiliates and service providers, as well as sister companies for marketing purposes, without identifying those sister companies. Yet the same policy states that personally identifiable information will not be shared with third parties, leaving unclear which organizations may receive travelers' data. Its separate data protection policy also permits sister-company sharing for promotions. Although the privacy policy provides a self-service "Data Removal" option, neither policy states how long TDAC submission records are retained when no deletion is requested.
 
 ## Billing or Service Issues
 
