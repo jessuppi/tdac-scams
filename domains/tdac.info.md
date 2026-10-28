@@ -24,7 +24,7 @@ The website's FAQ claims the official TDAC portal has "strict photo upload rules
 
 ## Privacy Concerns
 
-The website collects sensitive passport and travel information and accepts applications up to 12 months before arrival. Its application form promises that personal information is "never stored on our servers after processing," yet its FAQ advertises a "Secure Cloud Backup" that allows agents to retrieve lost TDAC documents using a traveler's name and passport number. Although these statements may concern different records, the website does not explain what information remains stored or for how long. Its published privacy policy primarily addresses comments, contact forms, and cookies rather than passport scans and TDAC submissions. These inconsistencies leave travelers uncertain about how their sensitive identity information is retained and protected.
+TDAC.info’s application form says personal information is “never stored on our servers after processing.” Its privacy policy says the service collects passport, contact, and travel data, keeps unpaid drafts and internal order records, and retains filed applications while they remain relevant to a trip and as long as transaction records are required. The policy gives no fixed maximum retention period. These disclosures conflict about post-processing storage and leave the retention period unclear.
 
 ## Billing or Service Issues
 
