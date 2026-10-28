@@ -32,6 +32,8 @@ TDAC.info promises a full refund when its own error causes a TDAC rejection or w
 
 ## References
 
+- https://tdac.immigration.go.th/manual/en/faq.html
+- https://www.mots.go.th/mots_en/news/3764
 - https://www.bangkokpost.com/thailand/general/3226524/immigration-warns-of-scam-digital-arrival-card-websites
 - https://www.raiyai.com/blog/tdac-thailand-scam-warning/
 - https://www.quora.com/Are-tdac-info-and-tdac-in-th-fake-Thailand-TDAC-websites
@@ -39,4 +41,5 @@ TDAC.info promises a full refund when its own error causes a TDAC rejection or w
 - `https://tdac.info/apply-now`
 - `https://tdac.info/privacy-policy`
 - `https://tdac.info/terms-conditions`
+- `https://tdac.info/refund-policy`
 - `https://tdac.info/faq`
