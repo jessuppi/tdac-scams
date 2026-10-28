@@ -16,7 +16,7 @@ The homepage claims to be "Trusted by 10,987 travellers" and displays "4.9 / 10,
 
 ## Hidden Disclosures
 
-The homepage displays a TDAC application form before revealing its USD $29 per-traveler fee farther down the page. A brief independent-service notice appears below the form, while the fuller disclaimer is near the bottom. The website also advertises applications up to 12 months in advance, explaining that submissions are held until the official registration window opens. However, its Terms and Conditions state that applications are "processed and submitted shortly after payment confirmation," without reconciling that promise with its advance-filing process. These inconsistencies and separated disclosures may leave travelers uncertain about the service's charges and when their applications are actually submitted.
+The homepage presents a TDAC application form before showing its USD $29 per-traveler fee, while the fuller third-party disclaimer appears near the bottom. It offers bookings up to 12 months ahead, promising to hold applications until Thailand's official three-day submission window. However, its FAQ says filings made seven or more days before arrival are "typically submitted within the day," while its Terms and Conditions state that applications are submitted "shortly after payment confirmation." Neither statement explains how those timelines comply with the official filing restriction. These conflicting disclosures may leave travelers uncertain about when their information reaches Thai Immigration and what the paid service provides.
 
 ## Misleading Claims
 
