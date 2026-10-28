@@ -38,8 +38,11 @@ Public complaints about this TDAC submission service describe payment demands, u
 - https://en.wikipedia.org/wiki/Talk:Thailand_Digital_Arrival_Card
 - https://www.trustpilot.com/review/tdac.in.th
 - https://www.trustpilot.com/review/tdac.agents.co.th
+- https://www.reddit.com/r/Thailand/comments/1l65pwy/warning_tdacinth_now_agentscoth_charges_8_for_tdac/
+- https://www.reddit.com/r/ThailandTourism/comments/1sd9347/misleading_tdac_scam_alert_on_tdacagentscoth/
 - `https://agents.co.th/`
 - `https://tdac.agents.co.th/`
+- `https://tdac.agents.co.th/scam`
 - `https://agents.co.th/tdac-apply/policy/privacy/`
 - `https://agents.co.th/tdac-apply/policy/data-protection/`
 - `https://agents.co.th/tdac-apply/policy/refund/`
