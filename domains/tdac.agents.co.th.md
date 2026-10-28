@@ -7,7 +7,7 @@ Last updated: October 28, 2026
 
 ## Government Impersonation
 
-The `tdac.agents.co.th` homepage prominently displays the official name of Thailand's Digital Arrival Card service and an application button. The page advertises "TDAC Cost: FREE" and "Instant Approval," potentially giving travelers the impression that they are using an official government filing portal. A disclaimer at the top explicitly denies affiliation with the Thai government and directs visitors to `tdac.immigration.go.th`. Nevertheless, the official-sounding branding and application prompts may still cause confusion about the service's privately operated status, particularly among travelers following links to the original subdomain.
+The `tdac.agents.co.th` homepage prominently displays the official name of Thailand's Digital Arrival Card service and an application button. The page advertises "TDAC Cost: FREE" and "Instant Approval," potentially giving travelers the impression that they are using an official government filing portal. A disclaimer at the top explicitly denies affiliation with the Thai government and directs visitors to `tdac.immigration.go.th`. Nevertheless, the official-sounding branding and application prompts may still cause confusion about the service's privately operated status, particularly among travelers redirected from `tdac.in.th`.
 
 ## Misleading Fees
 
