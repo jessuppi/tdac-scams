@@ -28,6 +28,8 @@ The company's TDAC refund policy offers full refunds for canceled trips or servi
 
 ## References
 
+- https://tdac.immigration.go.th/manual/en/faq.html
+- https://www.mots.go.th/mots_en/news/3764
 - https://en.wikipedia.org/wiki/Talk:Thailand_Digital_Arrival_Card
 - `https://agents.co.th/`
 - `https://tdac.agents.co.th/`
