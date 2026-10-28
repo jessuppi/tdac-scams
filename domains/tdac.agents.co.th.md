@@ -3,7 +3,7 @@
 Last updated: October 28, 2026
 
 > [!NOTE]
-> As of October 28, 2026, tdac.agents.co.th serves the privately operated TDAC submission website directly; tdac.in.th redirects to this subdomain.
+> As of October 28, 2026, tdac.agents.co.th directly hosts a privately operated TDAC submission website, with visitors from tdac.in.th redirected here.
 
 ## Government Impersonation
 
