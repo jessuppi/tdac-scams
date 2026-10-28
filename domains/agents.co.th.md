@@ -45,3 +45,4 @@ Public complaints about this TDAC submission service describe payment demands, u
 - `https://agents.co.th/tdac-apply/policy/refund/`
 - `https://tdac.agents.co.th/comments/18`
 - `https://tdac.agents.co.th/comments/2`
+- `https://tdac.in.th/`
