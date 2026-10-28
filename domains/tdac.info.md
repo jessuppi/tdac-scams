@@ -20,7 +20,7 @@ The homepage presents a TDAC application form before disclosing its USD $29 per-
 
 ## Misleading Claims
 
-The website lists diplomatic and government passport holders as exempt from TDAC, although Thailand's Immigration Bureau confirms that non-Thai diplomatic passport holders must submit it. It also warns "No QR code, no entry," despite official guidance offering immigration assistance and arrival kiosks for travelers without a QR code. Its comparison table claims families must file separately, although the government portal supports groups of up to 10 travelers. The website further estimates 30–60 minutes for first-time users of the official portal, compared with the Bureau's three-to-five-minute estimate per person. These inaccurate or exaggerated claims may mislead travelers about TDAC requirements and encourage unnecessary paid assistance.
+The website lists diplomatic and government passport holders as exempt from TDAC, although Thailand's Immigration Bureau requires non-Thai diplomatic passport holders to submit it. Its FAQ claims the official portal cannot edit a submitted card and requires a new application, but the government provides an "Update Arrival Card" function for correcting many details. The same FAQ says families must file separately, despite official group submissions supporting up to 10 travelers. The homepage also warns "No QR code, no entry," whereas immigration provides assistance and arrival kiosks. These misleading comparisons exaggerate the limitations of the free government system and promote the website's paid filing assistance.
 
 ## Privacy Concerns
 
