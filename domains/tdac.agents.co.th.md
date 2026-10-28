@@ -35,6 +35,8 @@ Public comments on `tdac.agents.co.th` include a report of being charged despite
 
 ## References
 
+- https://tdac.immigration.go.th/manual/en/faq.html
+- https://www.mots.go.th/mots_en/news/3764
 - https://en.wikipedia.org/wiki/Talk:Thailand_Digital_Arrival_Card
 - https://www.reddit.com/r/Thailand/comments/1l65pwy/warning_tdacinth_now_agentscoth_charges_8_for_tdac/
 - https://www.reddit.com/r/ThailandTourism/comments/1sd9347/misleading_tdac_scam_alert_on_tdacagentscoth/
