@@ -3,7 +3,7 @@
 Last updated: October 28, 2026
 
 > [!NOTE]
-> As of October 28, 2026, tdac.in.th redirects visitors to another privately operated TDAC submission website.
+> As of October 28, 2026, tdac.in.th redirects visitors to the privately operated TDAC submission website at tdac.agents.co.th.
 
 ## Government Impersonation
 
