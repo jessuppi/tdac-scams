@@ -2,9 +2,12 @@
 
 Last updated: October 28, 2026
 
+> [!NOTE]
+> As of October 28, 2026, tdac.agents.co.th serves the privately operated TDAC submission website directly; tdac.in.th redirects to this subdomain.
+
 ## Government Impersonation
 
-Visitors opening `tdac.agents.co.th` are redirected to `tdac.in.th`, which prominently displays the official name of Thailand's Digital Arrival Card service and an application button. The page advertises "TDAC Cost: FREE" and "Instant Approval," potentially giving travelers the impression that they are using an official government filing portal. A disclaimer at the top explicitly denies affiliation with the Thai government and directs visitors to `tdac.immigration.go.th`. Nevertheless, the official-sounding branding and application prompts may still cause confusion about the service's privately operated status, particularly among travelers following links to the original subdomain.
+The `tdac.agents.co.th` homepage prominently displays the official name of Thailand's Digital Arrival Card service and an application button. The page advertises "TDAC Cost: FREE" and "Instant Approval," potentially giving travelers the impression that they are using an official government filing portal. A disclaimer at the top explicitly denies affiliation with the Thai government and directs visitors to `tdac.immigration.go.th`. Nevertheless, the official-sounding branding and application prompts may still cause confusion about the service's privately operated status, particularly among travelers following links to the original subdomain.
 
 ## Misleading Fees
 
