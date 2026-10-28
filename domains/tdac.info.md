@@ -24,7 +24,7 @@ The website lists diplomatic and government passport holders as exempt from TDAC
 
 ## Privacy Concerns
 
-The website's private TDAC application collects sensitive passport, contact, and travel information and advertises manual reviews of passport scans. It accepts applications up to 12 months before arrival, storing travelers' details until the official submission window opens. Although its application page promises that personal information is not stored on its servers after processing or shared with third parties, its published privacy policy primarily addresses comments, contact forms, cookies, and user accounts. It does not clearly explain how TDAC application records or passport scans are secured, who can access them, or when they are deleted. These omissions make its handling of sensitive traveler information difficult to evaluate.
+The website collects sensitive passport and travel information and accepts applications up to 12 months before arrival. Its application form promises that personal information is "never stored on our servers after processing," yet its FAQ advertises a "Secure Cloud Backup" that allows agents to retrieve lost TDAC documents using a traveler's name and passport number. Although these statements may concern different records, the website does not explain what information remains stored or for how long. Its published privacy policy primarily addresses comments, contact forms, and cookies rather than passport scans and TDAC submissions. These inconsistencies leave travelers uncertain about how their sensitive identity information is retained and protected.
 
 ## Billing or Service Issues
 
