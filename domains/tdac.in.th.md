@@ -32,6 +32,7 @@ Public complaints raise questions about billing associated with `tdac.in.th` and
 
 ## References
 
+- https://en.wikipedia.org/wiki/Talk:Thailand_Digital_Arrival_Card
 - https://www.reddit.com/r/Thailand/comments/1l65pwy/warning_tdacinth_now_agentscoth_charges_8_for_tdac/
 - https://www.quora.com/Are-tdac-info-and-tdac-in-th-fake-Thailand-TDAC-websites
 - https://www.quora.com/Why-wont-Thai-Immigration-shut-down-tdac-in-th-scam
