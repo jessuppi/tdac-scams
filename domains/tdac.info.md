@@ -16,7 +16,7 @@ The homepage claims to be "Trusted by 10,987 travellers" and displays "4.9 / 10,
 
 ## Hidden Disclosures
 
-The homepage begins with a TDAC application form and a prominent "Start TDAC Application" button. Nearby text explains that payment comes on the next page, but does not disclose the USD $29 per-traveler price at this point. The fee appears later in the assisted-filing and pricing sections. A brief "Independent filing service · Not the government portal" notice appears below the form, while the fuller disclaimer and official free portal's address appear near the bottom. This separation may cause visitors to begin the application without fully understanding the service's charges or the availability of the free government alternative.
+The homepage displays a TDAC application form before revealing its USD $29 per-traveler fee farther down the page. A brief independent-service notice appears below the form, while the fuller disclaimer is near the bottom. The website also advertises applications up to 12 months in advance, explaining that submissions are held until the official registration window opens. However, its Terms and Conditions state that applications are "processed and submitted shortly after payment confirmation," without reconciling that promise with its advance-filing process. These inconsistencies and separated disclosures may leave travelers uncertain about the service's charges and when their applications are actually submitted.
 
 ## Misleading Claims
 
