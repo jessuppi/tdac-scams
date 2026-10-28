@@ -35,6 +35,8 @@ Two separate users have reported billing concerns. A Trustpilot reviewer reporte
 
 ## References
 
+- https://tdac.immigration.go.th/manual/en/faq.html
+- https://www.mots.go.th/mots_en/news/3764
 - https://en.wikipedia.org/wiki/Talk:Thailand_Digital_Arrival_Card
 - https://www.reddit.com/r/Thailand/comments/1l65pwy/warning_tdacinth_now_agentscoth_charges_8_for_tdac/
 - https://www.quora.com/Are-tdac-info-and-tdac-in-th-fake-Thailand-TDAC-websites
