@@ -31,10 +31,12 @@ The TDAC application collects sensitive passport, contact, and travel informatio
 
 ## Billing or Service Issues
 
-Two separate users have reported billing concerns. A Trustpilot reviewer reported encountering a payment demand at the final stage of a TDAC application and abandoned the process without paying. Separately, a commenter on `tdac.agents.co.th` reported being charged despite applying within the advertised free 72-hour window, along with duplicate charges involving two applicants. These accounts have not been independently verified but raise concerns about billing transparency and advertised pricing.
+Public complaints about this TDAC submission service describe payment demands, unexpected charges, refund requests, and unanswered support inquiries. A reviewer on the `tdac.in.th` Trustpilot page reported encountering a payment demand at the final application stage and abandoning the process without paying. Separately, a commenter on `tdac.agents.co.th` reported being charged within the advertised free 72-hour window, including duplicate charges involving two applicants. Another comment requested a refund after payment. A reviewer on the `tdac.agents.co.th` Trustpilot page reported difficulty completing an application because of an address-code issue, with live chat and email inquiries going unanswered for more than six weeks.
 
 ## References
 
+- https://www.trustpilot.com/review/tdac.agents.co.th
+- `https://tdac.agents.co.th/comments/2`
 - https://tdac.immigration.go.th/manual/en/faq.html
 - https://www.mots.go.th/mots_en/news/3764
 - https://en.wikipedia.org/wiki/Talk:Thailand_Digital_Arrival_Card
