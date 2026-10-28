@@ -55,6 +55,7 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 
 ## Further Reading
 
+- https://en.wikipedia.org/wiki/Thailand_Digital_Arrival_Card
 - https://tdac.immigration.go.th/
 - https://tdac.immigration.go.th/manual/en/faq.html
 - https://www.tourismthailand.org/Articles/tdac
