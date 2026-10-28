@@ -27,16 +27,21 @@ The website processes sensitive passport, contact, and travel information throug
 
 ## Billing or Service Issues
 
-The company's TDAC refund policy offers full refunds for canceled trips or services canceled more than seven days before arrival, but does not explain how billing disputes, submission errors, or delays are handled. The policy also describes TDAC submissions as "visa applications," although the TDAC is not a visa. On the associated submission website, a traveler reported being charged within the advertised free 72-hour window and receiving duplicate charges for two applicants. Although this complaint has not been independently verified, the reported billing problems and gaps in the refund policy raise questions about customers' ability to obtain corrections or reimbursement.
+The company's TDAC refund policy offers full refunds for canceled trips or services canceled more than seven days before arrival, but does not explain how billing disputes, submission errors, or delays are handled. The policy also describes TDAC submissions as "visa applications," although the TDAC is not a visa.
+
+Public complaints about this TDAC submission service describe payment demands, unexpected charges, refund requests, and unanswered support inquiries. A reviewer on the `tdac.in.th` Trustpilot page reported encountering a payment demand at the final application stage and abandoning the process without paying. Separately, a commenter on `tdac.agents.co.th` reported being charged within the advertised free 72-hour window, including duplicate charges involving two applicants. Another comment requested a refund after payment. A reviewer on the `tdac.agents.co.th` Trustpilot page reported difficulty completing an application because of an address-code issue, with live chat and email inquiries going unanswered for more than six weeks.
 
 ## References
 
 - https://tdac.immigration.go.th/manual/en/faq.html
 - https://www.mots.go.th/mots_en/news/3764
 - https://en.wikipedia.org/wiki/Talk:Thailand_Digital_Arrival_Card
+- https://www.trustpilot.com/review/tdac.in.th
+- https://www.trustpilot.com/review/tdac.agents.co.th
 - `https://agents.co.th/`
 - `https://tdac.agents.co.th/`
 - `https://agents.co.th/tdac-apply/policy/privacy/`
 - `https://agents.co.th/tdac-apply/policy/data-protection/`
 - `https://agents.co.th/tdac-apply/policy/refund/`
 - `https://tdac.agents.co.th/comments/18`
+- `https://tdac.agents.co.th/comments/2`
