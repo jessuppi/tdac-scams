@@ -19,7 +19,7 @@ The company identifies its offering as a "Third party TDAC portal" and explains 
 
 ## Misleading Claims
 
-The company's TDAC comparison table lists "Resubmission" as "Supported vs Not Supported," implying that the official government portal cannot accept a corrected application. Thailand's Immigration Bureau, however, allows travelers to update many details using "Update Arrival Card" and submit a new form for information that cannot be edited; the latest valid submission takes precedence. The website also advertises "Unlimited" travelers per submission while describing its simultaneous capacity as 25 to 80 profiles, without explaining how those figures relate. These comparisons may exaggerate the private service's advantages and misrepresent the free government portal's correction options and group-submission capabilities.
+The company's TDAC comparison table lists "Resubmission" as "Supported vs Not Supported," implying that the official government portal cannot accept a corrected application. Thailand's Immigration Bureau, however, allows travelers to update many details using "Update Arrival Card" and submit a new form for information that cannot be edited; the latest valid submission takes precedence. The company also advertises "Unlimited" travelers per submission and claims its portal can handle 25 to 80 traveler profiles simultaneously, although Thailand's official TDAC system permits only 10 travelers per submission. The website does not clearly explain how its advertised capacity relates to the government's submission limits. These comparisons may mislead travelers and tour operators about the private service's capabilities and the limitations of the free government portal.
 
 ## Privacy Concerns
 
