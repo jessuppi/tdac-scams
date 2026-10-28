@@ -24,7 +24,7 @@ The website advertises "Instant Approval" alongside its application button, alth
 
 ## Privacy Concerns
 
-The TDAC application collects sensitive passport, contact, and travel information through a private intermediary rather than directly through Thailand's government portal. Its privacy policy permits sharing personal information with affiliates, service providers, and unspecified sister companies, including for marketing purposes. However, the same policy states that personally identifiable information will not be shared with third parties, creating ambiguity about which organizations may receive travelers' data. The policy also provides no definite retention period for TDAC submissions, stating only that information is retained as necessary for legal and operational purposes. Travelers therefore lack clear information about who can access their passport details and when those records are deleted.
+The TDAC application collects sensitive passport, contact, and travel information through a private intermediary rather than directly through Thailand's government portal. Its privacy policy permits sharing personal information with affiliates, service providers, and unspecified sister companies, including for marketing purposes. However, the same policy states that personally identifiable information will not be shared with third parties, creating ambiguity about which organizations may receive travelers' data. Although the policy offers a self-service option for deleting personal data, it does not specify how long TDAC submission records are retained when no deletion is requested.
 
 ## Billing or Service Issues
 
