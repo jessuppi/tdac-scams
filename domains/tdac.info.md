@@ -12,7 +12,7 @@ The website charges USD $29 per traveler to submit Thailand's Digital Arrival Ca
 
 ## Deceptive Promotion
 
-The homepage advertises "Trusted by 10,987 travellers" and "4.9 / 10,987 reviews" without identifying an independent source for those figures. Its FAQ also claims the official government portal offers "no support," although Thailand's Immigration Bureau provides an assistance email and help through immigration officers. The website further promises an "approved QR code" and claims passport or date-format errors cause most TDAC rejections, while promoting its manual checks as protection against these problems. These promotional claims may exaggerate the service's reputation and the difficulties of using the free government portal, encouraging travelers to pay USD $29 per person for optional assistance.
+The homepage claims it has filed TDAC forms more than a thousand times without providing independent verification. It also claims the official government portal takes most travelers 30–60 minutes to complete, despite Thailand's Immigration Bureau estimating approximately 3–5 minutes per person when the required information is ready. The website's FAQ falsely claims the government portal offers "no support," although official assistance is available by email and through immigration officers. It further claims passport and date-format errors cause most TDAC rejections and promotes its manual checks as protection against these problems, without providing supporting evidence. These misleading comparisons exaggerate the difficulties of using the free government portal to promote its USD $29-per-traveler service.
 
 ## Hidden Disclosures
 
