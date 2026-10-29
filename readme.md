@@ -50,6 +50,7 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 | [tdac.agents.co.th](domains/tdac.agents.co.th.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | [agents.co.th](domains/agents.co.th.md) | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | [tdac.info](domains/tdac.info.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [tdac.visator.com](domains/tdac.visator.com.md) |  |  |  |  |  |  |  |
 
 ## Further Reading
 
