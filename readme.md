@@ -51,6 +51,7 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 | [agents.co.th](domains/agents.co.th.md) | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | [tdac.info](domains/tdac.info.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | [tdac.visator.com](domains/tdac.visator.com.md) |  |  |  |  |  |  |  |
+| [tdac.thaiarrivalcard.org](domains/tdac.thaiarrivalcard.org.md) |  |  |  |  |  |  |  |
 
 ## Further Reading
 
