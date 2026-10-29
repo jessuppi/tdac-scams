@@ -54,6 +54,7 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 | [tdac.thaiarrivalcard.org](domains/tdac.thaiarrivalcard.org.md) |  |  |  |  |  |  |  |
 | [thailandarrivalcardtourist.com](domains/thailandarrivalcardtourist.com.md) |  |  |  |  |  |  |  |
 | [thetdacguide.com](domains/thetdacguide.com.md) |  |  |  |  |  |  |  |
+| [tdac-thailand.info](domains/tdac-thailand.info.md) |  |  |  |  |  |  |  |
 
 ## Further Reading
 
