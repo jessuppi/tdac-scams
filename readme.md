@@ -55,6 +55,20 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 | [thailandarrivalcardtourist.com](domains/thailandarrivalcardtourist.com.md) |  |  |  |  |  |  |  |
 | [thetdacguide.com](domains/thetdacguide.com.md) |  |  |  |  |  |  |  |
 | [tdac-thailand.info](domains/tdac-thailand.info.md) |  |  |  |  |  |  |  |
+| [tdac-thailand.com](domains/tdac-thailand.com.md) |  |  |  |  |  |  |  |
+| [enterthailandready.com](domains/enterthailandready.com.md) |  |  |  |  |  |  |  |
+| [thailandtdaccheck.com](domains/thailandtdaccheck.com.md) |  |  |  |  |  |  |  |
+| [entrydigitalthailand.com](domains/entrydigitalthailand.com.md) |  |  |  |  |  |  |  |
+| [entrytothailand.com](domains/entrytothailand.com.md) |  |  |  |  |  |  |  |
+| [enterthailand.com](domains/enterthailand.com.md) |  |  |  |  |  |  |  |
+| [thailandtravelapply.com](domains/thailandtravelapply.com.md) |  |  |  |  |  |  |  |
+| [thetdac.com](domains/thetdac.com.md) |  |  |  |  |  |  |  |
+| [tdacnow.com](domains/tdacnow.com.md) |  |  |  |  |  |  |  |
+| [thailandcard.org](domains/thailandcard.org.md) |  |  |  |  |  |  |  |
+| [thaientrycard.com](domains/thaientrycard.com.md) |  |  |  |  |  |  |  |
+| [thailandimmigrationcard.com](domains/thailandimmigrationcard.com.md) |  |  |  |  |  |  |  |
+| [tdacguide.com](domains/tdacguide.com.md) |  |  |  |  |  |  |  |
+| [tdac.travel](domains/tdac.travel.md) |  |  |  |  |  |  |  |
 
 ## Further Reading
 
