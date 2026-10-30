@@ -10,6 +10,10 @@ The website displays three conflicting prices for its TDAC submission service: U
 
 The website describes Thailand's Digital Arrival Card as an "Entry Permit" and advertises a stay of "90 days with a single document," misleading travelers about what the TDAC actually provides. Thailand's Immigration Bureau identifies the TDAC as an arrival registration form, not a visa or authorization to stay for 90 days. Each TDAC covers one arrival, with no renewal required while the traveler remains in Thailand. A new submission is necessary only when entering Thailand again. The permitted length of stay depends on immigration rules and the traveler's entry status, not the TDAC. The website's presentation may falsely suggest that purchasing its submission service provides permission to remain in Thailand for 90 days.
 
+## Privacy Concerns
+
+The website collects sensitive passport information, personal details, contact information, and travel data through its private TDAC application service. However, its Privacy Policy provides no specific retention period for these records, stating only that information is stored as long as necessary or until unspecified legal claim periods expire. The section labeled "Data Retention" does not explain retention practices at all, instead describing information sharing with IT providers, accounting partners, payment processors, and unspecified organizations outside the EU/EEA. These vague and incorrectly organized disclosures leave travelers without clear information about how long their passport and travel records are retained or which external organizations may receive them.
+
 ## References
 
 - https://tdac.immigration.go.th/manual/en/faq.html
@@ -17,3 +21,4 @@ The website describes Thailand's Digital Arrival Card as an "Entry Permit" and a
 - `https://tdac.visator.com/`
 - `https://tdac.visator.com/apply/`
 - `https://tdac.visator.com/terms-conditions/`
+- `https://tdac.visator.com/privacy-policy/`
