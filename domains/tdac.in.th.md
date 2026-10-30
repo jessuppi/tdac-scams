@@ -44,7 +44,7 @@ Public complaints about this TDAC submission service describe payment demands, u
 - https://www.quora.com/Why-wont-Thai-Immigration-shut-down-tdac-in-th-scam
 - https://www.quora.com/Why-does-the-tdac-in-th-scam-site-rank-so-high-on-Google
 - https://www.trustpilot.com/review/tdac.in.th
-- [Facebook reel](https://www.facebook.com/reel/798433356270385)
+- https://www.facebook.com/reel/798433356270385
 - `https://tdac.agents.co.th/comments/2`
 - `https://tdac.in.th/`
 - `https://tdac.in.th/scam`
