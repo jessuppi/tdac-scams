@@ -2,6 +2,10 @@
 
 Last updated: October 30, 2026
 
+## Government Impersonation
+
+Although tdac.visator.com identifies itself as a private service and denies government affiliation, several elements of its presentation may imply official authorization. Its `tdac.visator.com` subdomain prominently uses the acronym for Thailand's mandatory Digital Arrival Card, while its homepage is titled “Thailand Digital Arrival Card – TDAC Made Easy” and its application page “Thailand Digital Arrival Card | TDAC Application.” The homepage also describes the operator as “authorized to assist users” without identifying who granted that authorization. Elsewhere, the website calls the TDAC an “Entry Permit,” advertises “Fast Approval,” and claims its service fee includes government-related charges, despite its own Terms and Conditions listing the government fee as USD $0.00. Together, these elements risk confusing travelers about the operator's relationship with Thai immigration authorities.
+
 ## Misleading Fees
 
 The website displays three conflicting prices for its TDAC submission service: USD $59.95 on its homepage, USD $69.99 on its application payment screen, and USD $39.95 in its Terms and Conditions. The payment screen labels the $69.99 charge a "TDAC fee," even though Thailand's Immigration Bureau charges nothing for official TDAC submissions. These inconsistent prices and misleading fee terminology create confusion about the actual cost, with no explanation on the respective pages for why the charges differ.
