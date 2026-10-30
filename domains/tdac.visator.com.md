@@ -6,9 +6,14 @@ Last updated: October 30, 2026
 
 The website displays three conflicting prices for its TDAC submission service: USD $59.95 on its homepage, USD $69.99 on its application payment screen, and USD $39.95 in its Terms and Conditions. The payment screen labels the $69.99 charge a "TDAC fee," even though Thailand's Immigration Bureau charges nothing for official TDAC submissions. These inconsistent prices and misleading fee terminology create confusion about the actual cost, with no explanation on the respective pages for why the charges differ.
 
+## Misleading Claims
+
+The website describes Thailand's Digital Arrival Card as an "Entry Permit" and advertises a stay of "90 days with a single document," misleading travelers about what the TDAC actually provides. Thailand's Immigration Bureau identifies the TDAC as an arrival registration form, not a visa or authorization to stay for 90 days. Each TDAC covers one arrival, with no renewal required while the traveler remains in Thailand. A new submission is necessary only when entering Thailand again. The permitted length of stay depends on immigration rules and the traveler's entry status, not the TDAC. The website's presentation may falsely suggest that purchasing its submission service provides permission to remain in Thailand for 90 days.
+
 ## References
 
 - https://tdac.immigration.go.th/manual/en/faq.html
+- https://tdac.immigration.go.th/manual/en/index.html
 - `https://tdac.visator.com/`
 - `https://tdac.visator.com/apply/`
 - `https://tdac.visator.com/terms-conditions/`
