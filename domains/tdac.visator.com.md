@@ -8,7 +8,7 @@ The website displays three conflicting prices for its TDAC submission service: U
 
 ## References
 
-- https://tdac.visator.com/
-- https://tdac.visator.com/apply/
-- https://tdac.visator.com/terms-conditions/
 - https://tdac.immigration.go.th/manual/en/faq.html
+- `https://tdac.visator.com/`
+- `https://tdac.visator.com/apply/`
+- `https://tdac.visator.com/terms-conditions/`
