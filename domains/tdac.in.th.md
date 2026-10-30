@@ -37,13 +37,13 @@ Public complaints about this TDAC submission service describe payment demands, u
 
 - https://tdac.immigration.go.th/manual/en/faq.html
 - https://www.mots.go.th/mots_en/news/3764
-- https://www.trustpilot.com/review/tdac.agents.co.th
 - https://en.wikipedia.org/wiki/Talk:Thailand_Digital_Arrival_Card
 - https://www.reddit.com/r/Thailand/comments/1l65pwy/warning_tdacinth_now_agentscoth_charges_8_for_tdac/
 - https://www.quora.com/Are-tdac-info-and-tdac-in-th-fake-Thailand-TDAC-websites
 - https://www.quora.com/Why-wont-Thai-Immigration-shut-down-tdac-in-th-scam
 - https://www.quora.com/Why-does-the-tdac-in-th-scam-site-rank-so-high-on-Google
 - https://www.trustpilot.com/review/tdac.in.th
+- https://www.trustpilot.com/review/tdac.agents.co.th
 - https://www.facebook.com/reel/798433356270385
 - `https://tdac.agents.co.th/comments/2`
 - `https://tdac.in.th/`
