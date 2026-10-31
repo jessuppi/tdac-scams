@@ -7,7 +7,7 @@ Last updated: October 31, 2026
 
 ## Government Impersonation
 
-The `tdac.thaiarrivalcard.org` subdomain and homepage prominently used Thailand's official Digital Arrival Card name, emphasized that the form was mandatory, and encouraged travelers to apply through its private service. The website also promised delivery of an "approved QR code" by email, potentially suggesting official immigration processing. Although its homepage footer and About page disclosed that the service was privately operated, unaffiliated with the Thai government, and optional, these explanations were separate from its primary application messaging. This presentation could mislead travelers arriving from search results into mistaking the website for Thailand's official TDAC application portal.
+The `tdac.thaiarrivalcard.org` subdomain used the official TDAC acronym, while its homepage prominently presented Thailand's Digital Arrival Card as mandatory and encouraged visitors to apply through its private service. The page title was "Thailand Digital Arrival Card (TDAC) — Online Application Assistance," and a notice near the top explicitly identified the service as independent and unaffiliated with the Thai government. Despite these disclosures, the official terminology and application prompts could lead travelers arriving from search results to mistake the private service for Thailand's government TDAC portal.
 
 ## Misleading Fees
 
