@@ -29,6 +29,10 @@ The website repeatedly promised travelers an "approved QR code" by email after s
 
 The website collected sensitive passport information, dates of birth, contact details, and travel data through its private TDAC application service. Its Privacy Policy permitted sharing personal information with third-party providers for payment processing, hosting, email delivery, and analytics, as well as processing data in other countries, including the United States. Its Cookie Policy also disclosed advertising trackers associated with Google and Meta. However, the Privacy Policy specified no maximum retention period for passport or travel records, stating only that information would be kept as long as reasonably necessary. These broad disclosures left travelers without clear information about how long their sensitive records might be retained or which external organizations could process them.
 
+## Billing or Service Issues
+
+An October 25, 2026 Trustpilot reviewer alleged that after entering payment details on `tdac.thaiarrivalcard.org`, their card was charged USD $269.97 rather than the advertised USD $10 service fee. The reviewer reported immediately blocking the card and filing a fraud dispute with their bank. The website's Contact page listed `support@ivisaportal.com` and a general inquiry form but provided no specific instructions for disputing charges or requesting refunds. The review does not establish whether a TDAC was delivered or the payment was reversed, and the reported charge has not been independently verified.
+
 ## References
 
 - https://tdac.immigration.go.th/manual/en/faq.html
