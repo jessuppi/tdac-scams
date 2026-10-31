@@ -21,6 +21,10 @@ The website's About page promoted "Fast Processing Options" ranging from standar
 
 The website displayed a brief notice near the top of its homepage identifying itself as an independent service, but that notice did not explain that its assistance was paid or that official TDAC registration was free. These details appeared instead in a lengthy footer disclaimer and a separate About page, neither of which specified the actual service price. Meanwhile, the homepage emphasized the mandatory arrival form and encouraged travelers to apply through its own interface. This separation could lead visitors to begin the application process without fully understanding the optional nature and cost of the private service.
 
+## Misleading Claims
+
+The website repeatedly promised travelers an "approved QR code" by email after submitting their TDAC application, potentially implying that the arrival card constitutes immigration approval or permission to enter Thailand. However, Thailand's Immigration Bureau identifies the TDAC as an arrival registration form, not a visa, and entry remains subject to immigration checks. Separately, the website advertised "24/7 Customer Support," while its Contact page stated that inquiries typically receive responses within 2–4 hours during business hours. These descriptions could mislead travelers about both the significance of their TDAC confirmation and the availability of customer assistance.
+
 ## References
 
 - https://tdac.immigration.go.th/manual/en/faq.html
@@ -28,3 +32,4 @@ The website displayed a brief notice near the top of its homepage identifying it
 - https://www.trustpilot.com/review/thaiarrivalcard.org
 - `https://tdac.thaiarrivalcard.org/`
 - `https://tdac.thaiarrivalcard.org/about`
+- `https://tdac.thaiarrivalcard.org/contact`
