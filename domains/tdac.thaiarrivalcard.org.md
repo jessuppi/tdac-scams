@@ -31,7 +31,7 @@ The website collected sensitive passport information, dates of birth, contact de
 
 ## Billing or Service Issues
 
-An October 25, 2026 Trustpilot reviewer reported blocking their payment card and filing a fraud dispute with their bank after a charge on `tdac.thaiarrivalcard.org` that they said exceeded the advertised service fee. The website's Contact page listed `support@ivisaportal.com` and a general inquiry form but provided no specific instructions for disputing charges or requesting refunds. The review does not establish whether a TDAC was delivered or the payment was reversed, and the reported charge has not been independently verified.
+An October 25, 2026 Trustpilot reviewer reported blocking their payment card and filing a fraud dispute with their bank after a charge on `tdac.thaiarrivalcard.org` that they said exceeded the advertised service fee. The website's Contact page listed `support@ivisaportal.com` and a general inquiry form but provided no specific instructions for disputing charges or requesting refunds. The same email address also appeared on iVisaPortal's website, which identified ZA Logistics Inc of Houston, Texas, as its operator. This shared contact suggests a connection between the services but does not independently establish ownership of `tdac.thaiarrivalcard.org`. The review does not establish whether a TDAC was delivered or the payment was reversed, and the reported charge has not been independently verified.
 
 ## References
 
@@ -43,3 +43,4 @@ An October 25, 2026 Trustpilot reviewer reported blocking their payment card and
 - `https://tdac.thaiarrivalcard.org/contact`
 - `https://tdac.thaiarrivalcard.org/privacy`
 - `https://tdac.thaiarrivalcard.org/cookies`
+- `https://www.thailandarrivalcard.online/contact`
