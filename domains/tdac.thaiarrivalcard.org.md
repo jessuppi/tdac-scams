@@ -17,6 +17,10 @@ The website described its paid TDAC assistance fee as being "in addition to any 
 
 The website's About page promoted "Fast Processing Options" ranging from standard to "ultra-fast" turnaround times, alongside error checking, 24/7 customer support, and claims of being a "Trusted Service." However, it provided no supporting performance figures or independent verification of these advantages. The website also failed to clarify whether expedited processing applied only to its own handling of applications or offered any advantage through Thailand's Immigration Bureau. Because the official TDAC portal provides free registration that typically takes just 3–5 minutes per person, these promotional claims could exaggerate the practical benefits of purchasing third-party assistance.
 
+## Hidden Disclosures
+
+The website displayed a brief notice near the top of its homepage identifying itself as an independent service, but that notice did not explain that its assistance was paid or that official TDAC registration was free. These details appeared instead in a lengthy footer disclaimer and a separate About page, neither of which specified the actual service price. Meanwhile, the homepage emphasized the mandatory arrival form and encouraged travelers to apply through its own interface. This separation could lead visitors to begin the application process without fully understanding the optional nature and cost of the private service.
+
 ## References
 
 - https://tdac.immigration.go.th/manual/en/faq.html
