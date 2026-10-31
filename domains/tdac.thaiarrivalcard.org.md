@@ -15,7 +15,7 @@ The website's footer described its paid TDAC assistance fee as being "in additio
 
 ## Deceptive Promotion
 
-The website's About page promoted "Fast Processing Options" ranging from standard to "ultra-fast" turnaround times, alongside error checking, 24/7 customer support, and claims of being a "Trusted Service." However, it provided no supporting performance figures or independent verification of these advantages. The website also failed to clarify whether expedited processing applied only to its own handling of applications or offered any advantage through Thailand's Immigration Bureau. Because the official TDAC portal provides free registration that typically takes just 3–5 minutes per person, these promotional claims could exaggerate the practical benefits of purchasing third-party assistance.
+The website's About page promoted "Fast Processing Options" ranging from standard to "ultra-fast" turnaround times, alongside error checking, 24/7 customer support, and claims of being a "Trusted Service." Its Contact page stated that inquiries typically received responses within 2–4 hours during business hours, qualifying the expectation created by its around-the-clock support claim. However, the website provided no supporting performance figures or independent verification of its processing advantages. The website also failed to clarify whether expedited processing applied only to its own handling of applications or offered any advantage through Thailand's Immigration Bureau. Because the official TDAC portal provides free registration that typically takes just 3–5 minutes per person, these promotional claims could exaggerate the practical benefits of purchasing third-party assistance.
 
 ## Hidden Disclosures
 
@@ -23,7 +23,7 @@ The website displayed a brief notice near the top of its homepage identifying it
 
 ## Misleading Claims
 
-The website repeatedly promised travelers an "approved QR code" by email after submitting their TDAC application, potentially implying that the arrival card constitutes immigration approval or permission to enter Thailand. However, Thailand's Immigration Bureau identifies the TDAC as an arrival registration form, not a visa, and entry remains subject to immigration checks. Separately, the website advertised "24/7 Customer Support," while its Contact page stated that inquiries typically receive responses within 2–4 hours during business hours. These descriptions could mislead travelers about both the significance of their TDAC confirmation and the availability of customer assistance.
+The website repeatedly promised travelers an "approved QR code" by email after submitting their TDAC application, potentially implying that the arrival card constitutes immigration approval or permission to enter Thailand. However, Thailand's Immigration Bureau identifies the TDAC as an arrival registration form, not a visa, and entry remains subject to immigration checks.
 
 ## Privacy Concerns
 
