@@ -13,8 +13,13 @@ The `tdac.thaiarrivalcard.org` subdomain and homepage prominently used Thailand'
 
 The website described its paid TDAC assistance fee as being "in addition to any official government fees that may apply," despite Thailand's Immigration Bureau providing TDAC registration completely free of charge. This wording could confuse travelers about whether additional government charges existed. More seriously, an October 25, 2026 Trustpilot reviewer alleged that the website advertised a USD $10 service fee but charged their card USD $269.97 after payment details were entered. Although this reported charge has not been independently verified, the substantial alleged discrepancy raises serious concerns about the transparency of the website's pricing.
 
+## Deceptive Promotion
+
+The website's About page promoted "Fast Processing Options" ranging from standard to "ultra-fast" turnaround times, alongside error checking, 24/7 customer support, and claims of being a "Trusted Service." However, it provided no supporting performance figures or independent verification of these advantages. The website also failed to clarify whether expedited processing applied only to its own handling of applications or offered any advantage through Thailand's Immigration Bureau. Because the official TDAC portal provides free registration that typically takes just 3–5 minutes per person, these promotional claims could exaggerate the practical benefits of purchasing third-party assistance.
+
 ## References
 
+- https://tdac.immigration.go.th/manual/en/faq.html
 - https://tdac.immigration.go.th/manual/en/index.html
 - https://www.trustpilot.com/review/thaiarrivalcard.org
 - `https://tdac.thaiarrivalcard.org/`
