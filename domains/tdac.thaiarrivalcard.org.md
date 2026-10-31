@@ -25,6 +25,10 @@ The website displayed a brief notice near the top of its homepage identifying it
 
 The website repeatedly promised travelers an "approved QR code" by email after submitting their TDAC application, potentially implying that the arrival card constitutes immigration approval or permission to enter Thailand. However, Thailand's Immigration Bureau identifies the TDAC as an arrival registration form, not a visa, and entry remains subject to immigration checks. Separately, the website advertised "24/7 Customer Support," while its Contact page stated that inquiries typically receive responses within 2–4 hours during business hours. These descriptions could mislead travelers about both the significance of their TDAC confirmation and the availability of customer assistance.
 
+## Privacy Concerns
+
+The website collected sensitive passport information, dates of birth, contact details, and travel data through its private TDAC application service. Its Privacy Policy permitted sharing personal information with third-party providers for payment processing, hosting, email delivery, and analytics, as well as processing data in other countries, including the United States. Its Cookie Policy also disclosed advertising trackers associated with Google and Meta. However, the Privacy Policy specified no maximum retention period for passport or travel records, stating only that information would be kept as long as reasonably necessary. These broad disclosures left travelers without clear information about how long their sensitive records might be retained or which external organizations could process them.
+
 ## References
 
 - https://tdac.immigration.go.th/manual/en/faq.html
@@ -33,3 +37,5 @@ The website repeatedly promised travelers an "approved QR code" by email after s
 - `https://tdac.thaiarrivalcard.org/`
 - `https://tdac.thaiarrivalcard.org/about`
 - `https://tdac.thaiarrivalcard.org/contact`
+- `https://tdac.thaiarrivalcard.org/privacy`
+- `https://tdac.thaiarrivalcard.org/cookies`
