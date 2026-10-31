@@ -23,7 +23,7 @@ The website displayed a brief notice near the top of its homepage identifying it
 
 ## Misleading Claims
 
-The website repeatedly promised travelers an "approved QR code" by email after submitting their TDAC application, potentially implying that the arrival card constitutes immigration approval or permission to enter Thailand. However, Thailand's Immigration Bureau identifies the TDAC as an arrival registration form, not a visa, and entry remains subject to immigration checks.
+The website repeatedly promised travelers an "approved QR code" by email after submitting their TDAC application. However, Thailand's Immigration Bureau describes the QR code as evidence of TDAC submission, not approval to enter Thailand. Because the TDAC is an arrival registration form rather than a visa, and entry remains subject to immigration checks, describing the QR code as "approved" could mislead travelers about what they had actually obtained.
 
 ## Privacy Concerns
 
