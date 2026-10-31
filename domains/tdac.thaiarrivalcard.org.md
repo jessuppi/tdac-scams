@@ -31,7 +31,7 @@ The website collected sensitive passport information, dates of birth, contact de
 
 ## Billing or Service Issues
 
-An October 25, 2026 Trustpilot reviewer alleged that after entering payment details on `tdac.thaiarrivalcard.org`, their card was charged USD $269.97 rather than the advertised USD $10 service fee. The reviewer reported immediately blocking the card and filing a fraud dispute with their bank. The website's Contact page listed `support@ivisaportal.com` and a general inquiry form but provided no specific instructions for disputing charges or requesting refunds. The review does not establish whether a TDAC was delivered or the payment was reversed, and the reported charge has not been independently verified.
+An October 25, 2026 Trustpilot reviewer reported blocking their payment card and filing a fraud dispute with their bank after a charge on `tdac.thaiarrivalcard.org` that they said exceeded the advertised service fee. The website's Contact page listed `support@ivisaportal.com` and a general inquiry form but provided no specific instructions for disputing charges or requesting refunds. The review does not establish whether a TDAC was delivered or the payment was reversed, and the reported charge has not been independently verified.
 
 ## References
 
