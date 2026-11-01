@@ -102,6 +102,7 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 | May 1, 2025 | Malay Mail | News report / fake website warning | English | Live | [View record](articles/2025-05-01-malay-mail.md) |
 | May 2, 2025 | SAYS | News report / fake website warning | English | Live | [View record](articles/2025-05-02-says.md) |
 | May 2, 2025 | The Phuket News | News report / fake website warning | English | Live | [View record](articles/2025-05-02-phuket-news.md) |
+| May 3, 2025 | Thailand Hyperlinks | Japanese news report / fake TDAC website warning | Japanese / English / Thai | Live | [View record](articles/2025-05-03-thailand-hyperlinks.md) |
 | May 4, 2025 | MGR Online | News report / fake website warning | Thai | Live | [View record](articles/2025-05-04-mgr-online.md) |
 | May 7, 2025 | Tak Immigration | Official immigration advisory / scam warning | Thai | Live | [View record](articles/2025-05-07-tak-immigration.md) |
 | May 9, 2025 | Anti-Fake News Center Thailand | Government fact-check / fake backup portal | Thai | Live | [View record](articles/2025-05-09-anti-fake-news-center.md) |
