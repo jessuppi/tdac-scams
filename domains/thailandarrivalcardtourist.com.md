@@ -25,6 +25,10 @@ Although the website reportedly disclosed that it was not affiliated with the Th
 
 A historical website scan recorded the site's description promoting its service as a way to obtain a "Thailand Visa On Arrival" online. This wording misleadingly associated its paid TDAC application service with obtaining a Thai visa, despite the Thailand Digital Arrival Card being an arrival registration form rather than a visa or authorization to enter the country. Thailand's Immigration Bureau explicitly confirms that the TDAC does not replace a visa. Such language could confuse travelers about what they were purchasing and whether the service provided any immigration benefit beyond submitting the mandatory arrival form.
 
+## Privacy Concerns
+
+The website collected sensitive personal, passport, and travel information through its private TDAC application process. A December 2025 Gridinsoft security assessment identified three security-provider warnings against the domain, including a malicious classification by CRDF and warnings from Gridinsoft and ScamAdviser. Furthermore, Thailand's Immigration Bureau specifically identified `thailandarrivalcardtourist.com` among unofficial TDAC websites in a public warning highlighting the risks of identity theft and misuse of travelers' personal information. Although these findings do not establish that the website actually stole, leaked, or sold customer data, the documented security warnings raise serious concerns about entrusting sensitive passport information to this unaffiliated service.
+
 ## Billing or Service Issues
 
 A traveler reported that the website advertised a refund guarantee, encouraging dissatisfied customers to request their money back. After discovering that official TDAC registration was free, the traveler said they submitted a refund request through the website's contact form but received no response. The complaint has not been independently verified, and it remains unclear whether the operator eventually responded or issued a refund. Nevertheless, the reported experience raises concerns about the reliability of the website's advertised refund policy and customer support.
