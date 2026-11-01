@@ -11,7 +11,7 @@ The website's historical page title, "Thailand TDAC Digital Arrival Card 2025," 
 
 ## Misleading Fees
 
-On April 8, 2026, U-Tapao International Airport published an Immigration Bureau warning specifically identifying `thailandarrivalcardtourist.com` among unofficial websites charging travelers for TDAC registration, which the Thai government provides free of charge. Separately, a traveler reported paying USD $50 through the website and being offered an additional USD $20 for express delivery within four hours. Although this individual account has not been independently verified, it raises concerns about charging substantial fees for a free government registration service.
+On April 8, 2026, U-Tapao International Airport published an Immigration Bureau warning specifically identifying `thailandarrivalcardtourist.com` among unofficial websites charging travelers for TDAC registration, which the Thai government provides free of charge. Separately, a traveler reported paying USD $50 through the website for its TDAC submission service. Although this individual account has not been independently verified, it raises concerns about charging substantial fees for a free government registration service.
 
 ## Deceptive Promotion
 
