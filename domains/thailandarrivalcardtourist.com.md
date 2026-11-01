@@ -7,7 +7,7 @@ Last updated: November 1, 2026
 
 ## Government Impersonation
 
-The website's historical page title, "Thailand TDAC Digital Arrival Card 2025," prominently used the official name and acronym of Thailand's mandatory arrival registration. A December 2025 Trustpilot reviewer described the website as resembling an official government portal, while another traveler reported mistaking its polished application interface for the government's registration process. Although the website reportedly disclosed that it was not affiliated with the Thai government, its official-sounding branding and presentation could still lead travelers to mistake the private, paid service for Thailand's legitimate Immigration Bureau portal.
+The website's historical page title, "Thailand TDAC Digital Arrival Card 2025," prominently used the official name and acronym of Thailand's mandatory arrival registration. A December 2025 Trustpilot reviewer described the website as resembling an official government portal, while another traveler reported mistaking its polished application interface for the government's registration process. These firsthand accounts suggest that the website's branding and application-style presentation could blur the distinction between its private paid service and the Thai Immigration Bureau's official portal.
 
 ## Misleading Fees
 
