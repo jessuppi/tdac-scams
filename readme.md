@@ -103,6 +103,7 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 | Nov 12, 2025 | ROOF21 Pattaya Property | Traveler warning | English | Live | [View record](articles/2025-11-12-roof21.md) |
 | Nov 24, 2025 | Royal Thai Embassy, Canberra | Official government warning | English | Live | [View record](articles/2025-11-24-thai-embassy-canberra.md) |
 | Mar 29, 2026 | Bangkok Post | News report / immigration warning | English | Live; restricted access | [View record](articles/2026-03-29-bangkok-post.md) |
+| Mar 30, 2026 | Thai Examiner | News report / scam investigation | English | Live | [View record](articles/2026-03-30-thai-examiner.md) |
 | Apr 1, 2026 | Fragomen | Immigration advisory | English | Live | [View record](articles/2026-04-01-fragomen.md) |
 
 ## Further Reading
