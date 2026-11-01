@@ -98,6 +98,7 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 
 | Date | Publication | Type | Language | Source Status | Record |
 | --- | --- | --- | --- | --- | --- |
+| Apr 3, 2025 | Tourism Authority of Thailand (Japan) | Official tourism advisory / fake website warning | Japanese / English / Thai | Live | [View record](articles/2025-04-03-tat-japan.md) |
 | May 1, 2025 | Malay Mail | News report / fake website warning | English | Live | [View record](articles/2025-05-01-malay-mail.md) |
 | May 2, 2025 | The Phuket News | News report / fake website warning | English | Live | [View record](articles/2025-05-02-phuket-news.md) |
 | May 9, 2025 | Anti-Fake News Center Thailand | Government fact-check / fake backup portal | Thai | Live | [View record](articles/2025-05-09-anti-fake-news-center.md) |
