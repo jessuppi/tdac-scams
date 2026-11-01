@@ -111,6 +111,7 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 | Jan 17, 2026 | Anti-Fake News Center Thailand | Government fact-check | Thai | Live | [View record](articles/2026-01-17-anti-fake-news-center.md) |
 | Mar 29, 2026 | Bangkok Post | News report / immigration warning | English | Live; restricted access | [View record](articles/2026-03-29-bangkok-post.md) |
 | Mar 29, 2026 | Khaosod English | News report / immigration warning | English | Live | [View record](articles/2026-03-29-khaosod.md) |
+| Mar 29, 2026 | Isranews | News report / immigration warning | Thai | Live | [View record](articles/2026-03-29-isranews.md) |
 | Mar 30, 2026 | Thai Examiner | News report / scam investigation | English | Live | [View record](articles/2026-03-30-thai-examiner.md) |
 | Apr 1, 2026 | Fragomen | Immigration advisory | English | Live | [View record](articles/2026-04-01-fragomen.md) |
 | Apr 8, 2026 | U-Tapao International Airport | Official airport advisory | English | Live | [View record](articles/2026-04-08-u-tapao-airport.md) |
