@@ -112,6 +112,7 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 | Nov 12, 2025 | ROOF21 Pattaya Property | Traveler warning | English | Live | [View record](articles/2025-11-12-roof21.md) |
 | Nov 24, 2025 | Royal Thai Embassy, Canberra | Official government warning | English | Live | [View record](articles/2025-11-24-thai-embassy-canberra.md) |
 | Jan 17, 2026 | Anti-Fake News Center Thailand | Government fact-check | Thai | Live | [View record](articles/2026-01-17-anti-fake-news-center.md) |
+| Feb 26, 2026 | Royal Thai Embassy, Buenos Aires | Official embassy guidance / paid website warning | English / Thai / Spanish | Live | [View record](articles/2026-02-26-thai-embassy-buenos-aires.md) |
 | Mar 29, 2026 | Bangkok Post | News report / immigration warning | English | Live; restricted access | [View record](articles/2026-03-29-bangkok-post.md) |
 | Mar 29, 2026 | Khaosod English | News report / immigration warning | English | Live | [View record](articles/2026-03-29-khaosod.md) |
 | Mar 29, 2026 | Isranews | News report / immigration warning | Thai | Live | [View record](articles/2026-03-29-isranews.md) |
