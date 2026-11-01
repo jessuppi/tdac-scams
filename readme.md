@@ -99,6 +99,7 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 | Date | Publication | Type | Language | Source Status | Record |
 | --- | --- | --- | --- | --- | --- |
 | May 2, 2025 | The Phuket News | News report / fake website warning | English | Live | [View record](articles/2025-05-02-phuket-news.md) |
+| Jun 18, 2025 | Tourist Police Bureau | Official police warning | English / Thai | Live | [View record](articles/2025-06-18-tourist-police.md) |
 | Oct 17, 2025 | Ministry of Tourism and Sports | Official government warning | English | Live | [View record](articles/2025-10-17-ministry-of-tourism-and-sports.md) |
 | Oct 17, 2025 | Khaosod English | News report / government warning | English | Live | [View record](articles/2025-10-17-khaosod.md) |
 | Oct 22, 2025 | Sydney Morning Herald | Travel news | English | Content not verified | [View record](articles/2025-10-22-sydney-morning-herald.md) |
