@@ -98,6 +98,7 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 
 | Date | Publication | Type | Language | Source Status | Record |
 | --- | --- | --- | --- | --- | --- |
+| Nov 12, 2025 | ROOF21 Pattaya Property | Traveler warning | English | Live | [View record](articles/2025-11-12-roof21.md) |
 | Nov 24, 2025 | Royal Thai Embassy, Canberra | Official government warning | English | Live | [View record](articles/2025-11-24-thai-embassy-canberra.md) |
 | Apr 1, 2026 | Fragomen | Immigration advisory | English | Live | [View record](articles/2026-04-01-fragomen.md) |
 
