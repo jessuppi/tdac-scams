@@ -5,6 +5,10 @@ Last updated: November 1, 2026
 > [!NOTE]
 > As of November 1, 2026, `thailandarrivalcardtourist.com` no longer displays its TDAC application service. The domain currently shows a generic page indicating that it may be available for sale. The findings below document the website's previous activities and historical customer complaints.
 
+## Government Impersonation
+
+The website's historical page title, "Thailand TDAC Digital Arrival Card 2025," prominently used the official name and acronym of Thailand's mandatory arrival registration. A December 2025 Trustpilot reviewer described the website as resembling an official government portal, while another traveler reported mistaking its polished application interface for the government's registration process. Although the website reportedly disclosed that it was not affiliated with the Thai government, its official-sounding branding and presentation could still lead travelers to mistake the private, paid service for Thailand's legitimate Immigration Bureau portal.
+
 ## Misleading Fees
 
 On April 8, 2026, U-Tapao International Airport published an Immigration Bureau warning specifically identifying `thailandarrivalcardtourist.com` among unofficial websites charging travelers for TDAC registration, which the Thai government provides free of charge. Separately, a traveler reported paying USD $50 through the website and being offered an additional USD $20 for express delivery within four hours. Although this individual account has not been independently verified, it raises concerns about charging substantial fees for a free government registration service.
@@ -28,4 +32,5 @@ A traveler reported that the website advertised a refund guarantee, encouraging 
 - https://gridinsoft.com/online-virus-scanner/url/thailandarrivalcardtourist-com
 - https://tdac.immigration.go.th/manual/en/
 - https://www.thaiexaminer.com/thai-news-foreigners/2026/03/30/immigration-bureau-warns-that-rip-off-entry-tdac-sites-stand-to-make-up-to-100-million-from-visitors/
+- https://www.trustpilot.com/review/thailandarrivalcardtourist.com
 - `https://thailandarrivalcardtourist.com/`
