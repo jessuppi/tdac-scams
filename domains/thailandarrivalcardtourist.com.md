@@ -38,10 +38,10 @@ A traveler reported that the website advertised a refund guarantee but did not r
 ## References
 
 - https://www.utapao.com/en/news/news080469
-- https://www.reddit.com/r/ThailandTourism/comments/1pm9wo0/fake_tdac_service_makes_you_pay/
-- https://gridinsoft.com/online-virus-scanner/url/thailandarrivalcardtourist-com
 - https://tdac.immigration.go.th/manual/en/
-- https://www.thaiexaminer.com/thai-news-foreigners/2026/03/30/immigration-bureau-warns-that-rip-off-entry-tdac-sites-stand-to-make-up-to-100-million-from-visitors/
-- https://www.trustpilot.com/review/thailandarrivalcardtourist.com
 - https://tdac.immigration.go.th/manual/en/faq.html
+- https://www.thaiexaminer.com/thai-news-foreigners/2026/03/30/immigration-bureau-warns-that-rip-off-entry-tdac-sites-stand-to-make-up-to-100-million-from-visitors/
+- https://gridinsoft.com/online-virus-scanner/url/thailandarrivalcardtourist-com
+- https://www.trustpilot.com/review/thailandarrivalcardtourist.com
+- https://www.reddit.com/r/ThailandTourism/comments/1pm9wo0/fake_tdac_service_makes_you_pay/
 - `https://thailandarrivalcardtourist.com/`
