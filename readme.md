@@ -153,6 +153,21 @@ This table compares TDAC-related websites against the warning signs listed above
 | [thailandac.visasyst.com](domains/thailandac.visasyst.com.md) |  |  |  |  |  |  |  |
 | [tdac-application.com](domains/tdac-application.com.md) |  |  |  |  |  |  |  |
 | [ivisatravel.com](domains/ivisatravel.com.md) |  |  |  |  |  |  |  |
+| [tdac-entry.com](domains/tdac-entry.com.md) |  |  |  |  |  |  |  |
+| [thaietacard.com](domains/thaietacard.com.md) |  |  |  |  |  |  |  |
+| [mytdac.com](domains/mytdac.com.md) |  |  |  |  |  |  |  |
+| [thailandarrivalweb.com](domains/thailandarrivalweb.com.md) |  |  |  |  |  |  |  |
+| [thailandtdacweb.com](domains/thailandtdacweb.com.md) |  |  |  |  |  |  |  |
+| [thailandtdaconline.com](domains/thailandtdaconline.com.md) |  |  |  |  |  |  |  |
+| [thailandarrivaleform.com](domains/thailandarrivaleform.com.md) |  |  |  |  |  |  |  |
+| [tdac.thailandarrivaleform.com](domains/tdac.thailandarrivaleform.com.md) |  |  |  |  |  |  |  |
+| [apply.thaiarrivalcard.org](domains/apply.thaiarrivalcard.org.md) |  |  |  |  |  |  |  |
+| [thailandtravelcard.com](domains/thailandtravelcard.com.md) |  |  |  |  |  |  |  |
+| [arrivalprep.com](domains/arrivalprep.com.md) |  |  |  |  |  |  |  |
+| [applythaicard.com](domains/applythaicard.com.md) |  |  |  |  |  |  |  |
+| [visaska.com](domains/visaska.com.md) |  |  |  |  |  |  |  |
+| [onlinetravel-processing.com](domains/onlinetravel-processing.com.md) |  |  |  |  |  |  |  |
+| [tripfli.com](domains/tripfli.com.md) |  |  |  |  |  |  |  |
 
 
 ## Further Reading
