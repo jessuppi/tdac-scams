@@ -2,6 +2,9 @@
 
 Last updated: November 1, 2026
 
+> [!NOTE]
+> As of November 1, 2026, `thailandarrivalcardtourist.com` no longer displays its TDAC application service. The domain currently shows a generic page indicating that it may be available for sale. The findings below document the website's previous activities and historical customer complaints.
+
 ## Misleading Fees
 
 On April 8, 2026, U-Tapao International Airport published an Immigration Bureau warning specifically identifying `thailandarrivalcardtourist.com` among unofficial websites charging travelers for TDAC registration, which the Thai government provides free of charge. Separately, a traveler reported paying USD $50 through the website and being offered an additional USD $20 for express delivery within four hours. Although this individual account has not been independently verified, it raises concerns about charging substantial fees for a free government registration service.
@@ -20,3 +23,4 @@ A traveler reported that the website advertised a refund guarantee, encouraging 
 - https://www.reddit.com/r/ThailandTourism/comments/1pm9wo0/fake_tdac_service_makes_you_pay/
 - https://gridinsoft.com/online-virus-scanner/url/thailandarrivalcardtourist-com
 - https://tdac.immigration.go.th/manual/en/
+- `https://thailandarrivalcardtourist.com/`
