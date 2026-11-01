@@ -105,6 +105,7 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 | May 4, 2025 | MGR Online | News report / fake website warning | Thai | Live | [View record](articles/2025-05-04-mgr-online.md) |
 | May 7, 2025 | Tak Immigration | Official immigration advisory / scam warning | Thai | Live | [View record](articles/2025-05-07-tak-immigration.md) |
 | May 9, 2025 | Anti-Fake News Center Thailand | Government fact-check / fake backup portal | Thai | Live | [View record](articles/2025-05-09-anti-fake-news-center.md) |
+| Jun 7, 2025 | Pattaya Mail | News report / official immigration warning | English | Live | [View record](articles/2025-06-07-pattaya-mail.md) |
 | Jun 18, 2025 | Tourist Police Bureau | Official police warning | English / Thai | Live | [View record](articles/2025-06-18-tourist-police.md) |
 | Sep 12, 2025 | Embassy of Japan in Thailand | Official consular warning | Japanese / English / Thai | Live | [View record](articles/2025-09-12-japanese-embassy.md) |
 | Oct 17, 2025 | Ministry of Tourism and Sports | Official government warning | English | Live | [View record](articles/2025-10-17-ministry-of-tourism-and-sports.md) |
