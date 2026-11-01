@@ -42,6 +42,43 @@ This repository is an independent public-interest project with no affiliation or
 
 Inclusion in this repository does not establish criminal wrongdoing, and charging for third-party TDAC assistance alone is not proof of fraud. Findings reflect publicly available evidence and should not be interpreted as official legal or regulatory determinations.
 
+## News Coverage & Advisories
+
+| Date | Publication | Type | Language | Source Status | Record |
+| --- | --- | --- | --- | --- | --- |
+| Apr 3, 2025 | Tourism Authority of Thailand (Japan) | Official tourism advisory / fake website warning | Japanese / English / Thai | Live | [View record](articles/2025-04-03-tat-japan.md) |
+| May 1, 2025 | Malay Mail | News report / fake website warning | English | Live | [View record](articles/2025-05-01-malay-mail.md) |
+| May 2, 2025 | SAYS | News report / fake website warning | English | Live | [View record](articles/2025-05-02-says.md) |
+| May 2, 2025 | The Phuket News | News report / fake website warning | English | Live | [View record](articles/2025-05-02-phuket-news.md) |
+| May 2, 2025 | Anti-Fake News Center Thailand | Government fact-check / VIP paid registration claim | Thai | Live | [View record](articles/2025-05-02-anti-fake-news-center.md) |
+| May 3, 2025 | Thailand Hyperlinks | Japanese news report / fake TDAC website warning | Japanese / English / Thai | Live | [View record](articles/2025-05-03-thailand-hyperlinks.md) |
+| May 4, 2025 | MGR Online | News report / fake website warning | Thai | Live | [View record](articles/2025-05-04-mgr-online.md) |
+| May 7, 2025 | Tak Immigration | Official immigration advisory / scam warning | Thai | Live | [View record](articles/2025-05-07-tak-immigration.md) |
+| May 9, 2025 | Anti-Fake News Center Thailand | Government fact-check / fake backup portal | Thai | Live | [View record](articles/2025-05-09-anti-fake-news-center.md) |
+| Jun 7, 2025 | Pattaya Mail | News report / official immigration warning | English | Live | [View record](articles/2025-06-07-pattaya-mail.md) |
+| Jun 18, 2025 | Tourist Police Bureau | Official police warning | English / Thai | Live | [View record](articles/2025-06-18-tourist-police.md) |
+| Sep 12, 2025 | Embassy of Japan in Thailand | Official consular warning | Japanese / English / Thai | Live | [View record](articles/2025-09-12-japanese-embassy.md) |
+| Oct 17, 2025 | Ministry of Tourism and Sports | Official government warning | English | Live | [View record](articles/2025-10-17-ministry-of-tourism-and-sports.md) |
+| Oct 17, 2025 | Khaosod English | News report / government warning | English | Live | [View record](articles/2025-10-17-khaosod.md) |
+| Oct 22, 2025 | Sydney Morning Herald | Travel news | English | Content not verified | [View record](articles/2025-10-22-sydney-morning-herald.md) |
+| Nov 12, 2025 | ROOF21 Pattaya Property | Traveler warning | English | Live | [View record](articles/2025-11-12-roof21.md) |
+| Nov 24, 2025 | Royal Thai Embassy, Canberra | Official government warning | English | Live | [View record](articles/2025-11-24-thai-embassy-canberra.md) |
+| Jan 17, 2026 | Anti-Fake News Center Thailand | Government fact-check | Thai | Live | [View record](articles/2026-01-17-anti-fake-news-center.md) |
+| Feb 26, 2026 | Royal Thai Embassy, Buenos Aires | Official embassy guidance / paid website warning | English / Thai / Spanish | Live | [View record](articles/2026-02-26-thai-embassy-buenos-aires.md) |
+| Mar 29, 2026 | Bangkok Post | News report / immigration warning | English | Live; restricted access | [View record](articles/2026-03-29-bangkok-post.md) |
+| Mar 29, 2026 | Khaosod English | News report / immigration warning | English | Live | [View record](articles/2026-03-29-khaosod.md) |
+| Mar 29, 2026 | Isranews | News report / immigration warning | Thai | Live | [View record](articles/2026-03-29-isranews.md) |
+| Mar 30, 2026 | Thai Examiner | News report / scam investigation | English | Live | [View record](articles/2026-03-30-thai-examiner.md) |
+| Mar 30, 2026 | WiSE Digital | Japanese news report / immigration scam warning | Japanese / English / Thai | Live | [View record](articles/2026-03-30-wise-digital.md) |
+| Mar 30, 2026 | Business Standard | News report / immigration scam warning | English | Live | [View record](articles/2026-03-30-business-standard.md) |
+| Apr 1, 2026 | Fragomen | Immigration advisory | English | Live | [View record](articles/2026-04-01-fragomen.md) |
+| Apr 7, 2026 | Falstaff | Travel news / TDAC scam warning | German / English / Thai | Live | [View record](articles/2026-04-07-falstaff.md) |
+| Apr 8, 2026 | U-Tapao International Airport | Official airport advisory | English | Live | [View record](articles/2026-04-08-u-tapao-airport.md) |
+| Apr 11, 2026 | Thailand Hyperlinks | Japanese news report / embassy scam warning | Japanese / English / Thai | Live | [View record](articles/2026-04-11-thailand-hyperlinks.md) |
+| Apr 13, 2026 | The Economic Times | News report / immigration scam warning | English | Live | [View record](articles/2026-04-13-economic-times.md) |
+| Aug 17, 2026 | Royal Thai Government | Official government warning | Thai | Live | [View record](articles/2026-08-17-thai-government.md) |
+| Aug 17, 2026 | The Nation | News report / airport immigration and TDAC scam warning | English | Live | [View record](articles/2026-08-17-the-nation.md) |
+
 ## Website Comparison
 
 | Domain | Government Impersonation | Misleading Fees | Deceptive Promotion | Hidden Disclosures | Misleading Claims | Privacy Concerns | Billing or Service Issues |
@@ -93,43 +130,6 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 | [tdac.online](domains/tdac.online.md) |  |  |  |  |  |  |  |
 | [thailandarrivalcard2025.com](domains/thailandarrivalcard2025.com.md) |  |  |  |  |  |  |  |
 
-
-## News Coverage & Advisories
-
-| Date | Publication | Type | Language | Source Status | Record |
-| --- | --- | --- | --- | --- | --- |
-| Apr 3, 2025 | Tourism Authority of Thailand (Japan) | Official tourism advisory / fake website warning | Japanese / English / Thai | Live | [View record](articles/2025-04-03-tat-japan.md) |
-| May 1, 2025 | Malay Mail | News report / fake website warning | English | Live | [View record](articles/2025-05-01-malay-mail.md) |
-| May 2, 2025 | SAYS | News report / fake website warning | English | Live | [View record](articles/2025-05-02-says.md) |
-| May 2, 2025 | The Phuket News | News report / fake website warning | English | Live | [View record](articles/2025-05-02-phuket-news.md) |
-| May 2, 2025 | Anti-Fake News Center Thailand | Government fact-check / VIP paid registration claim | Thai | Live | [View record](articles/2025-05-02-anti-fake-news-center.md) |
-| May 3, 2025 | Thailand Hyperlinks | Japanese news report / fake TDAC website warning | Japanese / English / Thai | Live | [View record](articles/2025-05-03-thailand-hyperlinks.md) |
-| May 4, 2025 | MGR Online | News report / fake website warning | Thai | Live | [View record](articles/2025-05-04-mgr-online.md) |
-| May 7, 2025 | Tak Immigration | Official immigration advisory / scam warning | Thai | Live | [View record](articles/2025-05-07-tak-immigration.md) |
-| May 9, 2025 | Anti-Fake News Center Thailand | Government fact-check / fake backup portal | Thai | Live | [View record](articles/2025-05-09-anti-fake-news-center.md) |
-| Jun 7, 2025 | Pattaya Mail | News report / official immigration warning | English | Live | [View record](articles/2025-06-07-pattaya-mail.md) |
-| Jun 18, 2025 | Tourist Police Bureau | Official police warning | English / Thai | Live | [View record](articles/2025-06-18-tourist-police.md) |
-| Sep 12, 2025 | Embassy of Japan in Thailand | Official consular warning | Japanese / English / Thai | Live | [View record](articles/2025-09-12-japanese-embassy.md) |
-| Oct 17, 2025 | Ministry of Tourism and Sports | Official government warning | English | Live | [View record](articles/2025-10-17-ministry-of-tourism-and-sports.md) |
-| Oct 17, 2025 | Khaosod English | News report / government warning | English | Live | [View record](articles/2025-10-17-khaosod.md) |
-| Oct 22, 2025 | Sydney Morning Herald | Travel news | English | Content not verified | [View record](articles/2025-10-22-sydney-morning-herald.md) |
-| Nov 12, 2025 | ROOF21 Pattaya Property | Traveler warning | English | Live | [View record](articles/2025-11-12-roof21.md) |
-| Nov 24, 2025 | Royal Thai Embassy, Canberra | Official government warning | English | Live | [View record](articles/2025-11-24-thai-embassy-canberra.md) |
-| Jan 17, 2026 | Anti-Fake News Center Thailand | Government fact-check | Thai | Live | [View record](articles/2026-01-17-anti-fake-news-center.md) |
-| Feb 26, 2026 | Royal Thai Embassy, Buenos Aires | Official embassy guidance / paid website warning | English / Thai / Spanish | Live | [View record](articles/2026-02-26-thai-embassy-buenos-aires.md) |
-| Mar 29, 2026 | Bangkok Post | News report / immigration warning | English | Live; restricted access | [View record](articles/2026-03-29-bangkok-post.md) |
-| Mar 29, 2026 | Khaosod English | News report / immigration warning | English | Live | [View record](articles/2026-03-29-khaosod.md) |
-| Mar 29, 2026 | Isranews | News report / immigration warning | Thai | Live | [View record](articles/2026-03-29-isranews.md) |
-| Mar 30, 2026 | Thai Examiner | News report / scam investigation | English | Live | [View record](articles/2026-03-30-thai-examiner.md) |
-| Mar 30, 2026 | WiSE Digital | Japanese news report / immigration scam warning | Japanese / English / Thai | Live | [View record](articles/2026-03-30-wise-digital.md) |
-| Mar 30, 2026 | Business Standard | News report / immigration scam warning | English | Live | [View record](articles/2026-03-30-business-standard.md) |
-| Apr 1, 2026 | Fragomen | Immigration advisory | English | Live | [View record](articles/2026-04-01-fragomen.md) |
-| Apr 7, 2026 | Falstaff | Travel news / TDAC scam warning | German / English / Thai | Live | [View record](articles/2026-04-07-falstaff.md) |
-| Apr 8, 2026 | U-Tapao International Airport | Official airport advisory | English | Live | [View record](articles/2026-04-08-u-tapao-airport.md) |
-| Apr 11, 2026 | Thailand Hyperlinks | Japanese news report / embassy scam warning | Japanese / English / Thai | Live | [View record](articles/2026-04-11-thailand-hyperlinks.md) |
-| Apr 13, 2026 | The Economic Times | News report / immigration scam warning | English | Live | [View record](articles/2026-04-13-economic-times.md) |
-| Aug 17, 2026 | Royal Thai Government | Official government warning | Thai | Live | [View record](articles/2026-08-17-thai-government.md) |
-| Aug 17, 2026 | The Nation | News report / airport immigration and TDAC scam warning | English | Live | [View record](articles/2026-08-17-the-nation.md) |
 
 ## Further Reading
 
