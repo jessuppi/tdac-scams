@@ -19,7 +19,7 @@ The website promoted expedited TDAC processing as an additional paid service, wi
 
 ## Hidden Disclosures
 
-Although the website reportedly disclosed that it was not affiliated with the Thai government, its application process raised concerns about when travelers learned they were using a paid third-party service. One customer reported completing the TDAC application fields before encountering a USD $50 payment request. The customer had reached the website through a sponsored Google search result and initially failed to recognize it as an unofficial service. This experience suggests that important distinctions between the free government registration and the website's optional paid assistance were not sufficiently apparent to some visitors before they began providing their personal and travel information.
+The website reportedly acknowledged its lack of government affiliation on its Contact and legal pages, but this disclosure did not prevent confusion about the paid application process. A traveler who arrived through a sponsored Google search result said they completed the TDAC application fields before encountering the payment request, only afterward recognizing that the website was a private service. This sequence raises concerns about whether the optional, paid nature of the service was sufficiently clear before travelers entered sensitive personal and travel information.
 
 ## Misleading Claims
 
