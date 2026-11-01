@@ -31,7 +31,7 @@ The website collected sensitive personal, passport, and travel information throu
 
 ## Billing or Service Issues
 
-A traveler reported that the website advertised a refund guarantee but failed to respond after they submitted a refund request through its contact form. In a separate December 2025 Trustpilot complaint, another customer alleged that the website neither delivered the promised arrival document nor responded to inquiries. Although these accounts have not been independently verified, they raise concerns about the website's customer support, refund practices, and fulfillment of paid services. The eventual outcomes of the reported disputes remain unknown.
+A traveler reported that the website advertised a refund guarantee but did not respond to a refund request submitted through its contact form. A December 2025 Trustpilot complaint alleged that no arrival document was delivered and inquiries went unanswered. Another Trustpilot reviewer reported receiving arrival-card documents containing multiple errors and said the website refused a refund despite advertising guaranteed refunds. These customer accounts have not been independently verified, and their eventual outcomes remain unknown. Nevertheless, they raise concerns about document accuracy, service fulfillment, customer support, and refund practices.
 
 ## References
 
