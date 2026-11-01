@@ -44,6 +44,8 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 
 ## News Coverage & Advisories
 
+This chronological index collects news reports, government and embassy advisories, and other published warnings concerning fraudulent or misleading TDAC websites. Each record summarizes the source and links to the original publication.
+
 | Date | Publication | Type | Language | Source Status | Record |
 | --- | --- | --- | --- | --- | --- |
 | Apr 3, 2025 | Tourism Authority of Thailand (Japan) | Official tourism advisory / fake website warning | Japanese / English / Thai | Live | [View record](articles/2025-04-03-tat-japan.md) |
@@ -80,6 +82,8 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 | Aug 17, 2026 | The Nation | News report / airport immigration and TDAC scam warning | English | Live | [View record](articles/2026-08-17-the-nation.md) |
 
 ## Website Comparison
+
+This table compares TDAC-related websites against the warning signs listed above. Select a domain to review its documented concerns and supporting evidence.
 
 | Domain | Government Impersonation | Misleading Fees | Deceptive Promotion | Hidden Disclosures | Misleading Claims | Privacy Concerns | Billing or Service Issues |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
