@@ -112,6 +112,7 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 | Mar 30, 2026 | Thai Examiner | News report / scam investigation | English | Live | [View record](articles/2026-03-30-thai-examiner.md) |
 | Apr 1, 2026 | Fragomen | Immigration advisory | English | Live | [View record](articles/2026-04-01-fragomen.md) |
 | Apr 8, 2026 | U-Tapao International Airport | Official airport advisory | English | Live | [View record](articles/2026-04-08-u-tapao-airport.md) |
+| Aug 17, 2026 | Royal Thai Government | Official government warning | Thai | Live | [View record](articles/2026-08-17-thai-government.md) |
 
 ## Further Reading
 
