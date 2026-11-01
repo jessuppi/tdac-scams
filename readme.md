@@ -98,6 +98,7 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 
 | Date | Publication | Type | Language | Source Status | Record |
 | --- | --- | --- | --- | --- | --- |
+| May 1, 2025 | Malay Mail | News report / fake website warning | English | Live | [View record](articles/2025-05-01-malay-mail.md) |
 | May 2, 2025 | The Phuket News | News report / fake website warning | English | Live | [View record](articles/2025-05-02-phuket-news.md) |
 | Jun 18, 2025 | Tourist Police Bureau | Official police warning | English / Thai | Live | [View record](articles/2025-06-18-tourist-police.md) |
 | Sep 12, 2025 | Embassy of Japan in Thailand | Official consular warning | Japanese / English / Thai | Live | [View record](articles/2025-09-12-japanese-embassy.md) |
