@@ -23,7 +23,7 @@ The website reportedly acknowledged its lack of government affiliation on its Co
 
 ## Misleading Claims
 
-A historical website scan recorded the site's description promoting its service as a way to obtain a "Thailand Visa On Arrival" online. This wording misleadingly associated its paid TDAC application service with obtaining a Thai visa, despite the Thailand Digital Arrival Card being an arrival registration form rather than a visa or authorization to enter the country. Thailand's Immigration Bureau explicitly confirms that the TDAC does not replace a visa. Such language could confuse travelers about what they were purchasing and whether the service provided any immigration benefit beyond submitting the mandatory arrival form.
+A December 2025 Gridinsoft scan preserved the website's description advertising "Get your Thailand Visa On Arrival online quickly and easily" while also inviting travelers to apply for a "Travell Declaration card." This wording blurred the distinction between obtaining a Thai visa and completing the Thailand Digital Arrival Card (TDAC). Thailand's Immigration Bureau describes the TDAC as an arrival-information form that travelers must complete separately from any visa requirements, including visa-on-arrival arrangements. Although the recorded wording came from website metadata rather than a verified screenshot of the application interface, it could mislead travelers into believing that the paid TDAC service also helped them obtain a visa.
 
 ## Privacy Concerns
 
