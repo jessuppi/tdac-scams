@@ -13,6 +13,10 @@ The website's historical page title, "Thailand TDAC Digital Arrival Card 2025," 
 
 On April 8, 2026, U-Tapao International Airport published an Immigration Bureau warning specifically identifying `thailandarrivalcardtourist.com` among unofficial websites charging travelers for TDAC registration, which the Thai government provides free of charge. Separately, a traveler reported paying USD $50 through the website and being offered an additional USD $20 for express delivery within four hours. Although this individual account has not been independently verified, it raises concerns about charging substantial fees for a free government registration service.
 
+## Deceptive Promotion
+
+The website promoted expedited TDAC processing as an additional paid service, with customers reporting options costing USD $20 for delivery within four hours and USD $40 for delivery within one hour. These speed-based upgrades implied that paying more could provide a meaningful processing advantage. However, Thailand's official Immigration Bureau portal allows travelers to download their TDAC directly after submitting the free application, which typically takes just 3–5 minutes to complete. The website provided no independently verified evidence that its expedited services offered faster government processing or any official priority. These promotions could mislead travelers into paying extra for speed-related benefits that the free government system already provides.
+
 ## Hidden Disclosures
 
 Although the website reportedly disclosed that it was not affiliated with the Thai government, its application process raised concerns about when travelers learned they were using a paid third-party service. One customer reported completing the TDAC application fields before encountering a USD $50 payment request. The customer had reached the website through a sponsored Google search result and initially failed to recognize it as an unofficial service. This experience suggests that important distinctions between the free government registration and the website's optional paid assistance were not sufficiently apparent to some visitors before they began providing their personal and travel information.
@@ -33,4 +37,5 @@ A traveler reported that the website advertised a refund guarantee, encouraging 
 - https://tdac.immigration.go.th/manual/en/
 - https://www.thaiexaminer.com/thai-news-foreigners/2026/03/30/immigration-bureau-warns-that-rip-off-entry-tdac-sites-stand-to-make-up-to-100-million-from-visitors/
 - https://www.trustpilot.com/review/thailandarrivalcardtourist.com
+- https://tdac.immigration.go.th/manual/en/faq.html
 - `https://thailandarrivalcardtourist.com/`
