@@ -93,6 +93,13 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 | [tdac.online](domains/tdac.online.md) |  |  |  |  |  |  |  |
 | [thailandarrivalcard2025.com](domains/thailandarrivalcard2025.com.md) |  |  |  |  |  |  |  |
 
+
+## News Coverage & Advisories
+
+| Date | Publication | Type | Language | Source Status | Record |
+| --- | --- | --- | --- | --- | --- |
+| Apr 1, 2026 | Fragomen | Immigration advisory | English | Live | [View record](articles/2026-04-01-fragomen.md) |
+
 ## Further Reading
 
 - https://tdac.immigration.go.th/
