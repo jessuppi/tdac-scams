@@ -99,6 +99,7 @@ Inclusion in this repository does not establish criminal wrongdoing, and chargin
 | Date | Publication | Type | Language | Source Status | Record |
 | --- | --- | --- | --- | --- | --- |
 | Oct 17, 2025 | Khaosod English | News report / government warning | English | Live | [View record](articles/2025-10-17-khaosod.md) |
+| Oct 22, 2025 | Sydney Morning Herald | Travel news | English | Content not verified | [View record](articles/2025-10-22-sydney-morning-herald.md) |
 | Nov 12, 2025 | ROOF21 Pattaya Property | Traveler warning | English | Live | [View record](articles/2025-11-12-roof21.md) |
 | Nov 24, 2025 | Royal Thai Embassy, Canberra | Official government warning | English | Live | [View record](articles/2025-11-24-thai-embassy-canberra.md) |
 | Mar 29, 2026 | Bangkok Post | News report / immigration warning | English | Live; restricted access | [View record](articles/2026-03-29-bangkok-post.md) |
