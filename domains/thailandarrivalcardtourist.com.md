@@ -31,7 +31,7 @@ The website collected sensitive personal, passport, and travel information throu
 
 ## Billing or Service Issues
 
-A traveler reported that the website advertised a refund guarantee, encouraging dissatisfied customers to request their money back. After discovering that official TDAC registration was free, the traveler said they submitted a refund request through the website's contact form but received no response. The complaint has not been independently verified, and it remains unclear whether the operator eventually responded or issued a refund. Nevertheless, the reported experience raises concerns about the reliability of the website's advertised refund policy and customer support.
+A traveler reported that the website advertised a refund guarantee but failed to respond after they submitted a refund request through its contact form. In a separate December 2025 Trustpilot complaint, another customer alleged that the website neither delivered the promised arrival document nor responded to inquiries. Although these accounts have not been independently verified, they raise concerns about the website's customer support, refund practices, and fulfillment of paid services. The eventual outcomes of the reported disputes remain unknown.
 
 ## References
 
