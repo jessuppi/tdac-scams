@@ -15,7 +15,7 @@ On April 8, 2026, U-Tapao International Airport published an Immigration Bureau 
 
 ## Deceptive Promotion
 
-The website promoted expedited TDAC processing as an additional paid service, with customers reporting options costing USD $20 for delivery within four hours and USD $40 for delivery within one hour. These speed-based upgrades implied that paying more could provide a meaningful processing advantage. However, Thailand's official Immigration Bureau portal allows travelers to download their TDAC directly after submitting the free application, which typically takes just 3–5 minutes to complete. The website provided no independently verified evidence that its expedited services offered faster government processing or any official priority. These promotions could mislead travelers into paying extra for speed-related benefits that the free government system already provides.
+A traveler reported that the website advertised normal TDAC delivery within 24 hours, with an additional USD $20 charge for express delivery within four hours. Another customer described a USD $40 option promising delivery within one hour. These delivery tiers presented faster service as a paid benefit, even though Thailand's official Immigration Bureau portal allows travelers to download their TDAC immediately after submitting the free application, which typically takes just 3–5 minutes to complete. There is no independently verified evidence that the website's paid upgrades accelerated government processing or provided official priority. The contrast raises concerns that travelers were encouraged to pay extra for faster delivery of a document already available directly from the government without charge.
 
 ## Hidden Disclosures
 
