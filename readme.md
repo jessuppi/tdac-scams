@@ -88,6 +88,7 @@ This chronological index collects news reports, government and embassy advisorie
 | Apr 8, 2026 | U-Tapao International Airport | Official airport advisory | English | Live | [View record](articles/2026-04-08-u-tapao-airport.md) |
 | Apr 11, 2026 | Thailand Hyperlinks | Japanese news report / embassy scam warning | Japanese / English / Thai | Live | [View record](articles/2026-04-11-thailand-hyperlinks.md) |
 | Apr 13, 2026 | The Economic Times | News report / immigration scam warning | English | Live | [View record](articles/2026-04-13-economic-times.md) |
+| Jul 14, 2026 | Royal Thai Embassy, Abuja | Official embassy advisory / fraudulent TDAC registration warning | English | Live | [View record](articles/2026-07-14-thai-embassy-abuja.md) |
 | Aug 17, 2026 | Royal Thai Government | Official government warning | Thai | Live | [View record](articles/2026-08-17-thai-government.md) |
 | Aug 17, 2026 | The Nation | News report / airport immigration and TDAC scam warning | English | Live | [View record](articles/2026-08-17-the-nation.md) |
 
