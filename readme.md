@@ -66,6 +66,7 @@ This chronological index collects news reports, government and embassy advisorie
 | Jun 9, 2025 | Royal Thai Consulate-General, Chicago | Official consular advisory / fake website warning | English | Live | [View record](articles/2025-06-09-thai-consulate-chicago.md) |
 | Jun 18, 2025 | Tourist Police Bureau | Official police warning | English / Thai | Live | [View record](articles/2025-06-18-tourist-police.md) |
 | Sep 12, 2025 | Embassy of Japan in Thailand | Official consular warning | Japanese / English / Thai | Live | [View record](articles/2025-09-12-japanese-embassy.md) |
+| Oct 16, 2025 | Thai Rath | Thai news report / ministry warning against paid TDAC websites | Thai / English | Live | [View record](articles/2025-10-16-thairath.md) |
 | Oct 17, 2025 | Ministry of Tourism and Sports | Official government warning | English | Live | [View record](articles/2025-10-17-ministry-of-tourism-and-sports.md) |
 | Oct 17, 2025 | Khaosod English | News report / government warning | English | Live | [View record](articles/2025-10-17-khaosod.md) |
 | Oct 18, 2025 | Naewna | Thai news report / government scam warning | Thai | Live | [View record](articles/2025-10-18-naewna.md) |
