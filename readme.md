@@ -95,6 +95,7 @@ This chronological index collects news reports, government and embassy advisorie
 | Aug 17, 2026 | The Nation | News report / airport immigration and TDAC scam warning | English | Live | [View record](articles/2026-08-17-the-nation.md) |
 | Oct 23, 2026 | SkyTravo | Travel guide / fake TDAC website identification | English | Live | [View record](articles/2026-10-23-skytravo.md) |
 | Oct 26, 2026 | Australian Government Smartraveller | Official travel advisory / fake TDAC website warning | English | Live | [View record](articles/2026-10-26-australian-smartraveller.md) |
+| Oct 27, 2026 | Thailand Immigration Travel | Immigration guide / fake TDAC websites and payment warnings | English | Live | [View record](articles/2026-10-27-immigration-travel.md) |
 
 ## Website Comparison
 
