@@ -98,6 +98,7 @@ This chronological index collects news reports, government and embassy advisorie
 | Aug 17, 2026 | Royal Thai Government | Official government warning | Thai | Live | [View record](articles/2026-08-17-thai-government.md) |
 | Aug 17, 2026 | The Nation | News report / airport immigration and TDAC scam warning | English | Live | [View record](articles/2026-08-17-the-nation.md) |
 | Sep 8, 2026 | Royal Thai Embassy, London | Official embassy guidance / fraudulent TDAC website warning | English | Live | [View record](articles/2026-09-08-thai-embassy-london.md) |
+| Oct 15, 2026 | Embassy of Japan in Thailand | Official quarterly safety advisory / fake TDAC website warning | Japanese / English / Thai | Live | [View record](articles/2026-10-15-japanese-embassy.md) |
 | Oct 23, 2026 | SkyTravo | Travel guide / fake TDAC website identification | English | Live | [View record](articles/2026-10-23-skytravo.md) |
 | Oct 26, 2026 | Australian Government Smartraveller | Official travel advisory / fake TDAC website warning | English | Live | [View record](articles/2026-10-26-australian-smartraveller.md) |
 | Oct 27, 2026 | Thailand Immigration Travel | Immigration guide / fake TDAC websites and payment warnings | English | Live | [View record](articles/2026-10-27-immigration-travel.md) |
