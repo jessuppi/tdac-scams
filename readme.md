@@ -53,6 +53,7 @@ This chronological index collects news reports, government and embassy advisorie
 | May 1, 2025 | Malay Mail | News report / fake website warning | English | Live | [View record](articles/2025-05-01-malay-mail.md) |
 | May 1, 2025 | Bangkok Post | News report / first fake website warning | English | Live; restricted access | [View record](articles/2025-05-01-bangkok-post.md) |
 | May 1, 2025 | WORLD OF BUZZ | Malaysian news report / fake TDAC website warning | English / Thai / Malay | Live | [View record](articles/2025-05-01-world-of-buzz.md) |
+| May 1, 2025 | Thailand News | News report / fake TDAC website charging $10 | English | Live | [View record](articles/2025-05-01-thailand-news.md) |
 | May 2, 2025 | SAYS | News report / fake website warning | English | Live | [View record](articles/2025-05-02-says.md) |
 | May 2, 2025 | The Phuket News | News report / fake website warning | English | Live | [View record](articles/2025-05-02-phuket-news.md) |
 | May 2, 2025 | Anti-Fake News Center Thailand | Government fact-check / VIP paid registration claim | Thai | Live | [View record](articles/2025-05-02-anti-fake-news-center.md) |
