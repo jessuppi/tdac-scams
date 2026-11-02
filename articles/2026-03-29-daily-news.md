@@ -4,9 +4,6 @@
 > Daily News conspicuously omitted `tdac.in.th` from its March 29, 2026 warning about fraudulent TDAC websites, despite having linked directly to `https://tdac.in.th/th` alongside Thailand's official government portal in an April 12, 2025 article, presenting both as authorized registration websites. Thai Visa Centre subsequently acknowledged operating `tdac.in.th` through Agents Co., Ltd. The newspaper's later warning neither mentions this privately operated service nor addresses its own earlier promotion.
 >
 > เดลินิวส์ไม่ได้กล่าวถึง `tdac.in.th` ในข่าวเตือนภัยเว็บไซต์ TDAC ปลอมเมื่อวันที่ 29 มีนาคม 2569 ทั้งที่เคยเผยแพร่ลิงก์ `https://tdac.in.th/th` ควบคู่กับเว็บไซต์ทางการของรัฐบาลในข่าววันที่ 12 เมษายน 2568 โดยนำเสนอว่าทั้งสองเว็บไซต์เป็นช่องทางลงทะเบียนที่ถูกต้อง ต่อมา Thai Visa Centre ได้ยอมรับว่า `tdac.in.th` ดำเนินการโดย Agents Co., Ltd. แต่ข่าวเตือนภัยฉบับหลังกลับไม่กล่าวถึงเว็บไซต์เอกชนดังกล่าวหรือชี้แจงการประชาสัมพันธ์เว็บไซต์นี้ในอดีต
->
-> References:
-> - https://github.com/jessuppi/thai-visa-centre/blob/master/threads/2025-05-01-asean-now-fake-tdac-emerges.md
 
 ## English title
 
