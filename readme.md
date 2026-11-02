@@ -57,6 +57,7 @@ This chronological index collects news reports, government and embassy advisorie
 | May 2, 2025 | SAYS | News report / fake website warning | English | Live | [View record](articles/2025-05-02-says.md) |
 | May 2, 2025 | The Phuket News | News report / fake website warning | English | Live | [View record](articles/2025-05-02-phuket-news.md) |
 | May 2, 2025 | Anti-Fake News Center Thailand | Government fact-check / VIP paid registration claim | Thai | Live | [View record](articles/2025-05-02-anti-fake-news-center.md) |
+| May 2, 2025 | MGR Online | Thai news report / fake VIP TDAC registration website fact-check | Thai / English | Live | [View record](articles/2025-05-02-mgr-online.md) |
 | May 3, 2025 | Thailand Hyperlinks | Japanese news report / fake TDAC website warning | Japanese / English / Thai | Live | [View record](articles/2025-05-03-thailand-hyperlinks.md) |
 | May 4, 2025 | MGR Online | News report / fake website warning | Thai | Live | [View record](articles/2025-05-04-mgr-online.md) |
 | May 4, 2025 | SYOK English | Malaysian news report / fake TDAC website warning | English / Thai / Malay | Live | [View record](articles/2025-05-04-syok.md) |
