@@ -91,6 +91,7 @@ This chronological index collects news reports, government and embassy advisorie
 | Jul 14, 2026 | Royal Thai Embassy, Abuja | Official embassy advisory / fraudulent TDAC registration warning | English | Live | [View record](articles/2026-07-14-thai-embassy-abuja.md) |
 | Aug 17, 2026 | Royal Thai Government | Official government warning | Thai | Live | [View record](articles/2026-08-17-thai-government.md) |
 | Aug 17, 2026 | The Nation | News report / airport immigration and TDAC scam warning | English | Live | [View record](articles/2026-08-17-the-nation.md) |
+| Oct 26, 2026 | Australian Government Smartraveller | Official travel advisory / fake TDAC website warning | English | Live | [View record](articles/2026-10-26-australian-smartraveller.md) |
 
 ## Website Comparison
 
