@@ -73,6 +73,7 @@ This chronological index collects news reports, government and embassy advisorie
 | Mar 30, 2026 | Thai Examiner | News report / scam investigation | English | Live | [View record](articles/2026-03-30-thai-examiner.md) |
 | Mar 30, 2026 | WiSE Digital | Japanese news report / immigration scam warning | Japanese / English / Thai | Live | [View record](articles/2026-03-30-wise-digital.md) |
 | Mar 30, 2026 | Business Standard | News report / immigration scam warning | English | Live | [View record](articles/2026-03-30-business-standard.md) |
+| Mar 30, 2026 | ScandAsia | News report / immigration scam warning | English | Live | [View record](articles/2026-03-30-scandasia.md) |
 | Apr 1, 2026 | Fragomen | Immigration advisory | English | Live | [View record](articles/2026-04-01-fragomen.md) |
 | Apr 7, 2026 | Falstaff | Travel news / TDAC scam warning | German / English / Thai | Live | [View record](articles/2026-04-07-falstaff.md) |
 | Apr 8, 2026 | U-Tapao International Airport | Official airport advisory | English | Live | [View record](articles/2026-04-08-u-tapao-airport.md) |
