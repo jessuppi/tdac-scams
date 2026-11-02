@@ -79,6 +79,7 @@ This chronological index collects news reports, government and embassy advisorie
 | Mar 29, 2026 | Khaosod English | News report / immigration warning | English | Live | [View record](articles/2026-03-29-khaosod.md) |
 | Mar 29, 2026 | Isranews | News report / immigration warning | Thai | Live | [View record](articles/2026-03-29-isranews.md) |
 | Mar 29, 2026 | Matichon | Thai news report / immigration scam warning | Thai | Live | [View record](articles/2026-03-29-matichon.md) |
+| Mar 29, 2026 | Daily News | Thai news report / immigration TDAC scam warning | Thai | Live | [View record](articles/2026-03-29-daily-news.md) |
 | Mar 30, 2026 | Thai Examiner | News report / scam investigation | English | Live | [View record](articles/2026-03-30-thai-examiner.md) |
 | Mar 30, 2026 | WiSE Digital | Japanese news report / immigration scam warning | Japanese / English / Thai | Live | [View record](articles/2026-03-30-wise-digital.md) |
 | Mar 30, 2026 | Business Standard | News report / immigration scam warning | English | Live | [View record](articles/2026-03-30-business-standard.md) |
