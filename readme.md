@@ -61,6 +61,7 @@ This chronological index collects news reports, government and embassy advisorie
 | May 3, 2025 | Thailand Hyperlinks | Japanese news report / fake TDAC website warning | Japanese / English / Thai | Live | [View record](articles/2025-05-03-thailand-hyperlinks.md) |
 | May 4, 2025 | MGR Online | News report / fake website warning | Thai | Live | [View record](articles/2025-05-04-mgr-online.md) |
 | May 4, 2025 | SYOK English | Malaysian news report / fake TDAC website warning | English / Thai / Malay | Live | [View record](articles/2025-05-04-syok.md) |
+| May 5, 2025 | 8world | Singapore Chinese-language news report / TDAC.INFO US$10 fee warning | Chinese / English / Thai | Live | [View record](articles/2025-05-05-8world.md) |
 | May 7, 2025 | Tak Immigration | Official immigration advisory / scam warning | Thai | Live | [View record](articles/2025-05-07-tak-immigration.md) |
 | May 9, 2025 | Anti-Fake News Center Thailand | Government fact-check / fake backup portal | Thai | Live | [View record](articles/2025-05-09-anti-fake-news-center.md) |
 | Jun 7, 2025 | Pattaya Mail | News report / official immigration warning | English | Live | [View record](articles/2025-06-07-pattaya-mail.md) |
