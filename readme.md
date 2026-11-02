@@ -85,6 +85,7 @@ This chronological index collects news reports, government and embassy advisorie
 | Mar 30, 2026 | Business Standard | News report / immigration scam warning | English | Live | [View record](articles/2026-03-30-business-standard.md) |
 | Mar 30, 2026 | ScandAsia | News report / immigration scam warning | English | Live | [View record](articles/2026-03-30-scandasia.md) |
 | Mar 30, 2026 | Globe News Bangkok | News report / immigration scam warning | English | Live; restricted access | [View record](articles/2026-03-30-globe-news-bangkok.md) |
+| Mar 31, 2026 | Chinese Consulate-General in Songkhla | Official consular advisory / fake TDAC website and personal-data warning | Chinese / English / Thai | Live | [View record](articles/2026-03-31-chinese-consulate-songkhla.md) |
 | Apr 1, 2026 | Fragomen | Immigration advisory | English | Live | [View record](articles/2026-04-01-fragomen.md) |
 | Apr 7, 2026 | Falstaff | Travel news / TDAC scam warning | German / English / Thai | Live | [View record](articles/2026-04-07-falstaff.md) |
 | Apr 8, 2026 | U-Tapao International Airport | Official airport advisory | English | Live | [View record](articles/2026-04-08-u-tapao-airport.md) |
