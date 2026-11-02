@@ -49,6 +49,7 @@ This chronological index collects news reports, government and embassy advisorie
 | Date | Publication | Type | Language | Source Status | Record |
 | --- | --- | --- | --- | --- | --- |
 | Apr 3, 2025 | Tourism Authority of Thailand (Japan) | Official tourism advisory / fake website warning | Japanese / English / Thai | Live | [View record](articles/2025-04-03-tat-japan.md) |
+| Apr 18, 2025 | Pattaya Mail | Prelaunch news report / fake TDAC website concerns | English | Live | [View record](articles/2025-04-18-pattaya-mail.md) |
 | May 1, 2025 | Malay Mail | News report / fake website warning | English | Live | [View record](articles/2025-05-01-malay-mail.md) |
 | May 1, 2025 | Bangkok Post | News report / first fake website warning | English | Live; restricted access | [View record](articles/2025-05-01-bangkok-post.md) |
 | May 1, 2025 | WORLD OF BUZZ | Malaysian news report / fake TDAC website warning | English / Thai / Malay | Live | [View record](articles/2025-05-01-world-of-buzz.md) |
