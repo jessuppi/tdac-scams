@@ -71,6 +71,7 @@ This chronological index collects news reports, government and embassy advisorie
 | Oct 18, 2025 | Naewna | Thai news report / government scam warning | Thai | Live | [View record](articles/2025-10-18-naewna.md) |
 | Oct 22, 2025 | Sydney Morning Herald | Travel news | English | Content not verified | [View record](articles/2025-10-22-sydney-morning-herald.md) |
 | Nov 12, 2025 | ROOF21 Pattaya Property | Traveler warning | English | Live | [View record](articles/2025-11-12-roof21.md) |
+| Nov 16, 2025 | Pattaya Mail | News report / immigration scam warning | English | Live | [View record](articles/2025-11-16-pattaya-mail.md) |
 | Nov 24, 2025 | Royal Thai Embassy, Canberra | Official government warning | English | Live | [View record](articles/2025-11-24-thai-embassy-canberra.md) |
 | Jan 17, 2026 | Anti-Fake News Center Thailand | Government fact-check | Thai | Live | [View record](articles/2026-01-17-anti-fake-news-center.md) |
 | Feb 26, 2026 | Royal Thai Embassy, Buenos Aires | Official embassy guidance / paid website warning | English / Thai / Spanish | Live | [View record](articles/2026-02-26-thai-embassy-buenos-aires.md) |
