@@ -63,6 +63,7 @@ This chronological index collects news reports, government and embassy advisorie
 | Sep 12, 2025 | Embassy of Japan in Thailand | Official consular warning | Japanese / English / Thai | Live | [View record](articles/2025-09-12-japanese-embassy.md) |
 | Oct 17, 2025 | Ministry of Tourism and Sports | Official government warning | English | Live | [View record](articles/2025-10-17-ministry-of-tourism-and-sports.md) |
 | Oct 17, 2025 | Khaosod English | News report / government warning | English | Live | [View record](articles/2025-10-17-khaosod.md) |
+| Oct 18, 2025 | Naewna | Thai news report / government scam warning | Thai | Live | [View record](articles/2025-10-18-naewna.md) |
 | Oct 22, 2025 | Sydney Morning Herald | Travel news | English | Content not verified | [View record](articles/2025-10-22-sydney-morning-herald.md) |
 | Nov 12, 2025 | ROOF21 Pattaya Property | Traveler warning | English | Live | [View record](articles/2025-11-12-roof21.md) |
 | Nov 24, 2025 | Royal Thai Embassy, Canberra | Official government warning | English | Live | [View record](articles/2025-11-24-thai-embassy-canberra.md) |
