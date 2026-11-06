@@ -108,6 +108,15 @@ This chronological index collects news reports, government and embassy advisorie
 | Oct 26, 2026 | Australian Government Smartraveller | Official travel advisory / fake TDAC website warning | English | Live | [View record](articles/2026-10-26-australian-smartraveller.md) |
 | Oct 27, 2026 | Thailand Immigration Travel | Immigration guide / fake TDAC websites and payment warnings | English | Live | [View record](articles/2026-10-27-immigration-travel.md) |
 
+
+## Videos
+
+This index collects videos documenting public warnings and commentary about fraudulent or misleading TDAC websites. Summaries attribute claims to the video publishers and do not independently establish wrongdoing.
+
+| Date | Publisher | Title | Language | Record |
+| --- | --- | --- | --- | --- |
+| Jul 28, 2025 | Tim Newton Today (YouTube) | SCAM ALERT: Fake Thailand Digital Arrival Card websites | English | [View record](videos/2025-07-28-youtube-tim-newton-fake-tdac-websites.md) |
+
 ## Website Comparison
 
 This table compares TDAC-related websites against the warning signs listed above. Select a domain to review its documented concerns and supporting evidence.
@@ -212,7 +221,6 @@ This table compares TDAC-related websites against the warning signs listed above
 - https://www.khaosodenglish.com/tourism/2025/10/17/thailand-warns-tourists-of-fake-arrival-card-websites-charging-fees/
 - https://www.khaosodenglish.com/tourism/2026/03/29/10-of-foreign-arrivals-used-fake-tdac-sites-immigration-warns/
 - https://www.youtube.com/watch?v=2SQXw_7jqrc
-- https://www.youtube.com/watch?v=8jsifLmc8zw
 - https://www.youtube.com/watch?v=N8As9KjZykc
 - https://www.raiyai.com/blog/tdac-thailand-scam-warning/
 - https://www.linkedin.com/pulse/tdac-scams-tdacinth-tdacagentscoth-fake-sites-jesse-nickles-h4eqc/
