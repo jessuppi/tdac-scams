@@ -115,6 +115,7 @@ This index collects videos documenting public warnings and commentary about frau
 
 | Date | Publisher | Title | Language | Record |
 | --- | --- | --- | --- | --- |
+| May 13, 2025 | Siam Legal (YouTube) | Beware Fake Thailand Digital Arrival Card (TDAC) Websites! | English | [View record](videos/2025-05-13-youtube-siam-legal-fake-tdac-websites.md) |
 | Jul 28, 2025 | Tim Newton Today (YouTube) | SCAM ALERT: Fake Thailand Digital Arrival Card websites | English | [View record](videos/2025-07-28-youtube-tim-newton-fake-tdac-websites.md) |
 
 ## Website Comparison
@@ -220,7 +221,6 @@ This table compares TDAC-related websites against the warning signs listed above
 - https://www.bangkokpost.com/thailand/general/3015470/fake-thailand-digital-arrival-card-website-alert
 - https://www.khaosodenglish.com/tourism/2025/10/17/thailand-warns-tourists-of-fake-arrival-card-websites-charging-fees/
 - https://www.khaosodenglish.com/tourism/2026/03/29/10-of-foreign-arrivals-used-fake-tdac-sites-immigration-warns/
-- https://www.youtube.com/watch?v=2SQXw_7jqrc
 - https://www.youtube.com/watch?v=N8As9KjZykc
 - https://www.raiyai.com/blog/tdac-thailand-scam-warning/
 - https://www.linkedin.com/pulse/tdac-scams-tdacinth-tdacagentscoth-fake-sites-jesse-nickles-h4eqc/
