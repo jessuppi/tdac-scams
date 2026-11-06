@@ -111,7 +111,7 @@ This chronological index collects news reports, government and embassy advisorie
 
 ## Videos
 
-This index collects videos documenting public warnings and commentary about fraudulent or misleading TDAC websites. Summaries attribute claims to the video publishers and do not independently establish wrongdoing.
+Videos featuring reports, warnings, and advice about fraudulent or misleading TDAC websites.
 
 | Date | Publisher | Title | Language | Record |
 | --- | --- | --- | --- | --- |
