@@ -1,6 +1,10 @@
 # tdac-thailand.com
 
-Last updated: November 8, 2026
+Last updated: November 9, 2026
+
+## Government Impersonation
+
+The website uses Thailand's official Digital Arrival Card (TDAC) name and acronym throughout its domain, branding, and application process, presenting itself as a TDAC enrollment service. Its application follows a registration sequence requiring travelers to complete a form, pay an application fee, and receive their TDAC, closely resembling the process for obtaining the mandatory government arrival card. However, Thailand's Immigration Bureau operates the official TDAC registration portal and provides applications completely free of charge. Although the website includes disclaimers identifying itself as a private assistance service and links to the official government portal, its TDAC-focused branding and paid application workflow may nevertheless create the impression of an authorized registration channel. The concern is the potential implication of official authority through the website's overall presentation, rather than an explicit claim of government ownership.
 
 ## Misleading Fees
 
