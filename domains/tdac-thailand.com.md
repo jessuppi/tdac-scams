@@ -24,7 +24,7 @@ The website describes its TDAC service using terminology normally associated wit
 
 ## Privacy Concerns
 
-The website collects sensitive passport details, personal information, travel itineraries, and contact information through its private TDAC application service. Its Privacy Policy identifies the data controller by referring to the company named in its Terms and Conditions, but that document leaves the company's identity blank. The policy permits sharing personal information with payment processors, technology providers, and other third parties, including possible transfers outside the European Economic Area, without identifying specific recipients or destination countries. It also states that personal information may be retained for legal obligations, disputes, and fraud investigations but provides no specific retention period for travelers' passport and application records. Although the policy describes security safeguards and procedures for requesting deletion, these omissions leave customers without clear information about who controls their sensitive data, which organizations may receive it, or how long it may be retained.
+The website collects sensitive passport details, personal information, travel itineraries, and contact information through its private TDAC application service. Its application form contains a Privacy Policy dated June 2020 that identifies the data controller by referring to the company named in its Terms and Conditions, although that document leaves the company's identity blank. The policy permits sharing personal information with payment processors, technology providers, and other third parties, including possible transfers outside the European Economic Area, without identifying specific recipients or destination countries. It also provides no specific retention period for travelers' passport and application records. Separately, the website's footer links to another Privacy Policy dated January 2024 that appears in Chinese despite being accessed through the English-language website. This policy repeatedly identifies `singapore-sgac.com` rather than the TDAC website and describes analytics, advertising-related communications, and information sharing with affiliated companies and service providers. Although both policies describe privacy safeguards, the website does not explain their relationship or clarify which provisions govern its TDAC customers. These inconsistencies leave travelers uncertain about who controls their sensitive information, how it may be used or shared, and how long it will be retained.
 
 ## Billing or Service Issues
 
@@ -36,5 +36,6 @@ The website publishes conflicting refund conditions across its application form 
 - https://tdac.immigration.go.th/manual/en/index.html
 - `https://www.tdac-thailand.com/en/`
 - `https://tdac-thailand.com/en/application.php`
+- `https://www.tdac-thailand.com/en/about.php?cid=5`
 - `https://www.tdac-thailand.com/en/about.php?cid=6`
 - `https://www.tdac-thailand.com/en/about.php?cid=8`
