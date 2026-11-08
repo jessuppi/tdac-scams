@@ -24,7 +24,7 @@ The website collects sensitive passport details, personal information, travel it
 
 ## Billing or Service Issues
 
-The website's Refund Policy allows customers to request refunds but makes approval subject to an individual review by its customer service department. Requests generally must be submitted within 120 days of payment, and the policy excludes refunds for ancillary services under all circumstances. Although applications not yet submitted to the government are described as eligible for full refunds, the Terms and Conditions separately permit the operator to cancel services without reimbursement when customers fail to provide requested information or respond to inquiries. The terms also restrict withdrawal rights for personalized travel documents while allowing cancellation under certain conditions before delivery. Furthermore, the refund provisions discuss nonrefundable government assessment fees despite Thailand's official TDAC registration being free. These overlapping conditions may leave customers uncertain about their cancellation rights, refund eligibility, and which portions of their payment are recoverable if problems arise.
+The website publishes conflicting refund conditions across its application form and separately linked policy pages. The application form states that refund requests generally must be submitted within 120 days, that applications not yet submitted to the government may qualify for full refunds, and that approved refunds are returned to the original payment method. Its separately published Refund Policy similarly promises full refunds before government submission, including applications already reviewed by its staff. However, its separately published Terms and Conditions state that customers whose applications have been reviewed but not submitted receive only a credit for the purported government fee, while certain other refunds are issued as credits toward future orders. These provisions are particularly confusing because Thailand's official TDAC registration has no government fee. The application terms also exclude ancillary services from refunds and permit cancellation without reimbursement under certain circumstances. Together, these conflicting policies leave customers uncertain about their refund eligibility, whether they will receive money or store credit, and which conditions actually govern their purchase.
 
 ## References
 
@@ -32,3 +32,5 @@ The website's Refund Policy allows customers to request refunds but makes approv
 - https://tdac.immigration.go.th/manual/en/index.html
 - `https://www.tdac-thailand.com/en/`
 - `https://tdac-thailand.com/en/application.php`
+- `https://www.tdac-thailand.com/en/about.php?cid=6`
+- `https://www.tdac-thailand.com/en/about.php?cid=8`
