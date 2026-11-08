@@ -133,7 +133,7 @@ This table compares TDAC-related websites against the warning signs listed above
 | [thailandarrivalcardtourist.com](domains/thailandarrivalcardtourist.com.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | [thetdacguide.com](domains/thetdacguide.com.md) |  |  |  |  |  |  |  |
 | [tdac-thailand.info](domains/tdac-thailand.info.md) |  |  |  |  |  |  |  |
-| [tdac-thailand.com](domains/tdac-thailand.com.md) |  |  |  |  |  |  |  |
+| [tdac-thailand.com](domains/tdac-thailand.com.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | [enterthailandready.com](domains/enterthailandready.com.md) |  |  |  |  |  |  |  |
 | [thailandtdaccheck.com](domains/thailandtdaccheck.com.md) |  |  |  |  |  |  |  |
 | [entrydigitalthailand.com](domains/entrydigitalthailand.com.md) |  |  |  |  |  |  |  |
