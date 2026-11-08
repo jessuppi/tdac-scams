@@ -16,7 +16,7 @@ The website promotes its paid TDAC consultation and application assistance as a 
 
 ## Hidden Disclosures
 
-The website's paid TDAC application form includes Terms and Conditions dated June 2020 that leave the operating company's name, tax identification number, and registered office address blank in the section intended to identify the business. Although the document initially provides `info@tdac-thailand.com` as a contact address, it later identifies `info@malaysia-mdac.com` as the contact for the merchant of record, customer service, and refund inquiries. The merchant is described as responsible for collecting payments and issuing invoices, but its legal identity and relationship to the TDAC service are not explained. The application terms also specify Spanish law for contractual disputes without identifying where the operator is established. Separately, the website publishes another set of Terms and Conditions dated January 2024, displayed in Chinese even through its English-language website, which does not resolve these identification gaps. Although the website acknowledges that it is a private, fee-charging service unaffiliated with Thailand's government, these omissions and inconsistencies make it difficult for customers to determine which business they are contracting with, who handles their payments, and who is ultimately responsible for providing the service.
+The website's English-language TDAC application includes Terms and Conditions dated June 2020 that leave the operating company's name, tax identification number, and registered office address blank. However, the Chinese-language homepage footer identifies `青岛商青藤网络科技有限公司` and provides a Chinese business address and telephone number. The website does not explain whether this company is the contracting entity omitted from the application terms or clarify its relationship to the payment processor. The English application identifies `info@tdac-thailand.com` as a company contact but provides `info@malaysia-mdac.com` for the merchant of record, customer service, and refund inquiries. In contrast, the Chinese application identifies `info@tdac-thailand.com` as the merchant-of-record contact. The English application terms also specify Spanish law for contractual disputes without identifying where the contracting company is established. Separately, the website publishes another set of Terms and Conditions dated January 2024 that appears in Chinese even through its English-language website. Although the website acknowledges that it is a private, fee-charging service and its Chinese homepage provides some business identification, these incomplete and inconsistent disclosures leave customers uncertain about which legal entity provides the service, who handles their payments, and who is responsible for resolving disputes.
 
 ## Misleading Claims
 
@@ -36,6 +36,8 @@ The website publishes conflicting refund conditions across its application form 
 - https://tdac.immigration.go.th/manual/en/index.html
 - `https://www.tdac-thailand.com/en/`
 - `https://tdac-thailand.com/en/application.php`
+- `https://tdac-thailand.com/`
+- `https://tdac-thailand.com/application.php`
 - `https://www.tdac-thailand.com/en/about.php?cid=5`
 - `https://www.tdac-thailand.com/en/about.php?cid=6`
 - `https://www.tdac-thailand.com/en/about.php?cid=8`
