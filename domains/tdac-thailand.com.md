@@ -20,7 +20,13 @@ The website's English-language TDAC application includes Terms and Conditions da
 
 ## Misleading Claims
 
-The website provides inaccurate and potentially misleading descriptions of Thailand's Digital Arrival Card (TDAC). Its Chinese-language homepage incorrectly describes TDAC as a paper form required by Singapore customs authorities and presents the final application step as receiving an approved TDAC. Meanwhile, its English homepage mistakenly refers to an "MDAC" rather than a TDAC when explaining the application timeline. Thailand's Immigration Bureau identifies TDAC as an online arrival-information form replacing the traditional paper arrival card and explicitly states that it is not a visa. The website's application Terms and Conditions further confuse the requirements by repeatedly describing an "Electronic Travel Document" subject to government approval, denial, or subsequent revocation. They also describe an optional priority processing service for an additional fee without clearly explaining whether priority applies only to the company's internal handling or offers any advantage in official processing. Separately, the website's published Terms and Conditions refer to a "100% approval guarantee" when discussing refunds for rejected applications. Although some of these statements may originate from generic templates or translation errors rather than deliberate misrepresentation, their inclusion in a paid TDAC service may mislead travelers about which country's authorities administer the arrival card, whether government approval is involved, and what benefits the intermediary can actually provide.
+The website provides inaccurate and potentially misleading descriptions of Thailand's Digital Arrival Card (TDAC). Its Chinese-language homepage incorrectly describes TDAC as a paper form required by Singapore customs authorities and presents the final application step as receiving an approved TDAC. Meanwhile, its English homepage mistakenly refers to an "MDAC" rather than a TDAC when explaining the application timeline. Thailand's Immigration Bureau identifies TDAC as an online arrival-information form replacing the traditional paper arrival card and explicitly states that it is not a visa.
+
+The Chinese-language application contains another potentially consequential error in its health declaration section, where an input placeholder broadly states that travelers entering Thailand must be vaccinated with vaccines approved by Thailand, the World Health Organization, or Thailand's Ministry of Public Health. Thailand does not impose a general COVID-19 vaccination requirement for entry, although specific vaccination requirements apply to travelers arriving from certain yellow-fever-risk areas. The website's unqualified statement may therefore give travelers an inaccurate impression of Thailand's health requirements.
+
+The website's application Terms and Conditions further confuse the requirements by repeatedly describing an "Electronic Travel Document" subject to government approval, denial, or subsequent revocation. They also describe an optional priority processing service for an additional fee without clearly explaining whether priority applies only to the company's internal handling or offers any advantage in official processing. Separately, the website's published Terms and Conditions refer to a "100% approval guarantee" when discussing refunds for rejected applications.
+
+Although some of these statements may originate from generic templates or translation errors rather than deliberate misrepresentation, their inclusion in a paid TDAC service may mislead travelers about which country's authorities administer the arrival card, whether government approval is involved, what health requirements apply, and what benefits the intermediary can actually provide.
 
 ## Privacy Concerns
 
@@ -32,6 +38,7 @@ The website publishes conflicting refund conditions across its application form 
 
 ## References
 
+- https://cgchicago.thaiembassy.org/en/page/health-requirement
 - https://tdac.immigration.go.th/manual/en/faq.html
 - https://tdac.immigration.go.th/manual/en/index.html
 - `https://www.tdac-thailand.com/en/`
