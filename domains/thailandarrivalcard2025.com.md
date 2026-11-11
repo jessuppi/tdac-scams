@@ -57,6 +57,8 @@ A September 2025 third-party website record identified `thailandarrivalcard2025.
 
 These matching titles indicate reused branding or website metadata and provide additional context for a customer complaint mentioning JSSVisa. However, they do not independently establish common ownership, coordinated operations, or whether JSSVisa processed payments for these websites.
 
+A separately branded TDAC website, `thailandarrivalcard.org`, also published a paid application form offering $20 and $50 processing options. However, a search-indexed copy of its application page displayed a government non-affiliation disclaimer that explicitly named `thailandarrivalcard2025.com` instead of the domain hosting the form.[^30] This inconsistency suggests reused legal disclosures or website templates, but does not independently establish common ownership, coordinated operations, or a commercial relationship between the two websites.
+
 The website's Refund Policy directed customers to `info@thaitouristvisa.com`, an email address associated with another commercial TDAC website, `thaitouristvisa.com`. Both websites published substantially similar refund policies, including identical service prices, approval-rate claims, refund conditions, and chargeback warnings.[^10][^19] However, they identified different operators: the original website named Latvia's Lauksaimniecības SIA "DRUVA", while `thaitouristvisa.com` named Switzerland's Weber GreenTech AG.[^9][^20] Weber GreenTech AG is an established environmental technology business, but its involvement in TDAC services has not been independently verified.[^21] These overlapping disclosures suggest a connection between the websites but do not establish common ownership, coordinated operations, or authorization by either named company.
 
 Together, these inconsistencies could leave customers uncertain about which legal entity was responsible for payments, personal information, and refund requests. The available evidence does not establish whether the different names represented affiliated businesses, unrelated operators, or unauthorized use of a legitimate company's details.
@@ -125,3 +127,4 @@ Together, these provisions created uncertainty about refund eligibility, payment
 [^27]: https://www.scamadviser.com/check-website/thailandvisaonarrivaltourist.com
 [^28]: https://gridinsoft.com/online-virus-scanner/url/thailandarrivalcard2025-com
 [^29]: https://www.scamdoc.com/view/2336724
+[^30]: https://thailandarrivalcard.org/application/
