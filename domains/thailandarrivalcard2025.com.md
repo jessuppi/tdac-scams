@@ -21,13 +21,13 @@ The concern is the potentially misleading impression created by its branding and
 
 The website previously advertised paid Thailand Digital Arrival Card (TDAC) assistance, despite official government registration being completely free. Its homepage advertised a Basic Plan costing $49.99 and an expedited service costing $69.99, with an additional $20 processing option.[^1][^8]
 
-On March 29, 2026, Thai news outlet MGR Online identified `thailandarrivalcard2025.com` as a commercial TDAC registration site with its own application form while reporting on an Immigration Bureau warning about unofficial paid services.[^4]
-
-On April 8, 2026, U-Tapao Rayong–Pattaya International Airport published a warning explicitly identifying `thailandarrivalcard2025.com` among private or suspicious TDAC websites travelers should avoid. The notice emphasized that official TDAC registration is free and directed travelers to the Thai Immigration Bureau's official portal.[^6]
-
 However, its separate Refund Policy advertised different prices: $59.99 for standard processing, $79.99 for fast processing, and $109.99 for ultra-premium processing. These inconsistent published prices could leave customers uncertain about the actual cost of the service.[^10]
 
 Furthermore, the website's disclaimer stated that its commercial service fees were charged in addition to any applicable government fees, potentially suggesting that Thailand imposes a separate TDAC registration charge.[^12]
+
+On March 29, 2026, Thai news outlets MGR Online and Isranews identified `thailandarrivalcard2025.com` as a commercial TDAC registration site with its own application form while reporting on an Immigration Bureau warning about unofficial paid services.[^4][^5]
+
+On April 8, 2026, U-Tapao Rayong–Pattaya International Airport published a warning explicitly identifying `thailandarrivalcard2025.com` among private or suspicious TDAC websites travelers should avoid. The notice emphasized that official TDAC registration is free and directed travelers to the Thai Immigration Bureau's official portal.[^6]
 
 Although the operator disclosed that it provided optional paid assistance, these pricing inconsistencies and references to government fees risked misleading travelers about the cost of obtaining a TDAC. The available evidence does not establish what individual customers actually paid.
 
@@ -84,8 +84,6 @@ The website's previously published Refund Policy offered full refunds when TDAC 
 These conditions could make refunds difficult to obtain because Thailand's TDAC is an arrival-information submission rather than a conventional visa application subject to an ordinary approval or rejection process.[^1]
 
 More concerningly, the policy discouraged customers from initiating chargebacks through their banks or payment providers, warning that doing so without first contacting the company could result in additional fees, account termination, or legal proceedings.[^10]
-
-The policy also directed refund requests to an email address associated with a different domain, while its published service prices differed between the homepage and Refund Policy.[^8][^10]
 
 Together, these provisions created uncertainty about refund eligibility, payment disputes, and customers' available remedies. The available evidence does not establish that the operator actually refused valid refunds, imposed penalties, or pursued legal action against customers.
 
