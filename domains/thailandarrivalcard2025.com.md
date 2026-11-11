@@ -45,6 +45,8 @@ Latvia's official Enterprise Register confirms that a company with this exact na
 
 This discrepancy raises questions about the website's claimed corporate identity. Although the registration details are genuine, there is no independent evidence establishing that the Latvian company operated, controlled, or authorized the TDAC website.
 
+The same Latvian company's name, registration number, and address also appeared on commercial arrival-card websites for Curaçao and Aruba. Their legal documents introduced additional company identities in Spain and Australia, respectively, despite displaying DRUVA's registration details elsewhere. These overlapping disclosures raise further questions about the use of the Latvian company's identity but do not independently establish common ownership, coordinated operations, or the company's involvement.
+
 The website's Privacy Policy also referred to Thailand Travel Declaration LLC, while its footer displayed Thailand Agency Travel. The relationship between these different names was not explained.
 
 Furthermore, its Refund Policy directed customers to `info@thaitouristvisa.com`, an email address associated with another domain, without clarifying its relationship to the website or its claimed operator.
@@ -98,3 +100,8 @@ Together, these provisions created uncertainty about refund eligibility, payment
 - `https://thailandarrivalcard2025.com/privacy-policy`
 - `https://thailandarrivalcard2025.com/terms-of-use`
 - `https://thailandarrivalcard2025.com/contact`
+- `https://www.curacaocardweb.com/about-us`
+- `https://www.curacaocardweb.com/terms-of-use`
+- `https://arubaedvisacard.com/contact`
+- `https://arubaedvisacard.com/terms-of-use`
+- `https://arubaedvisacard.com/privacy-policy`
