@@ -30,6 +30,16 @@ These promotional claims may have exaggerated the advantages of purchasing comme
 
 The absence of independent verification does not establish that the operator fabricated its customer testimonials or processing statistics.
 
+## Hidden Disclosures
+
+The website previously identified Lauksaimniecības SIA "DRUVA", a company purportedly registered in Latvia, as its operator. However, its Privacy Policy also referred to Thailand Travel Declaration LLC, while its footer displayed the branding Thailand Agency Travel. The relationship between these different names was not clearly explained.
+
+Furthermore, its Refund Policy instructed customers to submit refund requests to `info@thaitouristvisa.com`, an email address associated with a different domain, without clarifying its relationship to the TDAC service or the identified operating company.
+
+Although the website disclosed its private status and published company information, these inconsistencies could leave customers uncertain about which legal entity was responsible for their payments, personal information, and refund requests.
+
+The available evidence does not establish that the named company was fictitious or that the different contact addresses belonged to unrelated operators.
+
 ## References
 
 - https://tdac.immigration.go.th/manual/en/faq.html
@@ -37,3 +47,5 @@ The absence of independent verification does not establish that the operator fab
 - `https://thailandarrivalcard2025.com/`
 - `https://thailandarrivalcard2025.com/about-us`
 - `https://thailandarrivalcard2025.com/refund-policy`
+- `https://thailandarrivalcard2025.com/privacy-policy`
+- `https://thailandarrivalcard2025.com/terms-of-use`
