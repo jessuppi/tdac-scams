@@ -85,6 +85,8 @@ These conditions could make refunds difficult to obtain because Thailand's TDAC 
 
 More concerningly, the policy discouraged customers from initiating chargebacks through their banks or payment providers, warning that doing so without first contacting the company could result in additional fees, account termination, or legal proceedings.[^10]
 
+A commenter in a public Reddit discussion specifically identified `thailandarrivalcard2025` and `JSSVisa`, reporting that they were charged $140 for two travelers despite expecting to pay $40 ($20 per person). The commenter stated that they had contacted the service about the discrepancy. This account has not been independently verified, and the comment alone does not establish the operator's actual billing practices or the relationship between the website and JSSVisa.[^24]
+
 Together, these provisions created uncertainty about refund eligibility, payment disputes, and customers' available remedies. The available evidence does not establish that the operator actually refused valid refunds, imposed penalties, or pursued legal action against customers.
 
 
@@ -111,3 +113,4 @@ Together, these provisions created uncertainty about refund eligibility, payment
 [^21]: https://www.worldbiogasassociation.org/member-press-release-weber-greentech-invests-in-innovative-biogas-technology-from-renergon-as-a-pioneer-of-the-energy-transition-and-global-sustainability-goals/
 [^22]: https://www.thailand.go.th/issue-focus-detail/thailand-digital-arrival-card-tdac-to-start-on-1-may-2025?hl=en
 [^23]: https://tdac.immigration.go.th/manual/en/index.html
+[^24]: https://www.reddit.com/r/ThailandTourism/comments/1m2phnb/beware_of_thailand_digital_arrival_card_tdac_scam/
