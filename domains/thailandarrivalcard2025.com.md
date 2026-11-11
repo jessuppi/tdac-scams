@@ -39,13 +39,17 @@ The absence of independent verification does not establish that the operator fab
 
 ## Hidden Disclosures
 
-The website previously identified Lauksaimniecības SIA "DRUVA", a company purportedly registered in Latvia, as its operator. However, its Privacy Policy also referred to Thailand Travel Declaration LLC, while its footer displayed the branding Thailand Agency Travel. The relationship between these different names was not clearly explained.
+The website previously identified Lauksaimniecības SIA "DRUVA" as its operator, providing Latvian registration number 43903000810 and a registered address in Smiltene Municipality, Latvia.
 
-Furthermore, its Refund Policy instructed customers to submit refund requests to `info@thaitouristvisa.com`, an email address associated with a different domain, without clarifying its relationship to the TDAC service or the identified operating company.
+Latvia's official Enterprise Register confirms that a company with this exact name, registration number, and address exists and was registered on March 14, 1992. However, public Latvian business records identify its activities as agriculture, including dairy farming, rather than immigration consulting.
 
-Although the website disclosed its private status and published company information, these inconsistencies could leave customers uncertain about which legal entity was responsible for their payments, personal information, and refund requests.
+This discrepancy raises questions about the website's claimed corporate identity. Although the registration details are genuine, there is no independent evidence establishing that the Latvian company operated, controlled, or authorized the TDAC website.
 
-The available evidence does not establish that the named company was fictitious or that the different contact addresses belonged to unrelated operators.
+The website's Privacy Policy also referred to Thailand Travel Declaration LLC, while its footer displayed Thailand Agency Travel. The relationship between these different names was not explained.
+
+Furthermore, its Refund Policy directed customers to `info@thaitouristvisa.com`, an email address associated with another domain, without clarifying its relationship to the website or its claimed operator.
+
+Together, these inconsistencies could leave customers uncertain about which legal entity was responsible for payments, personal information, and refund requests. The available evidence does not establish whether the different names represented affiliated businesses, unrelated operators, or unauthorized use of a legitimate company's details.
 
 ## Misleading Claims
 
@@ -82,6 +86,8 @@ Together, these provisions created uncertainty about refund eligibility, payment
 ## References
 
 - https://tdac.immigration.go.th/manual/en/faq.html
+- https://info.ur.gov.lv/#/legal-entity/43903000810
+- https://www.firmas.lv/en/companies/druva-lauksaimniecibas/43903000810
 - https://mgronline.com/crime/detail/9690000030109
 - https://www.isranews.org/article/isranews-short-news/146159-immigration-TDAC-news.html
 - https://www.utapao.com/en/news/news080469
