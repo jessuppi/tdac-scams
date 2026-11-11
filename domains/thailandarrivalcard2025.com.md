@@ -19,7 +19,7 @@ The concern is the potentially misleading impression created by its branding and
 
 ## Misleading Fees
 
-The website previously charged travelers for Thailand Digital Arrival Card (TDAC) assistance despite official government registration being completely free. Its homepage advertised a Basic Plan costing $49.99 and an expedited service costing $69.99, with an additional $20 processing option.
+The website previously advertised paid Thailand Digital Arrival Card (TDAC) assistance, despite official government registration being completely free. Its homepage advertised a Basic Plan costing $49.99 and an expedited service costing $69.99, with an additional $20 processing option.
 
 However, its separate Refund Policy advertised different prices: $59.99 for standard processing, $79.99 for fast processing, and $109.99 for ultra-premium processing. These inconsistent published prices could leave customers uncertain about the actual cost of the service.
 
