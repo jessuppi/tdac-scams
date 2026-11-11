@@ -59,7 +59,7 @@ Together, these inconsistencies could leave customers uncertain about which lega
 
 ## Misleading Claims
 
-The website previously published several inaccurate descriptions of Thailand's Digital Arrival Card (TDAC). Its homepage claimed the system launched in 2024, although Thailand officially introduced the TDAC on May 1, 2025.[^8][^22] It also referred to obtaining a Thailand tourist visa during its application process, despite TDAC being an arrival-information form rather than a visa.[^1][^8]
+The website previously published several inaccurate descriptions of Thailand's Digital Arrival Card (TDAC). Its homepage claimed the system launched in 2024, although Thailand officially introduced the TDAC on May 1, 2025.[^8][^22] It also referred to obtaining a Thailand tourist visa during its application process, despite TDAC being an arrival-information form rather than a visa.[^1][^8][^23]
 
 The website repeatedly described TDAC submissions as requiring government approval, promoted expedited processing, and advertised a 99.2% approval rate. These claims could mislead travelers into believing that TDAC applications undergo a discretionary approval process or that paid assistance provides special immigration advantages.[^8][^10]
 
@@ -112,3 +112,4 @@ Together, these provisions created uncertainty about refund eligibility, payment
 [^20]: `https://thaitouristvisa.com/about-us`
 [^21]: https://www.worldbiogasassociation.org/member-press-release-weber-greentech-invests-in-innovative-biogas-technology-from-renergon-as-a-pioneer-of-the-energy-transition-and-global-sustainability-goals/
 [^22]: https://www.thailand.go.th/issue-focus-detail/thailand-digital-arrival-card-tdac-to-start-on-1-may-2025?hl=en
+[^23]: https://tdac.immigration.go.th/manual/en/index.html
