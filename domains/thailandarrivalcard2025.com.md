@@ -60,6 +60,18 @@ However, the policy did not specify a maximum retention period for sensitive app
 
 Although these omissions raise legitimate privacy concerns, there is no independently verified evidence that the operator sold passport information, suffered a data breach, or otherwise misused customers' personal information.
 
+## Billing or Service Issues
+
+The website's previously published Refund Policy offered full refunds when TDAC applications were officially rejected by Thai immigration authorities. However, eligibility required official notification of rejection within 30 days of processing and a refund request supported by evidence within 60 days of rejection.
+
+These conditions could make refunds difficult to obtain because Thailand's TDAC is an arrival-information submission rather than a conventional visa application subject to an ordinary approval or rejection process.
+
+More concerningly, the policy discouraged customers from initiating chargebacks through their banks or payment providers, warning that doing so without first contacting the company could result in additional fees, account termination, or legal proceedings.
+
+The policy also directed refund requests to an email address associated with a different domain, while its published service prices differed between the homepage and Refund Policy.
+
+Together, these provisions created uncertainty about refund eligibility, payment disputes, and customers' available remedies. The available evidence does not establish that the operator actually refused valid refunds, imposed penalties, or pursued legal action against customers.
+
 ## References
 
 - https://tdac.immigration.go.th/manual/en/faq.html
