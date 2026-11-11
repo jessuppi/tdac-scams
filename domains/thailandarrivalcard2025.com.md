@@ -65,7 +65,7 @@ The website previously published several inaccurate descriptions of Thailand's D
 
 The website repeatedly described TDAC submissions as requiring government approval, promoted expedited processing, and advertised a 99.2% approval rate. These claims could mislead travelers into believing that TDAC applications undergo a discretionary approval process or that paid assistance provides special immigration advantages.[^8][^10]
 
-Furthermore, its FAQ promised TDAC approval 72 hours before departure, whereas Thailand's official registration window is calculated relative to arrival in Thailand.[^1]
+The website's FAQ promised TDAC approval 72 hours before departure.[^8] However, Thailand's Immigration Bureau instructs travelers to submit their TDAC within three days before arrival, including the arrival date, and explains that submission details and a QR code are sent by email. The official guidance does not describe a paid expedited approval service.[^1]
 
 Although some inaccuracies may reflect outdated content or poorly adapted templates, they could confuse travelers about official registration requirements, processing times, and the benefits of commercial assistance.
 
