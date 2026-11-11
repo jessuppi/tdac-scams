@@ -37,7 +37,7 @@ The website previously promoted its paid TDAC service using claims of more than 
 
 The homepage also displayed favorable customer testimonials and promoted expedited processing, professional application reviews, and round-the-clock support. The identities and experiences of the quoted customers could not be independently verified.[^8]
 
-These promotional claims may have exaggerated the advantages of purchasing commercial assistance for a government registration process that is available free of charge and typically takes approximately three to five minutes to complete through Thailand's official portal.
+These promotional claims may have exaggerated the advantages of purchasing commercial assistance for a government registration process that travelers can complete themselves, free of charge, through Thailand's official immigration portal.[^1]
 
 The absence of independent verification does not establish that the operator fabricated its customer testimonials or processing statistics.
 
