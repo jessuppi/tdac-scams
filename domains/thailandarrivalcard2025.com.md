@@ -59,7 +59,7 @@ Although some inaccuracies may reflect outdated content or poorly adapted templa
 
 ## Privacy Concerns
 
-The website previously collected sensitive passport information, personal details, and travel itineraries through its commercial TDAC application service. Its contact form also requested passport information from visitors making general inquiries, without clearly explaining why such details were necessary for questions unrelated to an existing application.
+The website previously requested sensitive passport information, personal details, and travel itineraries through its commercial TDAC application service. Its contact form also requested passport information from visitors making general inquiries, without clearly explaining why such details were necessary for questions unrelated to an existing application.
 
 Its Privacy Policy disclosed the collection of contact information, payment details, account credentials, demographic information, and website usage data. It also permitted sharing information with third-party service providers and using customer information for promotional communications.
 
