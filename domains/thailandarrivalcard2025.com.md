@@ -83,6 +83,9 @@ Together, these provisions created uncertainty about refund eligibility, payment
 
 - https://tdac.immigration.go.th/manual/en/faq.html
 - https://mgronline.com/crime/detail/9690000030109
+- https://www.isranews.org/article/isranews-short-news/146159-immigration-TDAC-news.html
+- https://www.utapao.com/en/news/news080469
+- https://www.thaiexaminer.com/thai-news-foreigners/2026/03/30/immigration-bureau-warns-that-rip-off-entry-tdac-sites-stand-to-make-up-to-100-million-from-visitors/
 - `https://thailandarrivalcard2025.com/`
 - `https://thailandarrivalcard2025.com/about-us`
 - `https://thailandarrivalcard2025.com/refund-policy`
