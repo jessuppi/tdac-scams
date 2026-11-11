@@ -50,6 +50,16 @@ Furthermore, its FAQ promised TDAC approval 72 hours before departure, whereas T
 
 Although some inaccuracies may reflect outdated content or poorly adapted templates, they could confuse travelers about official registration requirements, processing times, and the benefits of commercial assistance.
 
+## Privacy Concerns
+
+The website previously collected sensitive passport information, personal details, and travel itineraries through its commercial TDAC application service. Its contact form also requested passport information from visitors making general inquiries, without clearly explaining why such details were necessary for questions unrelated to an existing application.
+
+Its Privacy Policy disclosed the collection of contact information, payment details, account credentials, demographic information, and website usage data. It also permitted sharing information with third-party service providers and using customer information for promotional communications.
+
+However, the policy did not specify a maximum retention period for sensitive application records or clearly explain how passport information was stored, retained, and deleted. The inconsistent company names appearing in its privacy disclosures also created uncertainty about responsibility for processing customer data.
+
+Although these omissions raise legitimate privacy concerns, there is no independently verified evidence that the operator sold passport information, suffered a data breach, or otherwise misused customers' personal information.
+
 ## References
 
 - https://tdac.immigration.go.th/manual/en/faq.html
@@ -59,3 +69,4 @@ Although some inaccuracies may reflect outdated content or poorly adapted templa
 - `https://thailandarrivalcard2025.com/refund-policy`
 - `https://thailandarrivalcard2025.com/privacy-policy`
 - `https://thailandarrivalcard2025.com/terms-of-use`
+- `https://thailandarrivalcard2025.com/contact`
