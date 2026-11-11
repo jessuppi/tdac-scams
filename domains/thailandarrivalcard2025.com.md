@@ -51,6 +51,8 @@ The website's Privacy Policy also referred to Thailand Travel Declaration LLC, w
 
 Furthermore, its Refund Policy directed customers to `info@thaitouristvisa.com`, an email address associated with another domain, without clarifying its relationship to the website or its claimed operator. [10]
 
+Another commercial TDAC website, `thaitouristvisa.com`, published a substantially similar Refund Policy, including identical service prices, approval-rate claims, refund conditions, and chargeback warnings. [10] [19] The original website also directed refund requests to that domain's email address. [10] However, the second website identified Switzerland's Weber GreenTech AG as its operator, rather than Latvia's DRUVA. [9] [20] Weber GreenTech AG is an established environmental technology business, but its involvement in the TDAC service has not been independently verified. [21] These similarities demonstrate overlapping website content and customer-contact information without establishing common ownership or either company's authorization.
+
 Together, these inconsistencies could leave customers uncertain about which legal entity was responsible for payments, personal information, and refund requests. The available evidence does not establish whether the different names represented affiliated businesses, unrelated operators, or unauthorized use of a legitimate company's details.
 
 ## Misleading Claims
@@ -105,3 +107,6 @@ Together, these provisions created uncertainty about refund eligibility, payment
 16. `https://arubaedvisacard.com/contact`
 17. `https://arubaedvisacard.com/terms-of-use`
 18. `https://arubaedvisacard.com/privacy-policy`
+19. `https://thaitouristvisa.com/refund-policy`
+20. `https://thaitouristvisa.com/about-us`
+21. https://www.worldbiogasassociation.org/member-press-release-weber-greentech-invests-in-innovative-biogas-technology-from-renergon-as-a-pioneer-of-the-energy-transition-and-global-sustainability-goals/
