@@ -21,6 +21,8 @@ The concern is the potentially misleading impression created by its branding and
 
 The website previously advertised paid Thailand Digital Arrival Card (TDAC) assistance, despite official government registration being completely free. Its homepage advertised a Basic Plan costing $49.99 and an expedited service costing $69.99, with an additional $20 processing option.[^1][^8]
 
+On March 29, 2026, Thai news outlet MGR Online identified `thailandarrivalcard2025.com` as a commercial TDAC registration site with its own application form while reporting on an Immigration Bureau warning about unofficial paid services.[^4]
+
 On April 8, 2026, U-Tapao Rayong–Pattaya International Airport published a warning explicitly identifying `thailandarrivalcard2025.com` among private or suspicious TDAC websites travelers should avoid. The notice emphasized that official TDAC registration is free and directed travelers to the Thai Immigration Bureau's official portal.[^6]
 
 However, its separate Refund Policy advertised different prices: $59.99 for standard processing, $79.99 for fast processing, and $109.99 for ultra-premium processing. These inconsistent published prices could leave customers uncertain about the actual cost of the service.[^10]
