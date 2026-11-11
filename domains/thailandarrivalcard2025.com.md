@@ -79,6 +79,8 @@ Its Privacy Policy disclosed the collection of contact information, payment deta
 
 However, the policy did not specify a maximum retention period for sensitive application records or clearly explain how passport information was stored, retained, and deleted. The inconsistent company names appearing in its privacy disclosures also created uncertainty about responsibility for processing customer data.[^11]
 
+Independent website-security services also reported warnings about `thailandarrivalcard2025.com`. Gridinsoft classified the domain as phishing, citing detections from 10 of 29 external security providers, including Fortinet, Kaspersky, and Bitdefender, in results published in August 2026.[^28] ScamDoc separately reported that Phishing Initiative had flagged the domain as dangerous.[^29] These third-party security assessments indicate potential risks but do not independently establish that the website's operator stole credentials, mishandled passport information, or committed fraud.
+
 Although these omissions raise legitimate privacy concerns, there is no independently verified evidence that the operator sold passport information, suffered a data breach, or otherwise misused customers' personal information.
 
 ## Billing or Service Issues
@@ -121,3 +123,5 @@ Together, these provisions created uncertainty about refund eligibility, payment
 [^25]: https://trustedrevie.ws/reviews/thailandarrivalcard2025.com
 [^26]: https://www.scamadviser.com/check-website/thailandtdactouristcard.com
 [^27]: https://www.scamadviser.com/check-website/thailandvisaonarrivaltourist.com
+[^28]: https://gridinsoft.com/online-virus-scanner/url/thailandarrivalcard2025-com
+[^29]: https://www.scamdoc.com/view/2336724
