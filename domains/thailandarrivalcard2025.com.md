@@ -53,6 +53,10 @@ The same Latvian company's name, registration number, and address also appeared 
 
 The website's Privacy Policy also referred to Thailand Travel Declaration LLC, while its footer displayed Thailand Agency Travel. The relationship between these different names was not explained.[^8][^11]
 
+A September 2025 third-party website record identified `thailandarrivalcard2025.com` with the page title "Thailand TDAC Digital Arrival Card 2025 by JSSVisa."[^25] The same distinctive title appeared in website records for other commercial TDAC domains, including `thailandtdactouristcard.com` and `thailandvisaonarrivaltourist.com`.[^26][^27]
+
+These matching titles indicate reused branding or website metadata and provide additional context for a customer complaint mentioning JSSVisa. However, they do not independently establish common ownership, coordinated operations, or whether JSSVisa processed payments for these websites.
+
 The website's Refund Policy directed customers to `info@thaitouristvisa.com`, an email address associated with another commercial TDAC website, `thaitouristvisa.com`. Both websites published substantially similar refund policies, including identical service prices, approval-rate claims, refund conditions, and chargeback warnings.[^10][^19] However, they identified different operators: the original website named Latvia's Lauksaimniecības SIA "DRUVA", while `thaitouristvisa.com` named Switzerland's Weber GreenTech AG.[^9][^20] Weber GreenTech AG is an established environmental technology business, but its involvement in TDAC services has not been independently verified.[^21] These overlapping disclosures suggest a connection between the websites but do not establish common ownership, coordinated operations, or authorization by either named company.
 
 Together, these inconsistencies could leave customers uncertain about which legal entity was responsible for payments, personal information, and refund requests. The available evidence does not establish whether the different names represented affiliated businesses, unrelated operators, or unauthorized use of a legitimate company's details.
@@ -114,3 +118,6 @@ Together, these provisions created uncertainty about refund eligibility, payment
 [^22]: https://www.thailand.go.th/issue-focus-detail/thailand-digital-arrival-card-tdac-to-start-on-1-may-2025?hl=en
 [^23]: https://tdac.immigration.go.th/manual/en/index.html
 [^24]: https://www.reddit.com/r/ThailandTourism/comments/1m2phnb/beware_of_thailand_digital_arrival_card_tdac_scam/
+[^25]: https://trustedrevie.ws/reviews/thailandarrivalcard2025.com
+[^26]: https://www.scamadviser.com/check-website/thailandtdactouristcard.com
+[^27]: https://www.scamadviser.com/check-website/thailandvisaonarrivaltourist.com
