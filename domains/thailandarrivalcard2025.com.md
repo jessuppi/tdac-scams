@@ -20,6 +20,16 @@ Furthermore, the website's disclaimer stated that its commercial service fees we
 
 Although the operator disclosed that it provided optional paid assistance, these pricing inconsistencies and references to government fees risked misleading travelers about the cost of obtaining a TDAC. The available evidence does not establish what individual customers actually paid.
 
+## Deceptive Promotion
+
+The website previously promoted its paid TDAC service using claims of more than 30,000 successful approvals, years of immigration consulting experience, and thousands of completed applications. Its Refund Policy separately advertised a 99.2% approval rate without providing independently verifiable statistics or supporting methodology.
+
+The homepage also displayed favorable customer testimonials and promoted expedited processing, professional application reviews, and round-the-clock support. The identities and experiences of the quoted customers could not be independently verified.
+
+These promotional claims may have exaggerated the advantages of purchasing commercial assistance for a government registration process that is available free of charge and typically takes approximately three to five minutes to complete through Thailand's official portal.
+
+The absence of independent verification does not establish that the operator fabricated its customer testimonials or processing statistics.
+
 ## References
 
 - https://tdac.immigration.go.th/manual/en/faq.html
