@@ -170,6 +170,7 @@ This table compares TDAC-related websites against the warning signs listed above
 | [thaidigitalcard.com](domains/thaidigitalcard.com.md) |  |  |  |  |  |  |  |
 | [tdac.online](domains/tdac.online.md) |  |  |  |  |  |  |  |
 | [thailandarrivalcard2025.com](domains/thailandarrivalcard2025.com.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [thaitouristvisa.com](domains/thaitouristvisa.com.md) |  |  |  |  |  |  |  |
 | [ivisa.com](domains/ivisa.com.md) |  |  |  |  |  |  |  |
 | [thailandonarrivalweb.com](domains/thailandonarrivalweb.com.md) |  |  |  |  |  |  |  |
 | [australiaasiagroup.com](domains/australiaasiagroup.com.md) |  |  |  |  |  |  |  |
