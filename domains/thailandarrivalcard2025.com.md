@@ -40,6 +40,16 @@ Although the website disclosed its private status and published company informat
 
 The available evidence does not establish that the named company was fictitious or that the different contact addresses belonged to unrelated operators.
 
+## Misleading Claims
+
+The website previously published several inaccurate descriptions of Thailand's Digital Arrival Card (TDAC). Its homepage claimed the system launched in 2024, although Thailand officially introduced the TDAC on May 1, 2025. It also referred to obtaining a Thailand tourist visa during its application process, despite TDAC being an arrival-information form rather than a visa.
+
+The website repeatedly described TDAC submissions as requiring government approval, promoted expedited processing, and advertised a 99.2% approval rate. These claims could mislead travelers into believing that TDAC applications undergo a discretionary approval process or that paid assistance provides special immigration advantages.
+
+Furthermore, its FAQ promised TDAC approval 72 hours before departure, whereas Thailand's official registration window is calculated relative to arrival in Thailand.
+
+Although some inaccuracies may reflect outdated content or poorly adapted templates, they could confuse travelers about official registration requirements, processing times, and the benefits of commercial assistance.
+
 ## References
 
 - https://tdac.immigration.go.th/manual/en/faq.html
