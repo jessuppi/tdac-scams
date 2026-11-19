@@ -103,6 +103,12 @@ Thailand Privilege Card's official membership listings identify the five-year Br
 
 These inaccuracies could discourage eligible travelers from considering a lower-cost membership or prevent them from accurately comparing long-stay options. The discrepancies are especially relevant because the guide presents itself as a comprehensive overview of Thailand's 2026 visa pathways.
 
+Thaitouristvisa.com's March 2026 long-stay guide incorrectly describes digital work permits as a benefit available to remote workers under Thailand's Long-Term Resident (LTR) visa. It specifically presents the Work-from-Thailand Professional category as providing a ten-year authorization and digital work permit for people employed by overseas companies.[^27]
+
+Thailand's Board of Investment explicitly excludes Work-from-Thailand Professionals from digital work permit eligibility. This category permits qualifying remote work for overseas employers but does not authorize employment with Thai companies. Digital work permits are available to eligible holders of other LTR categories, including Highly Skilled Professionals.[^32]
+
+The website's guidance conflates remote-work eligibility with authorization to work for Thai employers. This could lead applicants to misunderstand their employment rights, choose an unsuitable visa category, or undertake activities not permitted under their immigration status.
+
 ## Privacy Concerns
 
 Thaitouristvisa.com collects sensitive passport information, personal details, travel itineraries, accommodation addresses, and payment information through its commercial TDAC application process. Its Privacy Policy additionally lists account credentials, demographic information, and website usage data among the information it may collect.[^13][^14]
@@ -160,3 +166,4 @@ The complaints reinforce concerns about misleading promotion and payment practic
 [^29]: https://thaiconsulatela.thaiembassy.org/en/publicservice/foreigners-staying-in-thailand-more-than-90-days
 [^30]: https://thaiconsulatela.thaiembassy.org/en/publicservice/non-o-o-a-o-x
 [^31]: https://www.thailandprivilege.co.th/thailandprivilegecard
+[^32]: https://ltr.boi.go.th/page/faq.html
