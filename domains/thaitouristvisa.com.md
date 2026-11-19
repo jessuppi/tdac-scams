@@ -25,19 +25,13 @@ These promotional claims may exaggerate the advantages of purchasing commercial 
 
 ## Hidden Disclosures
 
-Thaitouristvisa.com identifies Switzerland's Weber GreenTech AG as its operator, listing Florastrasse 17, 8700 Küsnacht, Switzerland, as its business address. Swiss commercial records confirm that Weber GreenTech AG is a registered company at this address, under identification number CHE-109.872.159.[^6][^7]
+Thaitouristvisa.com identifies Switzerland's Weber GreenTech AG as its operator, listing Florastrasse 17, 8700 Küsnacht, Switzerland, as its business address. Swiss commercial records confirm that the company exists under identification number CHE-109.872.159, but its registered activities concern patents, manufacturing processes, and environmental technologies rather than immigration services. A 2021 World Biogas Association announcement also identifies Weber GreenTech AG as an investor in biogas technology. No independent evidence establishes that the company operates or authorized the TDAC website.[^6][^7][^8]
 
-However, the company's registered business activities concern patents, manufacturing processes, vehicles, engines, and environmental technologies rather than immigration or travel-document services. A 2021 World Biogas Association announcement separately identified Weber GreenTech AG as an investor in biogas technology. No independent evidence has been identified establishing that this company operates or authorized the TDAC website.[^7][^8]
+The website's Refund Policy closely matches one previously published by `thailandarrivalcard2025.com`, including identical service prices, a claimed 99.2% approval rate, refund deadlines, and chargeback warnings. However, that website identified Latvia's Lauksaimniecības SIA "DRUVA" as its operator. These overlapping policies raise questions about the websites' actual operators and their responsibility for customer payments and personal information, without establishing common ownership or unauthorized use of either company's identity.[^4][^9][^10]
 
-The website's Refund Policy also closely reproduces the policy previously published by `thailandarrivalcard2025.com`, including identical service prices, a claimed 99.2% approval rate, refund deadlines, and chargeback warnings. That other website previously identified Latvia's Lauksaimniecības SIA "DRUVA" as its operator, despite using substantially the same commercial terms.[^4][^9][^10]
+The website's legal documents also contain chronological inconsistencies. Its Terms and Conditions claim an effective date of January 2024, while its Refund Policy specifies December 2024. Both refer explicitly to TDAC processing, although Thailand introduced the system on May 1, 2025. Domain-registration records additionally identify February 21, 2026, as the registration date of `thaitouristvisa.com`.[^4][^5][^17][^18]
 
-These discrepancies raise questions about the identity of the business actually responsible for processing customer payments and sensitive passport information. The matching policies do not establish common ownership, fraud, or unauthorized use of either company's identity. However, the absence of independently verified connections between the named companies and these TDAC services warrants further scrutiny.
-
-The website's legal documents contain further chronological inconsistencies. Its Terms and Conditions display an effective date of January 2024, while its Refund Policy claims an effective date of December 2024. Both documents explicitly concern Thailand Digital Arrival Card (TDAC) processing, although Thailand did not introduce the TDAC system until May 1, 2025.[^4][^5][^18]
-
-Independent domain-registration data reported by Gridinsoft identifies February 21, 2026, as the registration date of `thaitouristvisa.com`, more than a year after the earliest purported policy effective date.[^17]
-
-These discrepancies raise questions about the accuracy of the website's legal disclosures and when its TDAC-specific terms actually became effective. They may give customers a misleading impression of an established service history. However, the dates alone do not prove deliberate backdating or establish whether older legal templates were subsequently adapted for TDAC services.
+These discrepancies undermine the clarity of the website's corporate and legal disclosures. However, they do not independently establish fraud, deliberate backdating, or whether older legal templates were subsequently adapted for the TDAC service.
 
 ## Misleading Claims
 
