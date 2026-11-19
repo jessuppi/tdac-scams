@@ -13,6 +13,16 @@ Although the operator acknowledges that it is a private intermediary, its discla
 These practices raise concerns about whether customers clearly understand that they are purchasing optional administrative assistance rather than a government-required service.
 
 
+## Deceptive Promotion
+
+Thaitouristvisa.com advertises a 99.2% TDAC approval rate in its Refund Policy without publishing supporting statistics, application volumes, or an independently verifiable methodology. The claim presents its commercial service as highly successful, despite Thailand's Digital Arrival Card being a mandatory arrival-information registration rather than a conventional visa approval process.[^1][^4]
+
+The homepage also promotes a "Certified expert team," professional verification, priority processing, and expert review intended to facilitate faster immigration clearance. However, the website does not identify the certifications held by its staff or provide evidence that its paid assistance results in preferential immigration treatment. Thailand's official TDAC portal already allows travelers to submit their information free of charge and receive their registration details and QR code directly.[^1][^3]
+
+The website further advertises 24/7 customer support, an average response time of less than one hour, and instant live-chat assistance. Its Terms and Conditions, however, describe responses within 24 hours on business days. These differing service descriptions leave customers uncertain about the level of support actually guaranteed.[^3][^5]
+
+These promotional claims may exaggerate the advantages of purchasing commercial assistance. The available evidence does not establish that the operator fabricated its approval statistics, lacks qualified staff, or failed to provide its advertised support.
+
 ## Hidden Disclosures
 
 Thaitouristvisa.com identifies Switzerland's Weber GreenTech AG as its operator, listing Florastrasse 17, 8700 Küsnacht, Switzerland, as its business address. Swiss commercial records confirm that Weber GreenTech AG is a registered company at this address, under identification number CHE-109.872.159.[^6][^7]
