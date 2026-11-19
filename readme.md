@@ -6,6 +6,8 @@ The TDAC is a mandatory online arrival form introduced by Thailand's Immigration
 
 Despite the official application being completely free, numerous third-party websites charge travelers for TDAC services. Some may misrepresent their government affiliation, imply that payment is mandatory, imitate official immigration websites, or conceal the availability of the free government service.
 
+**Contents:** [Official TDAC Website](#official-tdac-website) · [Common Warning Signs](#common-warning-signs) · [Documentation Standards](#documentation-standards) · [Disclaimer](#disclaimer) · [News Coverage & Advisories](#news-coverage--advisories) · [Videos](#videos) · [Website Comparison](#website-comparison) · [Further Reading](#further-reading)
+
 ## Official TDAC Website
 
 **The only official Thailand Digital Arrival Card website is:**
