@@ -33,6 +33,12 @@ The website's Refund Policy also closely reproduces the policy previously publis
 
 These discrepancies raise questions about the identity of the business actually responsible for processing customer payments and sensitive passport information. The matching policies do not establish common ownership, fraud, or unauthorized use of either company's identity. However, the absence of independently verified connections between the named companies and these TDAC services warrants further scrutiny.
 
+The website's legal documents contain further chronological inconsistencies. Its Terms and Conditions display an effective date of January 2024, while its Refund Policy claims an effective date of December 2024. Both documents explicitly concern Thailand Digital Arrival Card (TDAC) processing, although Thailand did not introduce the TDAC system until May 1, 2025.[^4][^5][^18]
+
+Independent domain-registration data reported by Gridinsoft identifies February 21, 2026, as the registration date of `thaitouristvisa.com`, more than a year after the earliest purported policy effective date.[^17]
+
+These discrepancies raise questions about the accuracy of the website's legal disclosures and when its TDAC-specific terms actually became effective. They may give customers a misleading impression of an established service history. However, the dates alone do not prove deliberate backdating or establish whether older legal templates were subsequently adapted for TDAC services.
+
 ## Misleading Claims
 
 Thaitouristvisa.com repeatedly advises travelers to complete their Thailand Digital Arrival Card (TDAC) three to seven days before departure. This advice appears across multiple travel guides, including its 2026 tourist visa guide and travel-document checklist. However, Thailand's Immigration Bureau permits official TDAC submission only within three days before arrival, including the arrival date.[^1][^11][^12]
@@ -85,3 +91,5 @@ These contradictory provisions leave customers uncertain about their refund elig
 [^14]: `https://thaitouristvisa.com/application`
 [^15]: `https://thaitouristvisa.com/blog/thailand-entry-card-information-2026`
 [^16]: https://www.thailand.go.th/public/useful-information-detail/travelers-from-33-countries-and-territories-eligible-to-use-thailands-automated-passport-control
+[^17]: https://gridinsoft.com/online-virus-scanner/url/thaitouristvisa-com
+[^18]: https://www.thailand.go.th/issue-focus-detail/thailand-digital-arrival-card-tdac-to-start-on-1-may-2025?hl=en
