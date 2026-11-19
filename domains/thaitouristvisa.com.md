@@ -13,6 +13,16 @@ Although the operator acknowledges that it is a private intermediary, its discla
 These practices raise concerns about whether customers clearly understand that they are purchasing optional administrative assistance rather than a government-required service.
 
 
+## Hidden Disclosures
+
+Thaitouristvisa.com identifies Switzerland's Weber GreenTech AG as its operator, listing Florastrasse 17, 8700 Küsnacht, Switzerland, as its business address. Swiss commercial records confirm that Weber GreenTech AG is a registered company at this address, under identification number CHE-109.872.159.[^6][^7]
+
+However, the company's registered business activities concern patents, manufacturing processes, vehicles, engines, and environmental technologies rather than immigration or travel-document services. A 2021 World Biogas Association announcement separately identified Weber GreenTech AG as an investor in biogas technology. No independent evidence has been identified establishing that this company operates or authorized the TDAC website.[^7][^8]
+
+The website's Refund Policy also closely reproduces the policy previously published by `thailandarrivalcard2025.com`, including identical service prices, a claimed 99.2% approval rate, refund deadlines, and chargeback warnings. That other website previously identified Latvia's Lauksaimniecības SIA "DRUVA" as its operator, despite using substantially the same commercial terms.[^4][^9][^10]
+
+These discrepancies raise questions about the identity of the business actually responsible for processing customer payments and sensitive passport information. The matching policies do not establish common ownership, fraud, or unauthorized use of either company's identity. However, the absence of independently verified connections between the named companies and these TDAC services warrants further scrutiny.
+
 ## Billing or Service Issues
 
 Thaitouristvisa.com publishes contradictory refund conditions across its Terms and Conditions and Refund Policy. Its Terms state that once an application has been submitted to Thai authorities, the service is considered fully delivered and its fee becomes nonrefundable. However, its separate Refund Policy promises full refunds when Thai immigration authorities officially reject an application after processing.[^4][^5]
@@ -28,3 +38,8 @@ These contradictory provisions leave customers uncertain about their refund elig
 [^3]: `https://thaitouristvisa.com/`
 [^4]: `https://thaitouristvisa.com/refund-policy`
 [^5]: `https://thaitouristvisa.com/terms-of-use`
+[^6]: `https://thaitouristvisa.com/about-us`
+[^7]: https://www.moneyhouse.ch/en/company/weber-greentech-ag-10591399401
+[^8]: https://www.worldbiogasassociation.org/member-press-release-weber-greentech-invests-in-innovative-biogas-technology-from-renergon-as-a-pioneer-of-the-energy-transition-and-global-sustainability-goals/
+[^9]: `https://thailandarrivalcard2025.com/refund-policy`
+[^10]: https://github.com/jessuppi/tdac-scams/blob/master/domains/thailandarrivalcard2025.com.md
