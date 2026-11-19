@@ -49,6 +49,12 @@ However, Thailand's Automated Border Control (ABC) system is restricted to eligi
 
 The website's guidance incorrectly presents early TDAC registration as sufficient to obtain automated immigration clearance. In reality, submitting a TDAC does not guarantee eligibility, and the official registration window is limited to three days before arrival. These claims could lead travelers to purchase commercial assistance expecting immigration benefits that the intermediary cannot provide.
 
+Thaitouristvisa.com's homepage states that every international visitor and all international passengers must complete a TDAC, without explaining the applicable exemptions. Its travel-document guides also describe the requirement primarily in terms of air arrivals, potentially obscuring its application to land and sea crossings.[^3][^11]
+
+Thailand's Immigration Bureau requires TDAC registration for non-Thai nationals entering by air, land, or sea. However, travelers transiting without passing through immigration control and those entering with a Border Pass are exempt. The Immigration Bureau also confirms that crew members are not required to submit a TDAC.[^1][^20]
+
+By omitting these distinctions, the website could lead exempt travelers to believe they need paid registration assistance while leaving other visitors uncertain about the requirements for land and sea entry.
+
 ## Privacy Concerns
 
 Thaitouristvisa.com collects sensitive passport information, personal details, travel itineraries, accommodation addresses, and payment information through its commercial TDAC application process. Its Privacy Policy additionally lists account credentials, demographic information, and website usage data among the information it may collect.[^13][^14]
@@ -94,3 +100,4 @@ The complaints reinforce concerns about misleading promotion and payment practic
 [^17]: https://gridinsoft.com/online-virus-scanner/url/thaitouristvisa-com
 [^18]: https://www.thailand.go.th/issue-focus-detail/thailand-digital-arrival-card-tdac-to-start-on-1-may-2025?hl=en
 [^19]: https://www.trustpilot.com/review/thaitouristvisa.com
+[^20]: https://colombo.thaiembassy.org/en/publicservice/thailand-digital-arrival-card-tdac
