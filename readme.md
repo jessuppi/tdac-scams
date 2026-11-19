@@ -1,4 +1,4 @@
-# Thailand TDAC Scams
+# Thailand TDAC Scams (Digital Arrival Card Scam Tracker)
 
 This repository documents suspected scams, misleading websites, and deceptive commercial services targeting travelers applying for the Thailand Digital Arrival Card (TDAC).
 
