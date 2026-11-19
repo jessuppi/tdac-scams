@@ -2,6 +2,8 @@
 
 Last updated: October 30, 2026
 
+Part of the [Thailand TDAC Scam Tracker](https://github.com/jessuppi/tdac-scams).
+
 ## Government Impersonation
 
 Although tdac.visator.com identifies itself as a private service and denies government affiliation, several elements of its presentation may imply official authorization. Its `tdac.visator.com` subdomain prominently uses the acronym for Thailand's mandatory Digital Arrival Card, while its homepage is titled “Thailand Digital Arrival Card – TDAC Made Easy” and its application page “Thailand Digital Arrival Card | TDAC Application.” The homepage also describes the operator as “authorized to assist users” without identifying who granted that authorization. Elsewhere, the website calls the TDAC an “Entry Permit,” advertises “Fast Approval,” and claims its service fee includes government-related charges, despite its own Terms and Conditions listing the government fee as USD $0.00. Together, these elements risk confusing travelers about the operator's relationship with Thai immigration authorities.
