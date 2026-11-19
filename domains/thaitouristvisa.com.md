@@ -61,6 +61,12 @@ Under the revised rules, nationals of 60 countries and territories, including th
 
 Because the website continues presenting its earlier guidance as a 2026 visa guide, travelers could incorrectly plan stays exceeding their permitted entry period. This discrepancy is particularly significant for a commercial service marketing itself as a source of professional immigration assistance. The available evidence does not establish whether the operator deliberately retained outdated information or simply failed to update its guides after the policy change.
 
+Thaitouristvisa.com's travel-document checklist and 2026 tourist visa guide incorrectly state that passports must remain valid for at least six months beyond the traveler's intended departure date from Thailand. Both guides describe this as a strict requirement enforced at airline check-in, warning that travelers who fail to meet it will be denied boarding.[^11][^12]
+
+However, official Thai embassy guidance generally requires passports to have at least six months of remaining validity **from the date of entry into Thailand**, not six months after the planned departure date. This distinction matters for travelers whose passports satisfy the official requirement but would fail the website's more restrictive calculation.[^22]
+
+The incorrect guidance could cause unnecessary passport renewals, additional expenses, or disrupted travel arrangements. Travelers should nevertheless verify the specific passport-validity conditions applicable to their nationality, visa category, and airline.
+
 ## Privacy Concerns
 
 Thaitouristvisa.com collects sensitive passport information, personal details, travel itineraries, accommodation addresses, and payment information through its commercial TDAC application process. Its Privacy Policy additionally lists account credentials, demographic information, and website usage data among the information it may collect.[^13][^14]
@@ -108,3 +114,4 @@ The complaints reinforce concerns about misleading promotion and payment practic
 [^19]: https://www.trustpilot.com/review/thaitouristvisa.com
 [^20]: https://colombo.thaiembassy.org/en/publicservice/thailand-digital-arrival-card-tdac
 [^21]: https://doha.thaiembassy.org/en/publicservice/tourist-visa-exemption-visa-on-arrival
+[^22]: https://mexico.thaiembassy.org/en/publicservice/visa
