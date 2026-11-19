@@ -2,6 +2,8 @@
 
 Last updated: November 9, 2026
 
+Part of the [Thailand TDAC Scam Tracker](https://github.com/jessuppi/tdac-scams).
+
 ## Government Impersonation
 
 The privately operated `tdac-thailand.com` adopts the official Thailand Digital Arrival Card (TDAC) program's name in its domain and throughout its navigation, branding, and application process. Its homepage uses "TDAC Travel Assist" branding, a "TDAC Enrollment and Travel Consult" heading, and buttons inviting travelers to enroll in TDAC. The advertised process takes customers through consultation, payment, and receipt of their arrival card, while the application form identifies payment as an "Application Fee." This presentation closely associates the website's commercial service with Thailand's mandatory government arrival registration. However, the official TDAC system is operated by Thailand's Immigration Bureau at `tdac.immigration.go.th`, where travelers can submit their information free of charge. The website does publish disclaimers stating that it is not affiliated with Thailand's government, acknowledges its service charge, and links to the official registration portal. Nevertheless, its use of the official program name, TDAC-focused branding, and paid enrollment workflow may lead travelers to mistake the intermediary for an authorized registration channel or believe its services are necessary to complete the government requirement. The concern is the potentially misleading impression of official authority created by the website's overall presentation, rather than any explicit claim that it is operated by the Thai government.
