@@ -97,6 +97,12 @@ However, the Royal Thai Consulate-General in Los Angeles specifies that O-A appl
 
 The discrepancy could lead retirement visa applicants to purchase inadequate insurance, underestimate their financial obligations, or submit applications that fail to meet official requirements. The website's general advice to verify current insurance conditions does not correct the substantially inaccurate coverage figures it explicitly provides.
 
+Thaitouristvisa.com's long-stay guide states that Non-Immigrant O-A retirement visa applicants must maintain at least 800,000 baht in a Thai bank account. Its checklist further warns that the money must already be deposited in Thailand before applying.[^27]
+
+However, this conflates initial O-A visa applications abroad with financial requirements for subsequent extensions of stay in Thailand. The Royal Thai Consulate-General in Los Angeles accepts bank statements or income evidence for initial applications without requiring an existing Thai bank account. Separate Thai embassy guidance discusses deposits or transfers into Thailand when applying for extensions of stay.[^30][^33]
+
+The website's guidance could cause prospective retirees to transfer substantial funds to Thailand prematurely or attempt to open a Thai bank account unnecessarily. Applicants should distinguish the requirements of their initial visa application from those of subsequent extensions, which may involve different financial documentation.
+
 Thaitouristvisa.com's March 2026 long-stay guide incorrectly presents Thailand Elite membership fees as starting at approximately 900,000 baht. It also describes membership durations of five, ten, or twenty years, omitting the available fifteen-year tier.[^27]
 
 Thailand Privilege Card's official membership listings identify the five-year Bronze package at 650,000 baht, the five-year Gold package at 900,000 baht, and the fifteen-year Diamond package at 2.5 million baht. The website therefore overstates the lowest advertised membership cost by 250,000 baht while providing an incomplete description of available durations.[^31]
@@ -167,3 +173,4 @@ The complaints reinforce concerns about misleading promotion and payment practic
 [^30]: https://thaiconsulatela.thaiembassy.org/en/publicservice/non-o-o-a-o-x
 [^31]: https://www.thailandprivilege.co.th/thailandprivilegecard
 [^32]: https://ltr.boi.go.th/page/faq.html
+[^33]: https://phnompenh.thaiembassy.org/en/publicservice/non-immigrant-o-visa-retirement
