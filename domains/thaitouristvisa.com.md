@@ -23,6 +23,16 @@ The website's Refund Policy also closely reproduces the policy previously publis
 
 These discrepancies raise questions about the identity of the business actually responsible for processing customer payments and sensitive passport information. The matching policies do not establish common ownership, fraud, or unauthorized use of either company's identity. However, the absence of independently verified connections between the named companies and these TDAC services warrants further scrutiny.
 
+## Misleading Claims
+
+Thaitouristvisa.com repeatedly advises travelers to complete their Thailand Digital Arrival Card (TDAC) three to seven days before departure. This advice appears across multiple travel guides, including its 2026 tourist visa guide and travel-document checklist. However, Thailand's Immigration Bureau permits official TDAC submission only within three days before arrival, including the arrival date.[^1][^11][^12]
+
+Although a private intermediary may collect travelers' information earlier and submit it later, the website does not clearly distinguish advance preparation through its commercial service from actual registration through the government portal. Its repeated instructions could mislead travelers into believing that the official TDAC system accepts applications seven days in advance.
+
+The website also incorrectly claims that every traveler must submit an individual registration and that no family or group submission option exists. Thailand's Immigration Bureau explicitly allows families, tour operators, and other authorized representatives to submit information for multiple travelers, with up to ten people included in a single submission.[^1][^11]
+
+These inaccuracies misrepresent the capabilities and submission requirements of Thailand's free government system, potentially making the website's paid assistance appear more necessary or convenient than it actually is.
+
 ## Billing or Service Issues
 
 Thaitouristvisa.com publishes contradictory refund conditions across its Terms and Conditions and Refund Policy. Its Terms state that once an application has been submitted to Thai authorities, the service is considered fully delivered and its fee becomes nonrefundable. However, its separate Refund Policy promises full refunds when Thai immigration authorities officially reject an application after processing.[^4][^5]
@@ -43,3 +53,5 @@ These contradictory provisions leave customers uncertain about their refund elig
 [^8]: https://www.worldbiogasassociation.org/member-press-release-weber-greentech-invests-in-innovative-biogas-technology-from-renergon-as-a-pioneer-of-the-energy-transition-and-global-sustainability-goals/
 [^9]: `https://thailandarrivalcard2025.com/refund-policy`
 [^10]: https://github.com/jessuppi/tdac-scams/blob/master/domains/thailandarrivalcard2025.com.md
+[^11]: https://thaitouristvisa.com/blog/thailand-travel-documents-for-tourists
+[^12]: https://thaitouristvisa.com/blog/thai-tourist-visa-guide-2026
