@@ -55,6 +55,12 @@ Thailand's Immigration Bureau requires TDAC registration for non-Thai nationals 
 
 By omitting these distinctions, the website could lead exempt travelers to believe they need paid registration assistance while leaving other visitors uncertain about the requirements for land and sea entry.
 
+Thaitouristvisa.com's 2026 tourist visa guide also provides outdated information about Thailand's visa-exemption periods. It describes 60-day visa-free stays for certain nationalities and a 30-day standard for others, without reflecting the revised immigration rules effective September 15, 2026.[^12][^21]
+
+Under the revised rules, nationals of 60 countries and territories, including the United States, United Kingdom, Australia, Canada, and most EU member states, generally receive a 30-day tourist visa exemption. Separate bilateral arrangements permit stays of up to 90 days for nationals of Argentina, Brazil, Chile, South Korea, and Peru, while other nationalities have different conditions.[^21]
+
+Because the website continues presenting its earlier guidance as a 2026 visa guide, travelers could incorrectly plan stays exceeding their permitted entry period. This discrepancy is particularly significant for a commercial service marketing itself as a source of professional immigration assistance. The available evidence does not establish whether the operator deliberately retained outdated information or simply failed to update its guides after the policy change.
+
 ## Privacy Concerns
 
 Thaitouristvisa.com collects sensitive passport information, personal details, travel itineraries, accommodation addresses, and payment information through its commercial TDAC application process. Its Privacy Policy additionally lists account credentials, demographic information, and website usage data among the information it may collect.[^13][^14]
@@ -101,3 +107,4 @@ The complaints reinforce concerns about misleading promotion and payment practic
 [^18]: https://www.thailand.go.th/issue-focus-detail/thailand-digital-arrival-card-tdac-to-start-on-1-may-2025?hl=en
 [^19]: https://www.trustpilot.com/review/thaitouristvisa.com
 [^20]: https://colombo.thaiembassy.org/en/publicservice/thailand-digital-arrival-card-tdac
+[^21]: https://doha.thaiembassy.org/en/publicservice/tourist-visa-exemption-visa-on-arrival
