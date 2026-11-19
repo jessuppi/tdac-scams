@@ -85,17 +85,13 @@ Thailand's published immigration guidance instead specifies a 2,000-baht penalty
 
 The website's blanket description exaggerates the usual financial consequences of late reporting and fails to distinguish routine administrative penalties from more serious enforcement situations. Accurate information matters to long-stay visitors managing immigration obligations and assessing potential penalties.
 
-Thaitouristvisa.com's March 2026 long-stay guide substantially understates the health insurance requirements for Thailand's Non-Immigrant O-A retirement visa. It identifies minimum inpatient coverage of 40,000 baht and outpatient coverage of 10,000 baht as the standard insurance threshold for applicants aged 50 and older.[^27]
+Thaitouristvisa.com's March 2026 long-stay guide misstates two requirements for Thailand's Non-Immigrant O-A retirement visa. It describes minimum health insurance coverage of 40,000 baht for inpatient care and 10,000 baht for outpatient care. It also instructs applicants to deposit at least 800,000 baht into a Thai bank account before applying.[^27]
 
-However, the Royal Thai Consulate-General in Los Angeles specifies that O-A applicants must maintain health insurance covering their stay, including COVID-19 treatment, with a minimum insured amount of 3 million baht (US$100,000) per policy year. This requirement has applied since October 1, 2021, several years before the website published its guide.[^30]
+The Royal Thai Consulate-General in Los Angeles instead requires O-A health insurance covering the applicant's stay, including COVID-19 treatment, with minimum coverage of 3 million baht (US$100,000) per policy year. This requirement has applied since October 1, 2021, several years before the website published its guide.[^30]
 
-The discrepancy could lead retirement visa applicants to purchase inadequate insurance, underestimate their financial obligations, or submit applications that fail to meet official requirements. The website's general advice to verify current insurance conditions does not correct the substantially inaccurate coverage figures it explicitly provides.
+The website also conflates initial O-A applications abroad with subsequent extensions of stay in Thailand. The Los Angeles consulate accepts bank statements or income evidence for initial applications without requiring an existing Thai bank account. Separate Thai embassy guidance addresses deposits or transfers into Thailand for extensions of stay, which have different financial documentation requirements.[^30][^33]
 
-Thaitouristvisa.com's long-stay guide states that Non-Immigrant O-A retirement visa applicants must maintain at least 800,000 baht in a Thai bank account. Its checklist further warns that the money must already be deposited in Thailand before applying.[^27]
-
-However, this conflates initial O-A visa applications abroad with financial requirements for subsequent extensions of stay in Thailand. The Royal Thai Consulate-General in Los Angeles accepts bank statements or income evidence for initial applications without requiring an existing Thai bank account. Separate Thai embassy guidance discusses deposits or transfers into Thailand when applying for extensions of stay.[^30][^33]
-
-The website's guidance could cause prospective retirees to transfer substantial funds to Thailand prematurely or attempt to open a Thai bank account unnecessarily. Applicants should distinguish the requirements of their initial visa application from those of subsequent extensions, which may involve different financial documentation.
+These inaccuracies could lead applicants to purchase inadequate insurance, transfer substantial funds prematurely, or attempt to open unnecessary Thai bank accounts. The website's general advice to verify current requirements does not correct its inaccurate coverage figures or distinguish initial visa applications from subsequent extensions.
 
 Thaitouristvisa.com's March 2026 long-stay guide incorrectly presents Thailand Elite membership fees as starting at approximately 900,000 baht. It also describes membership durations of five, ten, or twenty years, omitting the available fifteen-year tier.[^27]
 
