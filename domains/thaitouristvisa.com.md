@@ -41,6 +41,8 @@ These discrepancies undermine the clarity of the website's corporate and legal d
 
 ## Misleading Claims
 
+### TDAC Registration and Border Procedures
+
 Thaitouristvisa.com repeatedly advises travelers to complete their Thailand Digital Arrival Card (TDAC) three to seven days before departure. This advice appears across multiple travel guides, including its 2026 tourist visa guide and travel-document checklist. However, Thailand's Immigration Bureau permits official TDAC submission only within three days before arrival, including the arrival date.[^1][^11][^12]
 
 Although a private intermediary may collect travelers' information earlier and submit it later, the website does not clearly distinguish advance preparation through its commercial service from actual registration through the government portal. Its repeated instructions could mislead travelers into believing that the official TDAC system accepts applications seven days in advance.
@@ -61,6 +63,8 @@ Thailand's Immigration Bureau requires TDAC registration for non-exempt foreign 
 
 These conflicting descriptions could cause exempt travelers to purchase unnecessary registration assistance or lead overland visitors to expect paper forms instead of completing TDAC online. Individual checkpoints may have contingency procedures, but the website provides no official evidence supporting its suggested exceptions.
 
+### Visa, Passport, and Arrival Information
+
 Thaitouristvisa.com's 2026 tourist visa guide also provides outdated information about Thailand's visa-exemption periods. It describes 60-day visa-free stays for certain nationalities and a 30-day standard for others, without reflecting the revised immigration rules effective September 15, 2026.[^12][^21]
 
 Under the revised rules, nationals of 60 countries and territories, including the United States, United Kingdom, Australia, Canada, and most EU member states, generally receive a 30-day tourist visa exemption. Separate bilateral arrangements permit stays of up to 90 days for nationals of Argentina, Brazil, Chile, South Korea, and Peru, while other nationalities have different conditions.[^21]
@@ -78,6 +82,8 @@ Thaitouristvisa.com's 2026 entry-card guide claims that accommodation addresses 
 Thailand's official TDAC documentation describes collecting accommodation information and allowing travelers to correct submitted details, but does not establish the automatic accommodation-database checks or specific TM.30 and visa-extension integrations described by the website. The Immigration Bureau's October 2026 privacy notice for its THIM application discusses immigration record-keeping and authorized data sharing without confirming those particular workflows.[^1][^25]
 
 These claims may give travelers an inaccurate understanding of how their information is verified and used after arrival. The absence of publicly documented integrations does not establish that they are nonexistent, but the website provides no official technical evidence supporting its detailed descriptions.
+
+### Long-Stay Visas and Immigration Reporting
 
 Thaitouristvisa.com's long-stay visa guide incorrectly presents late 90-day immigration reporting penalties as automatically accumulating each day. Its reporting section describes a daily fine for missed deadlines, and its checklist repeats that fines accumulate daily.[^27]
 
