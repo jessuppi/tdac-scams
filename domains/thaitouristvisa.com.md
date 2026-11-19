@@ -23,6 +23,12 @@ The website further advertises 24/7 customer support, an average response time o
 
 These promotional claims may exaggerate the advantages of purchasing commercial assistance. The available evidence does not establish that the operator fabricated its approval statistics, lacks qualified staff, or failed to provide its advertised support.
 
+The website publishes travel and immigration guides attributed to James Walcott, identified as a "Senior Travel Writer." His biography claims more than eight years covering Caribbean travel and immigration, with a professional base between Bridgetown and London. The same name, title, and identical biography appear on the separately branded TDAC website `thailandcard2026.com`.[^12][^23]
+
+Another commercial TDAC website, `thailandarrivalcard2025.com`, previously published travel articles under the same author name. These repeated editorial identities across separate registration services suggest shared content resources or publishing templates, although they do not establish common ownership or coordinated operations.[^24]
+
+The websites do not provide independently verifiable credentials establishing the author's identity or expertise in Thai immigration procedures. Reusing the same editorial profile across multiple commercial TDAC services raises questions about the independence and credibility of their travel guidance, particularly where that guidance promotes paid registration assistance.
+
 ## Hidden Disclosures
 
 Thaitouristvisa.com identifies Switzerland's Weber GreenTech AG as its operator, listing Florastrasse 17, 8700 Küsnacht, Switzerland, as its business address. Swiss commercial records confirm that the company exists under identification number CHE-109.872.159, but its registered activities concern patents, manufacturing processes, and environmental technologies rather than immigration services. A 2021 World Biogas Association announcement also identifies Weber GreenTech AG as an investor in biogas technology. No independent evidence establishes that the company operates or authorized the TDAC website.[^6][^7][^8]
@@ -115,3 +121,5 @@ The complaints reinforce concerns about misleading promotion and payment practic
 [^20]: https://colombo.thaiembassy.org/en/publicservice/thailand-digital-arrival-card-tdac
 [^21]: https://doha.thaiembassy.org/en/publicservice/tourist-visa-exemption-visa-on-arrival
 [^22]: https://mexico.thaiembassy.org/en/publicservice/visa
+[^23]: `https://thailandcard2026.com/blog/thailand-visa-and-entry-guide-2026`
+[^24]: `https://thailandarrivalcard2025.com/blog/thailand-for-couples-2026`
