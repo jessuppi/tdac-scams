@@ -75,6 +75,12 @@ More concerningly, the Refund Policy discourages customers from initiating charg
 
 These contradictory provisions leave customers uncertain about their refund eligibility and may discourage them from exercising legitimate payment-dispute rights. The available evidence does not establish that the operator has actually imposed chargeback penalties, pursued legal proceedings, or refused valid refunds.
 
+Three Trustpilot reviews published between April 3 and April 17, 2026, raise additional concerns about the website's commercial practices. All three reviewers criticized the service for charging travelers to obtain Thailand's free Digital Arrival Card. Two also reported encountering the website through sponsored Google search results, suggesting its paid advertising may have contributed to confusion with the official registration portal.[^19]
+
+More seriously, an April 17 reviewer alleged that the operator used customers' payment-card information to make further unauthorized charges after the initial TDAC purchase. This is a firsthand allegation rather than independently verified evidence of fraudulent transactions.[^19]
+
+The complaints reinforce concerns about misleading promotion and payment practices. However, the small number of reviews does not establish how frequently customers experienced problems, and the available evidence does not independently confirm unauthorized charges or identify the party responsible for any disputed transactions.
+
 [^1]: https://tdac.immigration.go.th/manual/en/faq.html
 [^2]: https://www.mots.go.th/mots_en/news/3764
 [^3]: `https://thaitouristvisa.com/`
@@ -93,3 +99,4 @@ These contradictory provisions leave customers uncertain about their refund elig
 [^16]: https://www.thailand.go.th/public/useful-information-detail/travelers-from-33-countries-and-territories-eligible-to-use-thailands-automated-passport-control
 [^17]: https://gridinsoft.com/online-virus-scanner/url/thaitouristvisa-com
 [^18]: https://www.thailand.go.th/issue-focus-detail/thailand-digital-arrival-card-tdac-to-start-on-1-may-2025?hl=en
+[^19]: https://www.trustpilot.com/review/thaitouristvisa.com
