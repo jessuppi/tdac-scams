@@ -33,6 +33,16 @@ The website also incorrectly claims that every traveler must submit an individua
 
 These inaccuracies misrepresent the capabilities and submission requirements of Thailand's free government system, potentially making the website's paid assistance appear more necessary or convenient than it actually is.
 
+## Privacy Concerns
+
+Thaitouristvisa.com collects sensitive passport information, personal details, travel itineraries, accommodation addresses, and payment information through its commercial TDAC application process. Its Privacy Policy additionally lists account credentials, demographic information, and website usage data among the information it may collect.[^13][^14]
+
+The website's Terms and Conditions state that personal information and passport details are collected and processed exclusively for submitting TDAC applications. However, its separate Privacy Policy permits broader uses, including personalizing website content, analyzing user activity, sending promotional offers, and sharing information with third-party service providers. These disclosures create uncertainty about whether customer information is used solely for immigration registration or also for unrelated commercial purposes.[^5][^13]
+
+More significantly, the Privacy Policy does not specify how long passport records, travel information, or payment-related data are retained after applications are processed. It also does not identify specific retention or deletion schedules for different categories of personal information. Although customers are informed of potential rights to access, correct, or erase their information, the policy provides only general instructions for submitting requests.[^13]
+
+These omissions are concerning because travelers must disclose sensitive identity and travel information to use the service. The available evidence does not establish that the operator has sold customer data, suffered a security breach, or otherwise misused personal information.
+
 ## Billing or Service Issues
 
 Thaitouristvisa.com publishes contradictory refund conditions across its Terms and Conditions and Refund Policy. Its Terms state that once an application has been submitted to Thai authorities, the service is considered fully delivered and its fee becomes nonrefundable. However, its separate Refund Policy promises full refunds when Thai immigration authorities officially reject an application after processing.[^4][^5]
@@ -53,5 +63,7 @@ These contradictory provisions leave customers uncertain about their refund elig
 [^8]: https://www.worldbiogasassociation.org/member-press-release-weber-greentech-invests-in-innovative-biogas-technology-from-renergon-as-a-pioneer-of-the-energy-transition-and-global-sustainability-goals/
 [^9]: `https://thailandarrivalcard2025.com/refund-policy`
 [^10]: https://github.com/jessuppi/tdac-scams/blob/master/domains/thailandarrivalcard2025.com.md
-[^11]: https://thaitouristvisa.com/blog/thailand-travel-documents-for-tourists
-[^12]: https://thaitouristvisa.com/blog/thai-tourist-visa-guide-2026
+[^11]: `https://thaitouristvisa.com/blog/thailand-travel-documents-for-tourists`
+[^12]: `https://thaitouristvisa.com/blog/thai-tourist-visa-guide-2026`
+[^13]: `https://thaitouristvisa.com/privacy-policy`
+[^14]: `https://thaitouristvisa.com/application`
