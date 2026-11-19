@@ -2,6 +2,8 @@
 
 Last updated: November 11, 2026
 
+Part of the [Thailand TDAC Scam Tracker](https://github.com/jessuppi/tdac-scams).
+
 > [!NOTE]
 > As of November 2026, this domain displays a parked
 > page and no longer appears to operate its former TDAC
