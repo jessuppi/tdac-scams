@@ -2,6 +2,8 @@
 
 Last updated: October 31, 2026
 
+Part of the [Thailand TDAC Scam Tracker](https://github.com/jessuppi/tdac-scams).
+
 > [!NOTE]
 > As of October 31, 2026, the website redirects to a Lovable Trust & Safety takedown notice. The findings below describe previously indexed website content.
 
