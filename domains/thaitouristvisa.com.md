@@ -12,7 +12,19 @@ Although the operator acknowledges that it is a private intermediary, its discla
 
 These practices raise concerns about whether customers clearly understand that they are purchasing optional administrative assistance rather than a government-required service.
 
+
+## Billing or Service Issues
+
+Thaitouristvisa.com publishes contradictory refund conditions across its Terms and Conditions and Refund Policy. Its Terms state that once an application has been submitted to Thai authorities, the service is considered fully delivered and its fee becomes nonrefundable. However, its separate Refund Policy promises full refunds when Thai immigration authorities officially reject an application after processing.[^4][^5]
+
+The advertised refund guarantee also requires customers to provide official rejection documentation, with notification received within 30 days of processing and a refund request submitted within 60 days of rejection. These conditions may be difficult to satisfy because Thailand's TDAC is an arrival-information registration rather than a conventional visa application requiring discretionary approval.[^1][^4]
+
+More concerningly, the Refund Policy discourages customers from initiating chargebacks through their banks or payment providers. It warns that filing a chargeback without first contacting the company may result in account termination, additional fees, and legal proceedings. The policy does not clarify what additional fees could be imposed or under what circumstances legal action would follow.[^4]
+
+These contradictory provisions leave customers uncertain about their refund eligibility and may discourage them from exercising legitimate payment-dispute rights. The available evidence does not establish that the operator has actually imposed chargeback penalties, pursued legal proceedings, or refused valid refunds.
+
 [^1]: https://tdac.immigration.go.th/manual/en/faq.html
 [^2]: https://www.mots.go.th/mots_en/news/3764
 [^3]: `https://thaitouristvisa.com/`
 [^4]: `https://thaitouristvisa.com/refund-policy`
+[^5]: `https://thaitouristvisa.com/terms-of-use`
