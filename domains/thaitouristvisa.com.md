@@ -91,6 +91,12 @@ Thailand's published immigration guidance instead specifies a 2,000-baht penalty
 
 The website's blanket description exaggerates the usual financial consequences of late reporting and fails to distinguish routine administrative penalties from more serious enforcement situations. Accurate information matters to long-stay visitors managing immigration obligations and assessing potential penalties.
 
+Thaitouristvisa.com's March 2026 long-stay guide substantially understates the health insurance requirements for Thailand's Non-Immigrant O-A retirement visa. It identifies minimum inpatient coverage of 40,000 baht and outpatient coverage of 10,000 baht as the standard insurance threshold for applicants aged 50 and older.[^27]
+
+However, the Royal Thai Consulate-General in Los Angeles specifies that O-A applicants must maintain health insurance covering their stay, including COVID-19 treatment, with a minimum insured amount of 3 million baht (US$100,000) per policy year. This requirement has applied since October 1, 2021, several years before the website published its guide.[^30]
+
+The discrepancy could lead retirement visa applicants to purchase inadequate insurance, underestimate their financial obligations, or submit applications that fail to meet official requirements. The website's general advice to verify current insurance conditions does not correct the substantially inaccurate coverage figures it explicitly provides.
+
 ## Privacy Concerns
 
 Thaitouristvisa.com collects sensitive passport information, personal details, travel itineraries, accommodation addresses, and payment information through its commercial TDAC application process. Its Privacy Policy additionally lists account credentials, demographic information, and website usage data among the information it may collect.[^13][^14]
@@ -146,3 +152,4 @@ The complaints reinforce concerns about misleading promotion and payment practic
 [^27]: `https://thaitouristvisa.com/blog/thailand-long-stay-options-for-visitors`
 [^28]: https://www.thailand.go.th/public/visit-thailand-detail/001-01-018
 [^29]: https://thaiconsulatela.thaiembassy.org/en/publicservice/foreigners-staying-in-thailand-more-than-90-days
+[^30]: https://thaiconsulatela.thaiembassy.org/en/publicservice/non-o-o-a-o-x
