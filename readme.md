@@ -6,7 +6,7 @@ The TDAC is a mandatory online arrival form introduced by Thailand's Immigration
 
 Despite the official application being completely free, numerous third-party websites charge travelers for TDAC services. Some may misrepresent their government affiliation, imply that payment is mandatory, imitate official immigration websites, or conceal the availability of the free government service.
 
-**Contents:** [Official TDAC Website](#official-tdac-website) · [Common Warning Signs](#common-warning-signs) · [Documentation Standards](#documentation-standards) · [Disclaimer](#disclaimer) · [News & Advisories](#news--advisories) · [Video Coverage](#video-coverage) · [Website Comparison](#website-comparison) · [Further Reading](#further-reading)
+**Contents:** [Official TDAC Website](#official-tdac-website) · [Common Warning Signs](#common-warning-signs) · [Fake Scam Trackers](#fake-scam-trackers) · [Documentation Standards](#documentation-standards) · [Disclaimer](#disclaimer) · [News & Advisories](#news--advisories) · [Video Coverage](#video-coverage) · [Website Comparison](#website-comparison) · [Further Reading](#further-reading)
 
 ## Official TDAC Website
 
@@ -27,6 +27,16 @@ Misleading or fraudulent TDAC websites may exhibit the following warning signs:
 - **Misleading claims:** Misrepresenting official TDAC requirements, group submission limits, correction options, processing times, or other government portal capabilities.
 - **Privacy concerns:** Collecting sensitive passport and travel information without clearly disclosing third-party sharing, marketing use, data retention, or deletion practices.
 - **Billing or service issues:** Reported unexpected charges, refund disputes, unresponsive customer support, or failure to deliver promised services.
+
+## Fake Scam Trackers
+
+Some commercial TDAC websites publish scam alerts, domain watchlists, or verification tools that appear to protect travelers from misleading services while also promoting their own private TDAC application platforms. These commercial watchlists should not be mistaken for independent investigations, government endorsements, or authoritative determinations of fraud.
+
+- **`tdac.in.th` / `tdac.agents.co.th`** — The operator's "TDAC Scam Alert" identifies competing services as scams or untrusted while listing its own TDAC submission platform alongside Thailand's official government portal under "Trusted TDAC Submission Options." Its private service offers free filing within the official registration window but charges $8 for advance preparation and scheduled submission. This self-promotional comparison may give readers the impression of independent endorsement. See the documented findings for [tdac.in.th](domains/tdac.in.th.md) and [tdac.agents.co.th](domains/tdac.agents.co.th.md).
+
+- **`thailandtravelcard.com`** — Publishes a "TDAC scam tracker" and website-verification tool at `thailandtravelcard.com/scam-tracker`, while prominently directing visitors toward its own paid TDAC application service. Its published prices range from $49 to $89 per traveler. Although the operator acknowledges that it is a private service and that official TDAC registration is free, its consumer-warning content also serves as a pathway to its commercial offering.
+
+These examples illustrate why travelers should consider the commercial interests behind TDAC scam warnings. Publishing a watchlist while selling TDAC assistance does not itself establish fraud or prove that individual reports are fabricated. Travelers should independently verify claims and use Thailand's official free registration website at https://tdac.immigration.go.th/.
 
 ## Documentation Standards
 
