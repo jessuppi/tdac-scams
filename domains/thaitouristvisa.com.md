@@ -73,6 +73,12 @@ However, official Thai embassy guidance generally requires passports to have at 
 
 The incorrect guidance could cause unnecessary passport renewals, additional expenses, or disrupted travel arrangements. Travelers should nevertheless verify the specific passport-validity conditions applicable to their nationality, visa category, and airline.
 
+Thaitouristvisa.com's 2026 entry-card guide claims that accommodation addresses are automatically cross-checked against an official Thai accommodation registration database, warning that vague or incomplete entries will be rejected. It also states that TM.30 accommodation reports are directly linked to travelers' digital arrival records and that immigration officers retrieve those records when processing visa extensions.[^15]
+
+Thailand's official TDAC documentation describes collecting accommodation information and allowing travelers to correct submitted details, but does not establish the automatic accommodation-database checks or specific TM.30 and visa-extension integrations described by the website. The Immigration Bureau's October 2026 privacy notice for its THIM application discusses immigration record-keeping and authorized data sharing without confirming those particular workflows.[^1][^25]
+
+These claims may give travelers an inaccurate understanding of how their information is verified and used after arrival. The absence of publicly documented integrations does not establish that they are nonexistent, but the website provides no official technical evidence supporting its detailed descriptions.
+
 ## Privacy Concerns
 
 Thaitouristvisa.com collects sensitive passport information, personal details, travel itineraries, accommodation addresses, and payment information through its commercial TDAC application process. Its Privacy Policy additionally lists account credentials, demographic information, and website usage data among the information it may collect.[^13][^14]
@@ -123,3 +129,4 @@ The complaints reinforce concerns about misleading promotion and payment practic
 [^22]: https://mexico.thaiembassy.org/en/publicservice/visa
 [^23]: `https://thailandcard2026.com/blog/thailand-visa-and-entry-guide-2026`
 [^24]: `https://thailandarrivalcard2025.com/blog/thailand-for-couples-2026`
+[^25]: https://thim.immigration.go.th/privacy-notice
