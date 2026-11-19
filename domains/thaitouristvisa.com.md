@@ -55,11 +55,11 @@ However, Thailand's Automated Border Control (ABC) system is restricted to eligi
 
 The website's guidance incorrectly presents early TDAC registration as sufficient to obtain automated immigration clearance. In reality, submitting a TDAC does not guarantee eligibility, and the official registration window is limited to three days before arrival. These claims could lead travelers to purchase commercial assistance expecting immigration benefits that the intermediary cannot provide.
 
-Thaitouristvisa.com's homepage states that every international visitor and all international passengers must complete a TDAC, without explaining the applicable exemptions. Its travel-document guides also describe the requirement primarily in terms of air arrivals, potentially obscuring its application to land and sea crossings.[^3][^11]
+Thaitouristvisa.com's homepage claims that all international visitors and passengers must complete a TDAC without explaining applicable exemptions. Its travel guides focus primarily on air arrivals, while its 2026 entry-card guide suggests that smaller, less-frequented land checkpoints may still accept paper TM.6 arrival cards instead of digital registration.[^3][^11][^15]
 
-Thailand's Immigration Bureau requires TDAC registration for non-Thai nationals entering by air, land, or sea. However, travelers transiting without passing through immigration control and those entering with a Border Pass are exempt. The Immigration Bureau also confirms that crew members are not required to submit a TDAC.[^1][^20]
+Thailand's Immigration Bureau requires TDAC registration for non-exempt foreign travelers arriving by air, land, or sea. Travelers transiting without passing immigration control, Border Pass holders, and crew members are exempt. The online TDAC system replaced traditional paper arrival cards on May 1, 2025, and official guidance does not identify remote land checkpoints as generally exempt.[^1][^20][^26]
 
-By omitting these distinctions, the website could lead exempt travelers to believe they need paid registration assistance while leaving other visitors uncertain about the requirements for land and sea entry.
+These conflicting descriptions could cause exempt travelers to purchase unnecessary registration assistance or lead overland visitors to expect paper forms instead of completing TDAC online. Individual checkpoints may have contingency procedures, but the website provides no official evidence supporting its suggested exceptions.
 
 Thaitouristvisa.com's 2026 tourist visa guide also provides outdated information about Thailand's visa-exemption periods. It describes 60-day visa-free stays for certain nationalities and a 30-day standard for others, without reflecting the revised immigration rules effective September 15, 2026.[^12][^21]
 
@@ -78,12 +78,6 @@ Thaitouristvisa.com's 2026 entry-card guide claims that accommodation addresses 
 Thailand's official TDAC documentation describes collecting accommodation information and allowing travelers to correct submitted details, but does not establish the automatic accommodation-database checks or specific TM.30 and visa-extension integrations described by the website. The Immigration Bureau's October 2026 privacy notice for its THIM application discusses immigration record-keeping and authorized data sharing without confirming those particular workflows.[^1][^25]
 
 These claims may give travelers an inaccurate understanding of how their information is verified and used after arrival. The absence of publicly documented integrations does not establish that they are nonexistent, but the website provides no official technical evidence supporting its detailed descriptions.
-
-Thaitouristvisa.com's 2026 entry-card guide suggests that smaller and less-frequented land border checkpoints may continue using paper TM.6 arrival cards alongside or instead of digital processing. It specifically contrasts modernized crossings with remote checkpoints where travelers might still encounter paper forms.[^15]
-
-Thailand's Immigration Bureau introduced the mandatory online TDAC system on May 1, 2025, replacing the traditional paper arrival card for non-exempt foreign travelers entering by air, land, or sea. Official guidance does not identify smaller land checkpoints as generally exempt from this requirement.[^1][^26]
-
-The website's description could lead overland travelers to believe that a paper arrival card is an ordinary alternative to online registration. While individual checkpoints may have contingency procedures, the website provides no official evidence supporting its suggested paper-form exceptions.
 
 Thaitouristvisa.com's long-stay visa guide incorrectly presents late 90-day immigration reporting penalties as automatically accumulating each day. Its reporting section describes a daily fine for missed deadlines, and its checklist repeats that fines accumulate daily.[^27]
 
