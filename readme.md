@@ -6,7 +6,7 @@ The TDAC is a mandatory online arrival form introduced by Thailand's Immigration
 
 Despite the official application being completely free, numerous third-party websites charge travelers for TDAC services. Some may misrepresent their government affiliation, imply that payment is mandatory, imitate official immigration websites, or conceal the availability of the free government service.
 
-**Contents:** [Official TDAC Website](#official-tdac-website) · [Common Warning Signs](#common-warning-signs) · [Documentation Standards](#documentation-standards) · [Disclaimer](#disclaimer) · [News Coverage & Advisories](#news-coverage--advisories) · [Videos](#videos) · [Website Comparison](#website-comparison) · [Further Reading](#further-reading)
+**Contents:** [Official TDAC Website](#official-tdac-website) · [Common Warning Signs](#common-warning-signs) · [Documentation Standards](#documentation-standards) · [Disclaimer](#disclaimer) · [News & Advisories](#news--advisories) · [Video Coverage](#video-coverage) · [Website Comparison](#website-comparison) · [Further Reading](#further-reading)
 
 ## Official TDAC Website
 
@@ -44,7 +44,7 @@ This repository is an independent public-interest project with no affiliation or
 
 Inclusion in this repository does not establish criminal wrongdoing, and charging for third-party TDAC assistance alone is not proof of fraud. Findings reflect publicly available evidence and should not be interpreted as official legal or regulatory determinations.
 
-## News Coverage & Advisories
+## News & Advisories
 
 This chronological index collects news reports, government and embassy advisories, and other published warnings concerning fraudulent or misleading TDAC websites. Each record summarizes the source and links to the original publication.
 
@@ -111,7 +111,7 @@ This chronological index collects news reports, government and embassy advisorie
 | Oct 27, 2026 | Thailand Immigration Travel | Immigration guide / fake TDAC websites and payment warnings | English | Live | [View record](articles/2026-10-27-immigration-travel.md) |
 
 
-## Videos
+## Video Coverage
 
 Videos featuring reports, warnings, and advice about fraudulent or misleading TDAC websites.
 
