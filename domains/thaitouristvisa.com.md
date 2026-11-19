@@ -85,6 +85,12 @@ Thailand's Immigration Bureau introduced the mandatory online TDAC system on May
 
 The website's description could lead overland travelers to believe that a paper arrival card is an ordinary alternative to online registration. While individual checkpoints may have contingency procedures, the website provides no official evidence supporting its suggested paper-form exceptions.
 
+Thaitouristvisa.com's long-stay visa guide incorrectly presents late 90-day immigration reporting penalties as automatically accumulating each day. Its reporting section describes a daily fine for missed deadlines, and its checklist repeats that fines accumulate daily.[^27]
+
+Thailand's published immigration guidance instead specifies a 2,000-baht penalty for ordinary late reporting, with a higher fine when an individual is apprehended without having fulfilled the reporting requirement. Separate legal provisions allow additional daily penalties in certain enforcement circumstances, but this does not mean every late report automatically incurs an accumulating daily charge.[^28][^29]
+
+The website's blanket description exaggerates the usual financial consequences of late reporting and fails to distinguish routine administrative penalties from more serious enforcement situations. Accurate information matters to long-stay visitors managing immigration obligations and assessing potential penalties.
+
 ## Privacy Concerns
 
 Thaitouristvisa.com collects sensitive passport information, personal details, travel itineraries, accommodation addresses, and payment information through its commercial TDAC application process. Its Privacy Policy additionally lists account credentials, demographic information, and website usage data among the information it may collect.[^13][^14]
@@ -137,3 +143,6 @@ The complaints reinforce concerns about misleading promotion and payment practic
 [^24]: `https://thailandarrivalcard2025.com/blog/thailand-for-couples-2026`
 [^25]: https://thim.immigration.go.th/privacy-notice
 [^26]: https://lamphun.immigration.go.th/en/the-thailand-digital-arrival-card-tdac-2/
+[^27]: `https://thaitouristvisa.com/blog/thailand-long-stay-options-for-visitors`
+[^28]: https://www.thailand.go.th/public/visit-thailand-detail/001-01-018
+[^29]: https://thaiconsulatela.thaiembassy.org/en/publicservice/foreigners-staying-in-thailand-more-than-90-days
