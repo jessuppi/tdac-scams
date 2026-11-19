@@ -43,6 +43,12 @@ The website also incorrectly claims that every traveler must submit an individua
 
 These inaccuracies misrepresent the capabilities and submission requirements of Thailand's free government system, potentially making the website's paid assistance appear more necessary or convenient than it actually is.
 
+The website's 2026 entry-card guide also claims that completing digital registration at least 72 hours before departure allows travelers to access automated biometric immigration lanes. It describes passport scanning, facial recognition, fingerprint capture, and immigration clearance through automated kiosks as a routine process for pre-registered visitors.[^15]
+
+However, Thailand's Automated Border Control (ABC) system is restricted to eligible travelers. Under Immigration Bureau Order No. 196/2026, access was expanded to travelers from 33 countries and territories, subject to nationality, entry status, and other conditions. The government's TDAC system now informs applicants whether they qualify for automated gates or must use an ordinary immigration counter.[^1][^16]
+
+The website's guidance incorrectly presents early TDAC registration as sufficient to obtain automated immigration clearance. In reality, submitting a TDAC does not guarantee eligibility, and the official registration window is limited to three days before arrival. These claims could lead travelers to purchase commercial assistance expecting immigration benefits that the intermediary cannot provide.
+
 ## Privacy Concerns
 
 Thaitouristvisa.com collects sensitive passport information, personal details, travel itineraries, accommodation addresses, and payment information through its commercial TDAC application process. Its Privacy Policy additionally lists account credentials, demographic information, and website usage data among the information it may collect.[^13][^14]
@@ -77,3 +83,5 @@ These contradictory provisions leave customers uncertain about their refund elig
 [^12]: `https://thaitouristvisa.com/blog/thai-tourist-visa-guide-2026`
 [^13]: `https://thaitouristvisa.com/privacy-policy`
 [^14]: `https://thaitouristvisa.com/application`
+[^15]: `https://thaitouristvisa.com/blog/thailand-entry-card-information-2026`
+[^16]: https://www.thailand.go.th/public/useful-information-detail/travelers-from-33-countries-and-territories-eligible-to-use-thailands-automated-passport-control
