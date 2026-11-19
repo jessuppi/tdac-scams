@@ -2,6 +2,8 @@
 
 Last updated: November 19, 2026
 
+Part of the [Thailand TDAC Scam Tracker](https://github.com/jessuppi/tdac-scams).
+
 ## Misleading Fees
 
 Thaitouristvisa.com charges travelers USD $59.99 for standard Thailand Digital Arrival Card (TDAC) processing, $79.99 for expedited processing within four hours, and $109.99 for premium processing within one hour.[^3][^4] However, Thailand's Immigration Bureau provides TDAC registration completely free of charge through its official government portal at `tdac.immigration.go.th`.[^1]
