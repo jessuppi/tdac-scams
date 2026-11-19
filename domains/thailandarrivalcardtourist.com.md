@@ -2,6 +2,8 @@
 
 Last updated: November 1, 2026
 
+Part of the [Thailand TDAC Scam Tracker](https://github.com/jessuppi/tdac-scams).
+
 > [!NOTE]
 > As of November 1, 2026, `thailandarrivalcardtourist.com` no longer displays its TDAC application service. The domain currently shows a generic page indicating that it may be available for sale. The findings below document the website's previous activities and historical customer complaints.
 
