@@ -2,6 +2,8 @@
 
 Last updated: October 28, 2026
 
+Part of the [Thailand TDAC Scam Tracker](https://github.com/jessuppi/tdac-scams).
+
 > [!NOTE]
 > As of October 28, 2026, the TDAC submission service promoted on agents.co.th is also available through tdac.agents.co.th, which receives visitors redirected from tdac.in.th.
 
