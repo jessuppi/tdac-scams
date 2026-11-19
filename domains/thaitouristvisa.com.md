@@ -79,6 +79,12 @@ Thailand's official TDAC documentation describes collecting accommodation inform
 
 These claims may give travelers an inaccurate understanding of how their information is verified and used after arrival. The absence of publicly documented integrations does not establish that they are nonexistent, but the website provides no official technical evidence supporting its detailed descriptions.
 
+Thaitouristvisa.com's 2026 entry-card guide suggests that smaller and less-frequented land border checkpoints may continue using paper TM.6 arrival cards alongside or instead of digital processing. It specifically contrasts modernized crossings with remote checkpoints where travelers might still encounter paper forms.[^15]
+
+Thailand's Immigration Bureau introduced the mandatory online TDAC system on May 1, 2025, replacing the traditional paper arrival card for non-exempt foreign travelers entering by air, land, or sea. Official guidance does not identify smaller land checkpoints as generally exempt from this requirement.[^1][^26]
+
+The website's description could lead overland travelers to believe that a paper arrival card is an ordinary alternative to online registration. While individual checkpoints may have contingency procedures, the website provides no official evidence supporting its suggested paper-form exceptions.
+
 ## Privacy Concerns
 
 Thaitouristvisa.com collects sensitive passport information, personal details, travel itineraries, accommodation addresses, and payment information through its commercial TDAC application process. Its Privacy Policy additionally lists account credentials, demographic information, and website usage data among the information it may collect.[^13][^14]
@@ -130,3 +136,4 @@ The complaints reinforce concerns about misleading promotion and payment practic
 [^23]: `https://thailandcard2026.com/blog/thailand-visa-and-entry-guide-2026`
 [^24]: `https://thailandarrivalcard2025.com/blog/thailand-for-couples-2026`
 [^25]: https://thim.immigration.go.th/privacy-notice
+[^26]: https://lamphun.immigration.go.th/en/the-thailand-digital-arrival-card-tdac-2/
